@@ -1,0 +1,775 @@
+Year,Month,Date,Site,Depth,Observer,Transect,Quadrat,Functional_Group,Perc_cover
+2020,July,29,Marilyns_cut,30,GGG,1,1,coral,5
+2020,July,29,Marilyns_cut,30,GGG,1,1,macroalgae,10
+2020,July,29,Marilyns_cut,30,GGG,1,1,sand,25
+2020,July,29,Marilyns_cut,30,GGG,1,1,CCA,15
+2020,July,29,Marilyns_cut,30,GGG,1,1,turf,45
+2020,July,29,Marilyns_cut,30,GGG,1,2,coral,2
+2020,July,29,Marilyns_cut,30,GGG,1,2,sand,10
+2020,July,29,Marilyns_cut,30,GGG,1,2,CCA,10
+2020,July,29,Marilyns_cut,30,GGG,1,2,turf,58
+2020,July,29,Marilyns_cut,30,GGG,1,2,macroalgae,20
+2020,July,29,Marilyns_cut,30,GGG,1,3,coral,20
+2020,July,29,Marilyns_cut,30,GGG,1,3,sand,10
+2020,July,29,Marilyns_cut,30,GGG,1,3,CCA,10
+2020,July,29,Marilyns_cut,30,GGG,1,3,turf,45
+2020,July,29,Marilyns_cut,30,GGG,1,3,macroalgae,25
+2020,July,29,Marilyns_cut,30,GGG,1,4,coral,30
+2020,July,29,Marilyns_cut,30,GGG,1,4,sponge,5
+2020,July,29,Marilyns_cut,30,GGG,1,4,CCA,10
+2020,July,29,Marilyns_cut,30,GGG,1,4,sand,5
+2020,July,29,Marilyns_cut,30,GGG,1,4,turf,45
+2020,July,29,Marilyns_cut,30,GGG,1,4,macroalgae,15
+2020,July,29,Marilyns_cut,30,GGG,1,5,coral,15
+2020,July,29,Marilyns_cut,30,GGG,1,5,CCA,15
+2020,July,29,Marilyns_cut,30,GGG,1,5,sand,0
+2020,July,29,Marilyns_cut,30,GGG,1,5,turf,60
+2020,July,29,Marilyns_cut,30,GGG,1,5,macroalgae,10
+2020,July,29,Marilyns_cut,31,MF,1,1,sand,10
+2020,July,29,Marilyns_cut,31,MF,1,1,hard_coral,15
+2020,July,29,Marilyns_cut,31,MF,1,1,macro_algae,25
+2020,July,29,Marilyns_cut,31,MF,1,1,rock_turf_algae,40
+2020,July,29,Marilyns_cut,31,MF,1,2,hard_coral,15
+2020,July,29,Marilyns_cut,31,MF,1,2,crustose_corraline_algae,15
+2020,July,29,Marilyns_cut,31,MF,1,2,macro_algae,60
+2020,July,29,Marilyns_cut,31,MF,1,2,rock_turf_algae,10
+2020,July,29,Marilyns_cut,31,MF,1,3,soft_coral,5
+2020,July,29,Marilyns_cut,31,MF,1,3,hard_coral,30
+2020,July,29,Marilyns_cut,31,MF,1,3,rock_turf_algae,10
+2020,July,29,Marilyns_cut,31,MF,1,3,macro_algae,55
+2020,July,29,Marilyns_cut,31,MF,1,4,sponge,15
+2020,July,29,Marilyns_cut,31,MF,1,4,sand,2
+2020,July,29,Marilyns_cut,31,MF,1,4,hard_coral,10
+2020,July,29,Marilyns_cut,31,MF,1,4,rock_turf_algae,20
+2020,July,29,Marilyns_cut,31,MF,1,4,crustose_corraline_algae,10
+2020,July,29,Marilyns_cut,31,MF,1,4,macro_algae,43
+2020,July,29,Marilyns_cut,31,MF,1,5,hard_coral,10
+2020,July,29,Marilyns_cut,31,MF,1,5,crustose corraline algae,25
+2020,July,29,Marilyns_cut,31,MF,1,5,macro_algae,10
+2020,July,29,Marilyns_cut,31,MF,1,5,rock_turf_algae,55
+2020,July,29,Marilyns_cut,23,MF,2,1,sponge,15
+2020,July,29,Marilyns_cut,23,MF,2,1,hard_coral,10
+2020,July,29,Marilyns_cut,23,MF,2,1,macro_algae,40
+2020,July,29,Marilyns_cut,23,MF,2,1,rock_turf_algae,35
+2020,July,29,Marilyns_cut,23,MF,2,2,hard_coral,55
+2020,July,29,Marilyns_cut,23,MF,2,2,cliona,15
+2020,July,29,Marilyns_cut,23,MF,2,2,rock_turf_algae,15
+2020,July,29,Marilyns_cut,23,MF,2,2,macro_algae,15
+2020,July,29,Marilyns_cut,23,MF,2,3,rock_turf_algae,80
+2020,July,29,Marilyns_cut,23,MF,2,3,macro_algae,10
+2020,July,29,Marilyns_cut,23,MF,2,3,hard_coral,5
+2020,July,29,Marilyns_cut,23,MF,2,3,soft_coral,5
+2020,July,29,Marilyns_cut,23,MF,2,4,hard_coral,10
+2020,July,29,Marilyns_cut,23,MF,2,4,cliona,15
+2020,July,29,Marilyns_cut,23,MF,2,4,crustose_corraline_algae,20
+2020,July,29,Marilyns_cut,23,MF,2,4,rock_turf_algae,25
+2020,July,29,Marilyns_cut,23,MF,2,4,sand,5
+2020,July,29,Marilyns_cut,23,MF,2,4,macro_algae,25
+2020,July,29,Marilyns_cut,23,MF,2,5,sponge,5
+2020,July,29,Marilyns_cut,23,MF,2,5,hard_coral,5
+2020,July,29,Marilyns_cut,23,MF,2,5,rock_turf_algae,50
+2020,July,29,Marilyns_cut,23,MF,2,5,macro_algae,40
+2020,July,29,Marthas,43,MF,1,1,hard_coral,70
+2020,July,29,Marthas,43,MF,1,1,soft_coral,2
+2020,July,29,Marthas,43,MF,1,1,sponge,2
+2020,July,29,Marthas,43,MF,1,1,macro_algae,20
+2020,July,29,Marthas,43,MF,1,1,rock_turf_algae,6
+2020,July,29,Marthas,43,MF,1,2,hard_coral,35
+2020,July,29,Marthas,43,MF,1,2,rock_turf_algae,25
+2020,July,29,Marthas,43,MF,1,2,crustose_corraline_algae,15
+2020,July,29,Marthas,43,MF,1,2,macro_algae,20
+2020,July,29,Marthas,43,MF,1,2,sand,15
+2020,July,29,Marthas,43,MF,1,3,hard_coral,75
+2020,July,29,Marthas,43,MF,1,3,macro_algae,25
+2020,July,29,Marthas,43,MF,1,4,soft_coral,5
+2020,July,29,Marthas,43,MF,1,4,hard_coral,10
+2020,July,29,Marthas,43,MF,1,4,sand,10
+2020,July,29,Marthas,43,MF,1,4,crustose_corraline_algae,10
+2020,July,29,Marthas,43,MF,1,4,macro_algae,65
+2020,July,29,Marthas,43,MF,1,5,hard_coral,10
+2020,July,29,Marthas,43,MF,1,5,crustose_corraline_algae,5
+2020,July,29,Marthas,43,MF,1,5,rock_turf_algae,5
+2020,July,29,Marthas,43,MF,1,5,macro_algae,75
+2020,July,29,Marthas,43,MF,2,1,hard_coral,15
+2020,July,29,Marthas,43,MF,2,1,soft_coral,5
+2020,July,29,Marthas,43,MF,2,1,crustose_corraline_algae,10
+2020,July,29,Marthas,43,MF,2,1,sand,10
+2020,July,29,Marthas,43,MF,2,1,macro_algae,60
+2020,July,29,Marthas,43,MF,2,2,soft_coral,5
+2020,July,29,Marthas,43,MF,2,2,hard_coral,60
+2020,July,29,Marthas,43,MF,2,2,sand,5
+2020,July,29,Marthas,43,MF,2,2,crustose_corraline_algae,10
+2020,July,29,Marthas,43,MF,2,2,macro_algae,20
+2020,July,29,Marthas,43,MF,2,3,hard_coral,5
+2020,July,29,Marthas,43,MF,2,3,sand,30
+2020,July,29,Marthas,43,MF,2,3,crustose_corraline_algae,35
+2020,July,29,Marthas,43,MF,2,3,macro_algae,30
+2020,July,29,Marthas,43,MF,2,4,hard_coral,60
+2020,July,29,Marthas,43,MF,2,4,soft_coral,10
+2020,July,29,Marthas,43,MF,2,4,macro_algae,25
+2020,July,29,Marthas,43,MF,2,4,sand,5
+2020,July,29,Marthas,43,MF,2,5,hard_coral,20
+2020,July,29,Marthas,43,MF,2,5,sand,10
+2020,July,29,Marthas,43,MF,2,5,soft_coral,10
+2020,July,29,Marthas,43,MF,2,5,crustose_corraline_algae,5
+2020,July,29,Marthas,43,MF,2,5,macro_algae,55
+2020,July,27,Coral City,42,GGG,1,1,coral,10
+2020,July,27,Coral City,42,GGG,1,1,crustose_corraline_algae,25
+2020,July,27,Coral City,42,GGG,1,1,sand,15
+2020,July,27,Coral City,42,GGG,1,1,macro_algae,40
+2020,July,27,Coral City,42,GGG,1,1,rock_turf_algae,10
+2020,July,27,Coral City,42,GGG,1,2,coral,40
+2020,July,27,Coral City,42,GGG,1,2,sand,5
+2020,July,27,Coral City,42,GGG,1,2,crustose_corraline_algae,5
+2020,July,27,Coral City,42,GGG,1,2,rock_turf_algae,10
+2020,July,27,Coral City,42,GGG,1,2,macro_algae,40
+2020,July,27,Coral City,42,GGG,1,3,coral,60
+2020,July,27,Coral City,42,GGG,1,3,crustose_corraline_algae,10
+2020,July,27,Coral City,42,GGG,1,3,sand,0
+2020,July,27,Coral City,42,GGG,1,3,rock_turf_algae,10
+2020,July,27,Coral City,42,GGG,1,3,macro_algae,20
+2020,July,27,Coral City,42,GGG,1,4,coral,80
+2020,July,27,Coral City,42,GGG,1,4,macro_algae,10
+2020,July,27,Coral City,42,GGG,1,4,rock_turf_algae,10
+2020,July,27,Coral City,42,GGG,1,5,coral,5
+2020,July,27,Coral City,42,GGG,1,5,crustose_corraline_algae,45
+2020,July,27,Coral City,42,GGG,1,5,rock_turf_algae,20
+2020,July,27,Coral City,42,GGG,1,5,macro_algae,30
+2020,July,27,Coral City,42,GGG,1,6,coral,70
+2020,July,27,Coral City,42,GGG,1,6,crustose_corraline_algae,15
+2020,July,27,Coral City,42,GGG,1,6,macro_algae,15
+2020,July,27,Coral City,42,GGG,2,1,coral,10
+2020,July,27,Coral City,42,GGG,2,1,crustose_corraline_algae,30
+2020,July,27,Coral City,42,GGG,2,1,macro_algae,50
+2020,July,27,Coral City,42,GGG,2,1,rock_turf_algae,10
+2020,July,27,Coral City,42,GGG,2,2,coral,25
+2020,July,27,Coral City,42,GGG,2,2,crustose_corraline_algae,10
+2020,July,27,Coral City,42,GGG,2,2,rock_turf_algae,15
+2020,July,27,Coral City,42,GGG,2,2,macro_algae,40
+2020,July,27,Coral City,42,GGG,2,2,sand,10
+2020,July,27,Coral City,42,GGG,2,3,coral,35
+2020,July,27,Coral City,42,GGG,2,3,sand,10
+2020,July,27,Coral City,42,GGG,2,3,crustose_corraline_algae,20
+2020,July,27,Coral City,42,GGG,2,3,rock_turf_algae,5
+2020,July,27,Coral City,42,GGG,2,3,macro_algae,30
+2020,July,27,Coral City,42,GGG,2,4,coral,50
+2020,July,27,Coral City,42,GGG,2,4,crustose_corraline_algae,10
+2020,July,27,Coral City,42,GGG,2,4,rock_turf_algae,10
+2020,July,27,Coral City,42,GGG,2,4,macro_algae,20
+2020,July,27,Coral City,42,GGG,2,5,coral,45
+2020,July,27,Coral City,42,GGG,2,5,rock_turf_algae,10
+2020,July,27,Coral City,42,GGG,2,5,macro_algae,30
+2020,July,27,Coral City,42,GGG,2,5,rock_turf_algae,15
+2020,July,28,Jigsaw,43,MF,1,1,sand,15
+2020,July,28,Jigsaw,43,MF,1,1,hard_coral,10
+2020,July,28,Jigsaw,43,MF,1,1,macro_algae,15
+2020,July,28,Jigsaw,43,MF,1,1,rock_turf_algae,60
+2020,July,28,Jigsaw,43,MF,1,2,sponge,5
+2020,July,28,Jigsaw,43,MF,1,2,hard_coral,30
+2020,July,28,Jigsaw,43,MF,1,2,soft_coral,5
+2020,July,28,Jigsaw,43,MF,1,2,macro_algae,25
+2020,July,28,Jigsaw,43,MF,1,2,rock_turf_algae,35
+2020,July,28,Jigsaw,43,MF,1,3,hard_coral,25
+2020,July,28,Jigsaw,43,MF,1,3,sand,20
+2020,July,28,Jigsaw,43,MF,1,3,macro_algae,30
+2020,July,28,Jigsaw,43,MF,1,3,crustose_corraline_algae,20
+2020,July,28,Jigsaw,43,MF,1,3,rock_turf_algae,5
+2020,July,28,Jigsaw,43,MF,1,4,hard_coral,15
+2020,July,28,Jigsaw,43,MF,1,4,soft_coral,5
+2020,July,28,Jigsaw,43,MF,1,4,crustose_corraline_algae,10
+2020,July,28,Jigsaw,43,MF,1,4,sand,10
+2020,July,28,Jigsaw,43,MF,1,4,macro_algae,60
+2020,July,28,Jigsaw,43,MF,1,5,sand,10
+2020,July,28,Jigsaw,43,MF,1,5,sponge,10
+2020,July,28,Jigsaw,43,MF,1,5,soft_coral,5
+2020,July,28,Jigsaw,43,MF,1,5,hard_coral,5
+2020,July,28,Jigsaw,43,MF,1,5,macro_algae,15
+2020,July,28,Jigsaw,33,MF,2,1,hard_coral,15
+2020,July,28,Jigsaw,33,MF,2,1,soft_coral,5
+2020,July,28,Jigsaw,33,MF,2,1,rock_turf_algae,20
+2020,July,28,Jigsaw,33,MF,2,1,macro_algae,60
+2020,July,28,Jigsaw,33,MF,2,2,soft_coral,5
+2020,July,28,Jigsaw,33,MF,2,2,hard_coral,10
+2020,July,28,Jigsaw,33,MF,2,2,macro_algae,25
+2020,July,28,Jigsaw,33,MF,2,2,rock_turf_algae,60
+2020,July,28,Jigsaw,33,MF,2,3,sponge,10
+2020,July,28,Jigsaw,33,MF,2,3,hard_coral,10
+2020,July,28,Jigsaw,33,MF,2,3,macro_algae,30
+2020,July,28,Jigsaw,33,MF,2,3,rock_turf_algae,60
+2020,July,28,Jigsaw,33,MF,2,4,sponge,5
+2020,July,28,Jigsaw,33,MF,2,4,hard_coral,10
+2020,July,28,Jigsaw,33,MF,2,4,macro_algae,20
+2020,July,28,Jigsaw,33,MF,2,4,rock_turf_algae,65
+2020,July,28,Jigsaw,33,MF,2,5,hard_coral,30
+2020,July,28,Jigsaw,33,MF,2,5,soft_coral,5
+2020,July,28,Jigsaw,33,MF,2,5,macro_algae,25
+2020,July,28,Jigsaw,33,MF,2,5,rock_turf_algae,40
+2020,July,27,Coral City,45,MF,1,1,macro_algae,30
+2020,July,27,Coral City,45,MF,1,1,hard_coral,10
+2020,July,27,Coral City,45,MF,1,1,soft_coral,10
+2020,July,27,Coral City,45,MF,1,1,crustose_corraline_algae,5
+2020,July,27,Coral City,45,MF,1,1,rock_turf_algae,45
+2020,July,27,Coral City,45,MF,1,2,hard_coral,30
+2020,July,27,Coral City,45,MF,1,2,macro_algae,30
+2020,July,27,Coral City,45,MF,1,2,crustose_corraline_algae,10
+2020,July,27,Coral City,45,MF,1,2,rock_turf_algae,30
+2020,July,27,Coral City,45,MF,1,3,macro_algae,20
+2020,July,27,Coral City,45,MF,1,3,hard_coral,10
+2020,July,27,Coral City,45,MF,1,3,rock_turf_algae,70
+2020,July,27,Coral City,45,MF,1,4,soft_coral,10
+2020,July,27,Coral City,45,MF,1,4,hard_coral,5
+2020,July,27,Coral City,45,MF,1,4,crustose_corraline_algae,10
+2020,July,27,Coral City,45,MF,1,4,macro_algae,20
+2020,July,27,Coral City,45,MF,1,4,rock_turf_algae,55
+2020,July,27,Coral City,45,MF,1,5,macro_algae,35
+2020,July,27,Coral City,45,MF,1,5,hard_coral,15
+2020,July,27,Coral City,45,MF,1,5,crustose_corraline_algae,15
+2020,July,27,Coral City,45,MF,1,5,rock_turf_algae,35
+2020,July,27,Coral City,45,MF,2,1,macro_algae,70
+2020,July,27,Coral City,45,MF,2,1,hard_coral,15
+2020,July,27,Coral City,45,MF,2,1,rock_turf_algae,15
+2020,July,27,Coral City,45,MF,2,2,hard_coral,5
+2020,July,27,Coral City,45,MF,2,2,soft_coral,5
+2020,July,27,Coral City,45,MF,2,2,macro_algae,40
+2020,July,27,Coral City,45,MF,2,2,rock_turf_algae,50
+2020,July,27,Coral City,45,MF,2,3,sand,70
+2020,July,27,Coral City,45,MF,2,3,macro_algae,15
+2020,July,27,Coral City,45,MF,2,3,hard_coral,15
+2020,July,27,Coral City,45,MF,2,4,hard_coral,30
+2020,July,27,Coral City,45,MF,2,4,sand,20
+2020,July,27,Coral City,45,MF,2,4,soft_coral,5
+2020,July,27,Coral City,45,MF,2,4,macro_algae,40
+2020,July,27,Coral City,45,MF,2,4,rock_turf_algae,5
+2020,July,27,Coral City,45,MF,2,5,hard_coral,95
+2020,July,27,Coral City,45,MF,2,5,macro_algae,5
+2020,July,28,Jigsaw,41,GGG,1,1,coral,60
+2020,July,28,Jigsaw,41,GGG,1,1,crustose_corraline_algae,10
+2020,July,28,Jigsaw,41,GGG,1,1,macro_algae,20
+2020,July,28,Jigsaw,41,GGG,1,1,rock_turf_algae,10
+2020,July,28,Jigsaw,41,GGG,1,2,coral,15
+2020,July,28,Jigsaw,41,GGG,1,2,crustose_corraline_algae,20
+2020,July,28,Jigsaw,41,GGG,1,2,macro_algae,15
+2020,July,28,Jigsaw,41,GGG,1,2,rock_turf_algae,50
+2020,July,28,Jigsaw,41,GGG,1,3,coral,5
+2020,July,28,Jigsaw,41,GGG,1,3,sand,30
+2020,July,28,Jigsaw,41,GGG,1,3,macro_algae,10
+2020,July,28,Jigsaw,41,GGG,1,3,rock_turf_algae,40
+2020,July,28,Jigsaw,41,GGG,1,3,crustose_corraline_algae,15
+2020,July,28,Jigsaw,41,GGG,1,4,coral,18
+2020,July,28,Jigsaw,41,GGG,1,4,sand,5
+2020,July,28,Jigsaw,41,GGG,1,4,crustose_corraline_algae,10
+2020,July,28,Jigsaw,41,GGG,1,4,macro_algae,10
+2020,July,28,Jigsaw,41,GGG,1,4,rock_turf_algae,57
+2020,July,28,Jigsaw,41,GGG,1,5,coral,5
+2020,July,28,Jigsaw,41,GGG,1,5,sand,15
+2020,July,28,Jigsaw,41,GGG,1,5,crustose_corraline_algae,15
+2020,July,28,Jigsaw,41,GGG,1,5,macro_algae,15
+2020,July,28,Jigsaw,41,GGG,1,5,rock_turf_algae,50
+2020,July,28,Jigsaw,35,GGG,2,1,coral,5
+2020,July,28,Jigsaw,35,GGG,2,1,sand,60
+2020,July,28,Jigsaw,35,GGG,2,1,rock_turf_algae,40
+2020,July,28,Jigsaw,35,GGG,2,1,macro_algae,5
+2020,July,28,Jigsaw,35,GGG,2,2,coral,45
+2020,July,28,Jigsaw,35,GGG,2,2,crustose_corraline_algae,5
+2020,July,28,Jigsaw,35,GGG,2,2,sand,20
+2020,July,28,Jigsaw,35,GGG,2,2,macro_algae,15
+2020,July,28,Jigsaw,35,GGG,2,2,rock_turf_algae,15
+2020,July,28,Jigsaw,35,GGG,2,3,coral,45
+2020,July,28,Jigsaw,35,GGG,2,3,crustose_corraline_algae,10
+2020,July,28,Jigsaw,35,GGG,2,3,macro_algae,20
+2020,July,28,Jigsaw,35,GGG,2,3,rock_turf_algae,25
+2020,July,28,Jigsaw,35,GGG,2,4,crustose_corraline_algae,20
+2020,July,28,Jigsaw,35,GGG,2,4,coral,35
+2020,July,28,Jigsaw,35,GGG,2,4,rock_turf_algae,25
+2020,July,28,Jigsaw,35,GGG,2,4,macro_algae,20
+2020,July,28,Jigsaw,35,GGG,2,5,coral,30
+2020,July,28,Jigsaw,35,GGG,2,5,crustose_corraline_algae,30
+2020,July,28,Jigsaw,35,GGG,2,5,macro_algae,20
+2020,July,28,Jigsaw,35,GGG,2,5,rock_turf_algae,20
+2020,July,29,Marthas,51,GGG,1,1,coral,25
+2020,July,29,Marthas,51,GGG,1,1,crustose_corraline_algae,20
+2020,July,29,Marthas,51,GGG,1,1,rock_turf_algae,25
+2020,July,29,Marthas,51,GGG,1,1,macro_algae,30
+2020,July,29,Marthas,51,GGG,1,2,coral,10
+2020,July,29,Marthas,51,GGG,1,2,crustose_corraline_algae,15
+2020,July,29,Marthas,51,GGG,1,2,sponge,5
+2020,July,29,Marthas,51,GGG,1,2,rock_turf_algae,40
+2020,July,29,Marthas,51,GGG,1,2,macro_algae,30
+2020,July,29,Marthas,51,GGG,1,3,coral,15
+2020,July,29,Marthas,51,GGG,1,3,crustose_corraline_algae,15
+2020,July,29,Marthas,51,GGG,1,3,rock_turf_algae,30
+2020,July,29,Marthas,51,GGG,1,3,macro_algae,40
+2020,July,29,Marthas,51,GGG,1,4,coral,35
+2020,July,29,Marthas,51,GGG,1,4,crustose_corraline_algae,25
+2020,July,29,Marthas,51,GGG,1,4,rock_turf_algae,15
+2020,July,29,Marthas,51,GGG,1,4,macro_algae,30
+2020,July,29,Marthas,51,GGG,1,5,coral,70
+2020,July,29,Marthas,51,GGG,1,5,crustose_corraline_algae,15
+2020,July,29,Marthas,51,GGG,1,5,rock_turf_algae,5
+2020,July,29,Marthas,51,GGG,1,5,macro_algae,10
+2020,July,29,Marthas,51,GGG,2,1,coral,60
+2020,July,29,Marthas,51,GGG,2,1,crustose_corraline_algae,5
+2020,July,29,Marthas,51,GGG,2,1,sand,10
+2020,July,29,Marthas,51,GGG,2,1,rock_turf_algae,10
+2020,July,29,Marthas,51,GGG,2,1,macro_algae,15
+2020,July,29,Marthas,51,GGG,2,2,coral,25
+2020,July,29,Marthas,51,GGG,2,2,crustose_corraline_algae,25
+2020,July,29,Marthas,51,GGG,2,2,rock_turf_algae,10
+2020,July,29,Marthas,51,GGG,2,2,macro_algae,40
+2020,July,29,Marthas,51,GGG,2,3,coral,40
+2020,July,29,Marthas,51,GGG,2,3,crustose_corraline_algae,10
+2020,July,29,Marthas,51,GGG,2,3,rock_turf_algae,15
+2020,July,29,Marthas,51,GGG,2,3,sand,10
+2020,July,29,Marthas,51,GGG,2,3,macro_algae,25
+2020,July,29,Marthas,51,GGG,2,4,coral,70
+2020,July,29,Marthas,51,GGG,2,4,rock_turf_algae,5
+2020,July,29,Marthas,51,GGG,2,4,crustose_corraline_algae,10
+2020,July,29,Marthas,51,GGG,2,4,macro_algae,15
+2020,July,29,Marthas,51,GGG,2,5,coral,10
+2020,July,29,Marthas,51,GGG,2,5,macro_algae,70
+2020,July,29,Marthas,51,GGG,2,5,crustose_corraline_algae,10
+2020,July,29,Marthas,51,GGG,2,5,rock_turf_algae,10
+2020,August,2,Marilyn's Cut,29,GGG,2,1,coral,18
+2020,August,2,Marilyn's Cut,29,GGG,2,1,crustose_corraline_algae,27
+2020,August,2,Marilyn's Cut,29,GGG,2,1,macro_algae,15
+2020,August,2,Marilyn's Cut,29,GGG,2,1,rock_turf_algae,40
+2020,August,2,Marilyn's Cut,29,GGG,2,2,coral,25
+2020,August,2,Marilyn's Cut,29,GGG,2,2,crustose_corraline_algae,15
+2020,August,2,Marilyn's Cut,29,GGG,2,2,macro_algae,25
+2020,August,2,Marilyn's Cut,29,GGG,2,2,rock_turf_algae,35
+2020,August,2,Marilyn's Cut,29,GGG,2,3,coral,8
+2020,August,2,Marilyn's Cut,29,GGG,2,3,crustose_corraline_algae,10
+2020,August,2,Marilyn's Cut,29,GGG,2,3,macro_algae,10
+2020,August,2,Marilyn's Cut,29,GGG,2,3,rock_turf_algae,72
+2020,August,2,Marilyn's Cut,29,GGG,2,4,coral,18
+2020,August,2,Marilyn's Cut,29,GGG,2,4,crustose_corraline_algae,22
+2020,August,2,Marilyn's Cut,29,GGG,2,4,macro_algae,45
+2020,August,2,Marilyn's Cut,29,GGG,2,4,rock_turf_algae,15
+2020,August,2,Marilyn's Cut,29,GGG,2,5,coral,10
+2020,August,2,Marilyn's Cut,29,GGG,2,5,crustose_corraline_algae,15
+2020,August,2,Marilyn's Cut,29,GGG,2,5,macro_algae,10
+2020,August,2,Marilyn's Cut,29,GGG,2,5,rock_turf_algae,65
+2020,August ,2,Meadows,36,GGG,1,1,coral,35
+2020,August ,2,Meadows,36,GGG,1,1,macro_algae,5
+2020,August,2,Meadows,36,GGG,1,1,crustose_corraline_algae,5
+2020,August,2,Meadows,36,GGG,1,1,rock_turf_algae,55
+2020,August,2,Meadows,36,GGG,1,2,macro_algae,5
+2020,August,2,Meadows,36,GGG,1,2,crustose_corraline_algae,15
+2020,August,2,Meadows,36,GGG,1,2,rock_turf_algae,85
+2020,August,2,Meadows,36,GGG,1,3,coral,2
+2020,August,2,Meadows,36,GGG,1,3,macro_algae,13
+2020,August,2,Meadows,36,GGG,1,3,crustose_corraline_algae,5
+2020,August,2,Meadows,36,GGG,1,3,rock_turf_algae,80
+2020,August,2,Meadows,36,GGG,1,4,coral,10
+2020,August,2,Meadows,36,GGG,1,4,sponge,10
+2020,August,2,Meadows,36,GGG,1,4,macro_algae,10
+2020,August,2,Meadows,36,GGG,1,4,crustose_corraline_algae,5
+2020,August,2,Meadows,36,GGG,1,4,rock_turf_algae,65
+2020,August,2,Meadows,36,GGG,1,5,coral,80
+2020,August,2,Meadows,36,GGG,1,5,macro_algae,5
+2020,August,2,Meadows,36,GGG,1,5,crustose_corraline_algae,5
+2020,August,2,Meadows,36,GGG,1,5,rock_turf_algae,10
+2020,August,2,Meadows,39,GGG,2,1,coral,15
+2020,August,2,Meadows,39,GGG,2,1,macro_algae,5
+2020,August,2,Meadows,39,GGG,2,1,crustose_corraline_algae,10
+2020,August,2,Meadows,39,GGG,2,1,rock_turf_algae,70
+2020,August,2,Meadows,39,GGG,2,2,coral,15
+2020,August,2,Meadows,39,GGG,2,2,crustose_corraline_algae,20
+2020,August,2,Meadows,39,GGG,2,2,macro_algae,5
+2020,August,2,Meadows,39,GGG,2,2,rock_turf_algae,60
+2020,August,2,Meadows,39,GGG,2,3,coral,15
+2020,August,2,Meadows,39,GGG,2,3,crustose_corraline_algae,10
+2020,August,2,Meadows,39,GGG,2,3,macro_algae,5
+2020,August,2,Meadows,39,GGG,2,3,rock_turf_algae,70
+2020,August,2,Meadows,39,GGG,2,4,coral,40
+2020,August,2,Meadows,39,GGG,2,4,crustose_corraline_algae,10
+2020,August,2,Meadows,39,GGG,2,4,macro_algae,2
+2020,August,2,Meadows,39,GGG,2,4,rock_turf_algae,48
+2020,August,2,Meadows,39,GGG,2,5,coral,35
+2020,August,2,Meadows,39,GGG,2,5,crustose_corraline_algae,5
+2020,August,2,Meadows,39,GGG,2,5,macro_algae,5
+2020,August,2,Meadows,39,GGG,2,5,rock_turf_algae,55
+2020,August ,2,Paul's Anchor,44,GGG,1,1,coral,40
+2020,August ,2,Paul's Anchor,44,GGG,1,1,crustose_corraline_algae,15
+2020,August ,2,Paul's Anchor,44,GGG,1,1,rock_turf_algae,20
+2020,August,2,Paul's Anchor,44,GGG,1,1,macro_algae,25
+2020,August,2,Paul's Anchor,44,GGG,1,2,coral,35
+2020,August,2,Paul's Anchor,44,GGG,1,2,crustose_corraline_algae,15
+2020,August,2,Paul's Anchor,44,GGG,1,2,rock_turf_algae,25
+2020,August,2,Paul's Anchor,44,GGG,1,2,macro_algae,25
+2020,August,2,Paul's Anchor,44,GGG,1,3,coral,25
+2020,August,2,Paul's Anchor,44,GGG,1,3,rock_turf_algae,40
+2020,August,2,Paul's Anchor,44,GGG,1,3,crustose_corraline_algae,15
+2020,August,2,Paul's Anchor,44,GGG,1,3,macro_algae,20
+2020,August,2,Paul's Anchor,44,GGG,1,4,coral,18
+2020,August,2,Paul's Anchor,44,GGG,1,4,crustose_corraline_algae,5
+2020,August,2,Paul's Anchor,44,GGG,1,4,macro_algae,12
+2020,August,2,Paul's Anchor,44,GGG,1,4,rock_turf_algae,65
+2020,August,2,Paul's Anchor,44,GGG,1,5,coral,15
+2020,August,2,Paul's Anchor,44,GGG,1,5,rock_turf_algae,65
+2020,August,2,Paul's Anchor,44,GGG,1,5,crustose_corraline_algae,10
+2020,August,2,Paul's Anchor,44,GGG,1,5,macro_algae,10
+2020,August,2,Paul's Anchor,52,GGG,2,1,coral,5
+2020,August,2,Paul's Anchor,52,GGG,2,1,rock_turf_algae,65
+2020,August,2,Paul's Anchor,52,GGG,2,1,crustose_corraline_algae,30
+2020,August,2,Paul's Anchor,52,GGG,2,1,macro_algae,10
+2020,August,2,Paul's Anchor,52,GGG,2,2,coral,5
+2020,August,2,Paul's Anchor,52,GGG,2,2,crustose_corraline_algae,15
+2020,August,2,Paul's Anchor,52,GGG,2,2,macro_algae,20
+2020,August,2,Paul's Anchor,52,GGG,2,2,rock_turf_algae,60
+2020,August,2,Paul's Anchor,52,GGG,2,3,coral,10
+2020,August,2,Paul's Anchor,52,GGG,2,3,sand,20
+2020,August,2,Paul's Anchor,52,GGG,2,3,rock_turf_algae,45
+2020,August,2,Paul's Anchor,52,GGG,2,3,crustose_corraline_algae,15
+2020,August,2,Paul's Anchor,52,GGG,2,3,macro_algae,10
+2020,August,2,Paul's Anchor,52,GGG,2,4,coral,20
+2020,August,2,Paul's Anchor,52,GGG,2,4,crustose_corraline_algae,20
+2020,August,2,Paul's Anchor,52,GGG,2,4,macro_algae,20
+2020,August,2,Paul's Anchor,52,GGG,2,4,sand,10
+2020,August,2,Paul's Anchor,52,GGG,2,4,rock_turf_algae,30
+2020,August,2,Paul's Anchor,52,GGG,2,5,coral,12
+2020,August,2,Paul's Anchor,52,GGG,2,5,crustose_corraline_algae,18
+2020,August,2,Paul's Anchor,52,GGG,2,5,macro_algae,20
+2020,August,2,Paul's Anchor,52,GGG,2,5,rock_turf_algae,50
+2020,July,27,Grundys,28,MF,1,1,macro_algae,80
+2020,July,27,Grundys,28,MF,1,1,hard_coral,2
+2020,July,27,Grundys,28,MF,1,1,crustose_corraline_algae,5
+2020,July,27,Grundys,28,MF,1,1,rock_turf_algae,13
+2020,July,27,Grundys,28,MF,1,2,macro_algae,85
+2020,July,27,Grundys,28,MF,1,2,hard_coral,5
+2020,July,27,Grundys,28,MF,1,2,rock_turf_algae,10
+2020,July,27,Grundys,28,MF,1,3,rock_turf_algae,20
+2020,July,27,Grundys,28,MF,1,3,macro_algae,60
+2020,July,27,Grundys,28,MF,1,3,crustose_corraline_algae,20
+2020,July,27,Grundys,28,MF,1,4,hard_coral,30
+2020,July,27,Grundys,28,MF,1,4,crustose_corraline_algae,10
+2020,July,27,Grundys,28,MF,1,4,macro_algae,61
+2020,July,27,Grundys,28,MF,1,5,sponge,2
+2020,July,27,Grundys,28,MF,1,5,hard_coral,10
+2020,July,27,Grundys,28,MF,1,5,rock_turf_algae,40
+2020,July,27,Grundys,28,MF,1,5,macro_algae,47
+2020,July,27,Grundys,28,MF,2,1,hard_coral,25
+2020,July,27,Grundys,28,MF,2,1,crustose_corraline_algae,5
+2020,July,27,Grundys,28,MF,2,1,macro_algae,70
+2020,July,27,Grundys,28,MF,2,2,crustose_corraline_algae,25
+2020,July,27,Grundys,28,MF,2,2,macro_algae,60
+2020,July,27,Grundys,28,MF,2,2,rock_turf_algae,5
+2020,July,27,Grundys,28,MF,2,3,hard_coral,5
+2020,July,27,Grundys,28,MF,2,3,crustose_corraline_algae,15
+2020,July,27,Grundys,28,MF,2,3,rock_turf_algae,10
+2020,July,27,Grundys,28,MF,2,3,macro_algae,70
+2020,July,27,Grundys,28,MF,2,4,soft_coral,5
+2020,July,27,Grundys,28,MF,2,4,hard_coral,10
+2020,July,27,Grundys,28,MF,2,4,crustose_corraline_algae,5
+2020,July,27,Grundys,28,MF,2,4,macro_algae,80
+2020,July,27,Grundys,28,MF,2,5,hard_coral,10
+2020,July,27,Grundys,28,MF,2,5,soft_coral,15
+2020,July,27,Grundys,28,MF,2,5,macro_algae,40
+2020,July,27,Grundys,28,MF,2,5,rock_turf_algae,45
+2020,July,27,Grundys,25,GGG,1,1,coral,5
+2020,July,27,Grundys,25,GGG,1,1,crustose_corraline_algae,20
+2020,July,27,Grundys,25,GGG,1,1,rock_turf_algae,20
+2020,July,27,Grundys,25,GGG,1,1,macro_algae,65
+2020,July,27,Grundys,25,GGG,1,2,coral,5
+2020,July,27,Grundys,25,GGG,1,2,crustose_corraline_algae,30
+2020,July,27,Grundys,25,GGG,1,2,macro_algae,65
+2020,July,27,Grundys,25,GGG,1,3,coral,5
+2020,July,27,Grundys,25,GGG,1,3,macro_algae,5
+2020,July,27,Grundys,25,GGG,1,3,crustose_corraline_algae,90
+2020,July,27,Grundys,25,GGG,1,4,coral,15
+2020,July,27,Grundys,25,GGG,1,4,macro_algae,40
+2020,July,27,Grundys,25,GGG,1,4,crustose_corraline_algae,45
+2020,July,27,Grundys,25,GGG,1,5,coral,15
+2020,July,27,Grundys,25,GGG,1,5,sand,5
+2020,July,27,Grundys,25,GGG,1,5,rock_turf_algae,10
+2020,July,27,Grundys,25,GGG,1,5,crustose_corraline_algae,10
+2020,July,27,Grundys,25,GGG,1,5,macro_algae,60
+2020,July,27,Grundys,28,GGG,2,1,coral,75
+2020,July,27,Grundys,28,GGG,2,1,rock_turf_algae,15
+2020,July,27,Grundys,28,GGG,2,1,macro_algae,10
+2020,July,27,Grundys,28,GGG,2,1,sand,5
+2020,July,27,Grundys,28,GGG,2,2,coral,35
+2020,July,27,Grundys,28,GGG,2,2,macro_algae,45
+2020,July,27,Grundys,28,GGG,2,2,rock_turf_algae,15
+2020,July,27,Grundys,28,GGG,2,2,crustose_corraline_algae,5
+2020,July,27,Grundys,28,GGG,2,3,coral,15
+2020,July,27,Grundys,28,GGG,2,3,rock_turf_algae,30
+2020,July,27,Grundys,28,GGG,2,3,sand,5
+2020,July,27,Grundys,28,GGG,2,3,macro_algae,50
+2020,July,27,Grundys,28,GGG,2,4,coral,5
+2020,July,27,Grundys,28,GGG,2,4,rock_turf_algae,40
+2020,July,27,Grundys,28,GGG,2,4,macro_algae,55
+2020,July,27,Grundys,28,GGG,2,5,macro_algae,75
+2020,July,27,Grundys,28,GGG,2,5,rock_turf_algae,15
+2020,July,27,Grundys,28,GGG,2,5,crustose_corraline_algae,10
+2020,August,3,Sailfin,30,GGG,1,1,coral,35
+2020,August,3,Sailfin,30,GGG,1,1,crustose_corraline_algae,15
+2020,August,3,Sailfin,30,GGG,1,1,sand,3
+2020,August,3,Sailfin,30,GGG,1,1,sponge,2
+2020,August,3,Sailfin,30,GGG,1,1,macro_algae,20
+2020,August,3,Sailfin,30,GGG,1,1,rock_turf_algae,25
+2020,August,3,Sailfin,30,GGG,1,2,coral,8
+2020,August,3,Sailfin,30,GGG,1,2,sand,12
+2020,August,3,Sailfin,30,GGG,1,2,crustose_corraline_algae,25
+2020,August,3,Sailfin,30,GGG,1,2,macro_algae,10
+2020,August,3,Sailfin,30,GGG,1,2,rock_turf_algae,45
+2020,August,3,Sailfin,30,GGG,1,3,coral,3
+2020,August,3,Sailfin,30,GGG,1,3,macro_algae,10
+2020,August,3,Sailfin,30,GGG,1,3,crustose_corraline_algae,60
+2020,August,3,Sailfin,30,GGG,1,3,rock_turf_algae,27
+2020,August,3,Sailfin,30,GGG,1,4,coral,3
+2020,August,3,Sailfin,30,GGG,1,4,sand,12
+2020,August,3,Sailfin,30,GGG,1,4,macro_algae,10
+2020,August,3,Sailfin,30,GGG,1,4,rock_turf_algae,55
+2020,August,3,Sailfin,30,GGG,1,4,crustose_corraline_algae,20
+2020,August,3,Sailfin,30,GGG,1,5,coral,15
+2020,August,3,Sailfin,30,GGG,1,5,crustose_corraline_algae,20
+2020,August,3,Sailfin,30,GGG,1,5,macro_algae,15
+2020,August,3,Sailfin,30,GGG,1,5,rock_turf_algae,50
+2020,August,3,Sailfin,30,GGG,2,1,coral,12
+2020,August,3,Sailfin,30,GGG,2,1,macro_algae,3
+2020,August,3,Sailfin,30,GGG,2,1,crustose_corraline_algae,30
+2020,August,3,Sailfin,30,GGG,2,1,rock_turf_algae,65
+2020,August,3,Sailfin,30,GGG,2,2,coral,15
+2020,August,3,Sailfin,30,GGG,2,2,crustose_corraline_algae,15
+2020,August,3,Sailfin,30,GGG,2,2,rock_turf_algae,20
+2020,August,3,Sailfin,30,GGG,2,2,macro_algae,50
+2020,August,3,Sailfin,30,GGG,2,3,coral,50
+2020,August,3,Sailfin,30,GGG,2,3,macro_algae,10
+2020,August,3,Sailfin,30,GGG,2,3,crustose_corraline_algae,20
+2020,August,3,Sailfin,30,GGG,2,3,rock_turf_algae,20
+2020,August,3,Sailfin,30,GGG,2,4,coral,10
+2020,August,3,Sailfin,30,GGG,2,4,macro_algae,20
+2020,August,3,Sailfin,30,GGG,2,4,rock_turf_algae,45
+2020,August,3,Sailfin,30,GGG,2,4,crustose_corraline_algae,25
+2020,August,3,Sailfin,30,GGG,2,5,coral,45
+2020,August,3,Sailfin,30,GGG,2,5,crustose_corraline_algae,15
+2020,August,3,Sailfin,30,GGG,2,5,rock_turf_algae,25
+2020,August,3,Sailfin,30,GGG,2,5,macro_algae,10
+2020,August,3,Sailfin,28,GGG,3,1,coral,12
+2020,August,3,Sailfin,28,GGG,3,1,crustose_corraline_algae,20
+2020,August,3,Sailfin,28,GGG,3,1,macro_algae,5
+2020,August,3,Sailfin,28,GGG,3,1,rock_turf_algae,50
+2020,August,3,Sailfin,28,GGG,3,1,sand,13
+2020,August,3,Sailfin,28,GGG,3,2,crustose_corraline_algae,10
+2020,August,3,Sailfin,28,GGG,3,2,macro_algae,5
+2020,August,3,Sailfin,28,GGG,3,2,rock_turf_algae,45
+2020,August,3,Sailfin,28,GGG,3,2,other,40
+2020,August,3,Sailfin,28,GGG,3,3,coral,3
+2020,August,3,Sailfin,28,GGG,3,3,macro_algae,7
+2020,August,3,Sailfin,28,GGG,3,3,other,10
+2020,August,3,Sailfin,28,GGG,3,3,crustose_corraline_algae,5
+2020,August,3,Sailfin,28,GGG,3,3,rock_turf_algae,75
+2020,August,3,Sailfin,28,GGG,3,4,coral,35
+2020,August,3,Sailfin,28,GGG,3,4,other,15
+2020,August,3,Sailfin,28,GGG,3,4,macro_algae,15
+2020,August,3,Sailfin,28,GGG,3,4,crustose_corraline_algae,10
+2020,August,3,Sailfin,28,GGG,3,4,rock_turf_algae,25
+2020,August,3,Sailfin,28,GGG,3,5,coral,5
+2020,August,3,Sailfin,28,GGG,3,5,sand,20
+2020,August,3,Sailfin,28,GGG,3,5,crustose_corraline_algae,20
+2020,August,3,Sailfin,28,GGG,3,5,macro_algae,5
+2020,August,3,Sailfin,28,GGG,3,5,rock_turf_algae,50
+2020,August,3,Sailfin,35,GGG,4,1,coral,37
+2020,August,3,Sailfin,35,GGG,4,1,sand,8
+2020,August,3,Sailfin,35,GGG,4,1,macro_algae,15
+2020,August,3,Sailfin,35,GGG,4,1,crustose_corraline_algae,10
+2020,August,3,Sailfin,35,GGG,4,1,crustose_corraline_algae,30
+2020,August,3,Sailfin,35,GGG,4,2,coral,10
+2020,August,3,Sailfin,35,GGG,4,2,sand,15
+2020,August,3,Sailfin,35,GGG,4,2,crustose_corraline_algae,5
+2020,August,3,Sailfin,35,GGG,4,2,macro_algae,15
+2020,August,3,Sailfin,35,GGG,4,2,rock_turf_algae,65
+2020,August,3,Sailfin,35,GGG,4,3,coral,5
+2020,August,3,Sailfin,35,GGG,4,3,macro_algae,10
+2020,August,3,Sailfin,35,GGG,4,3,sand,5
+2020,August,3,Sailfin,35,GGG,4,3,crustose_corraline_algae,20
+2020,August,3,Sailfin,35,GGG,4,3,rock_turf_algae,60
+2020,August,3,Sailfin,35,GGG,4,4,coral,60
+2020,August,3,Sailfin,35,GGG,4,4,crustose_corraline_algae,15
+2020,August,3,Sailfin,35,GGG,4,4,macro_algae,15
+2020,August,3,Sailfin,35,GGG,4,4,rock_turf_algae,10
+2020,August,3,Sailfin,35,GGG,4,5,coral,40
+2020,August,3,Sailfin,35,GGG,4,5,crustose_corraline_algae,20
+2020,August,3,Sailfin,35,GGG,4,5,macro_algae,10
+2020,August,3,Sailfin,35,GGG,4,5,rock_turf_algae,30
+2020,August,5,Snapshot,33,GGG,1,1,coral,18
+2020,August,5,Snapshot,33,GGG,1,1,macro_algae,12
+2020,August,5,Snapshot,33,GGG,1,1,crustose_corraline_algae,20
+2020,August,5,Snapshot,33,GGG,1,1,rock_turf_algae,50
+2020,August,5,Snapshot,33,GGG,1,2,coral,20
+2020,August,5,Snapshot,33,GGG,1,2,crustose_corraline_algae,20
+2020,August,5,Snapshot,33,GGG,1,2,macro_algae,10
+2020,August,5,Snapshot,33,GGG,1,2,rock_turf_algae,50
+2020,August,5,Snapshot,33,GGG,1,3,coral,1
+2020,August,5,Snapshot,33,GGG,1,3,macro_algae,9
+2020,August,5,Snapshot,33,GGG,1,3,crustose_corraline_algae,20
+2020,August,5,Snapshot,33,GGG,1,3,rock_turf_algae,65
+2020,August,5,Snapshot,33,GGG,1,3,soft_coral,5
+2020,August,5,Snapshot,33,GGG,1,4,coral,22
+2020,August,5,Snapshot,33,GGG,1,4,macro_algae,13
+2020,August,5,Snapshot,33,GGG,1,4,crustose_corraline_algae,10
+2020,August,5,Snapshot,33,GGG,1,4,rock_turf_algae,55
+2020,August,5,Snapshot,33,GGG,1,5,coral,10
+2020,August,5,Snapshot,33,GGG,1,5,macro_algae,20
+2020,August,5,Snapshot,33,GGG,1,5,crustose_corraline_algae,20
+2020,August,5,Snapshot,33,GGG,1,5,sponge,10
+2020,August,5,Snapshot,33,GGG,1,5,rock_turf_algae,40
+2020,August,5,Snapshot,32,GGG,2,1,coral,30
+2020,August,5,Snapshot,32,GGG,2,1,sponge,5
+2020,August,5,Snapshot,32,GGG,2,1,crustose_corraline_algae,20
+2020,August,5,Snapshot,32,GGG,2,1,macro_algae,10
+2020,August,5,Snapshot,32,GGG,2,1,rock_turf_algae,45
+2020,August,5,Snapshot,32,GGG,2,2,coral,40
+2020,August,5,Snapshot,32,GGG,2,2,soft_coral,5
+2020,August,5,Snapshot,32,GGG,2,2,macro_algae,15
+2020,August,5,Snapshot,32,GGG,2,2,crustose_corraline_algae,10
+2020,August,5,Snapshot,32,GGG,2,2,rock_turf_algae,30
+2020,August,5,Snapshot,32,GGG,2,3,coral,20
+2020,August,5,Snapshot,32,GGG,2,3,crustose_corraline_algae,10
+2020,August,5,Snapshot,32,GGG,2,3,rock_turf_algae,20
+2020,August,5,Snapshot,32,GGG,2,3,macro_algae,50
+2020,August,5,Snapshot,32,GGG,2,4,coral,10
+2020,August,5,Snapshot,32,GGG,2,4,soft_coral,10
+2020,August,5,Snapshot,32,GGG,2,4,sponge,15
+2020,August,5,Snapshot,32,GGG,2,4,crustose_corraline_algae,20
+2020,August,5,Snapshot,32,GGG,2,4,macro_algae,20
+2020,August,5,Snapshot,32,GGG,2,4,rock_turf_algae,25
+2020,August,5,Snapshot,32,GGG,2,5,coral,2
+2020,August,5,Snapshot,32,GGG,2,5,sand,18
+2020,August,5,Snapshot,32,GGG,2,5,macro_algae,15
+2020,August,5,Snapshot,32,GGG,2,5,crustose_corraline_algae,25
+2020,August,5,Snapshot,32,GGG,2,5,rock_turf_algae,40
+2020,August,5,Snapshot,41,GGG,3,1,coral,80
+2020,August,5,Snapshot,41,GGG,3,1,macro_algae,10
+2020,August,5,Snapshot,41,GGG,3,1,rock_turf_algae,10
+2020,August,5,Snapshot,41,GGG,3,2,coral,2
+2020,August,5,Snapshot,41,GGG,3,2,crustose_corraline_algae,20
+2020,August,5,Snapshot,41,GGG,3,2,macro_algae,25
+2020,August,5,Snapshot,41,GGG,3,2,soft_coral,25
+2020,August,5,Snapshot,41,GGG,3,2,rock_turf_algae,28
+2020,August,5,Snapshot,41,GGG,3,3,coral,35
+2020,August,5,Snapshot,41,GGG,3,3,crustose_corraline_algae,15
+2020,August,5,Snapshot,41,GGG,3,3,macro_algae,35
+2020,August,5,Snapshot,41,GGG,3,3,rock_turf_algae,15
+2020,August,5,Snapshot,41,GGG,3,4,coral,20
+2020,August,5,Snapshot,41,GGG,3,4,crustose_corraline_algae,5
+2020,August,5,Snapshot,41,GGG,3,4,macro_algae,55
+2020,August,5,Snapshot,41,GGG,3,4,rock_turf_algae,25
+2020,August,5,Snapshot,41,GGG,3,4,soft_coral,5
+2020,August,5,Snapshot,41,GGG,3,5,coral,20
+2020,August,5,Snapshot,41,GGG,3,5,crustose_corraline_algae,20
+2020,August,5,Snapshot,41,GGG,3,5,macro_algae,15
+2020,August,5,Snapshot,41,GGG,3,5,rock_turf_algae,45
+2020,August,5,Snapshot,40,GGG,4,1,coral,70
+2020,August,5,Snapshot,40,GGG,4,1,macro_algae,10
+2020,August,5,Snapshot,40,GGG,4,1,crustose_corraline_algae,15
+2020,August,5,Snapshot,40,GGG,4,1,rock_turf_algae,5
+2020,August,5,Snapshot,40,GGG,4,2,coral,45
+2020,August,5,Snapshot,40,GGG,4,2,crustose_corraline_algae,15
+2020,August,5,Snapshot,40,GGG,4,2,macro_algae,20
+2020,August,5,Snapshot,40,GGG,4,2,rock_turf_algae,20
+2020,August,5,Snapshot,40,GGG,4,3,coral,5
+2020,August,5,Snapshot,40,GGG,4,3,sand,15
+2020,August,5,Snapshot,40,GGG,4,3,crustose_corraline_algae,5
+2020,August,5,Snapshot,40,GGG,4,3,rock_turf_algae,30
+2020,August,5,Snapshot,40,GGG,4,3,macro_algae,45
+2020,August,5,Snapshot,40,GGG,4,4,coral,2
+2020,August,5,Snapshot,40,GGG,4,4,crustose_corraline_algae,13
+2020,August,5,Snapshot,40,GGG,4,4,macro_algae,15
+2020,August,5,Snapshot,40,GGG,4,4,rock_turf_algae,70
+2020,August,5,Snapshot,40,GGG,4,5,coral,3
+2020,August,5,Snapshot,40,GGG,4,5,crustose_corraline_algae,30
+2020,August,5,Snapshot,40,GGG,4,5,macro_algae,27
+2020,August,5,Snapshot,40,GGG,4,5,rock_turf_algae,40
+2020,July,28,WestPoint,52,GGG,1,1,coral,5
+2020,July,28,WestPoint,52,GGG,1,1,sand,10
+2020,July,28,WestPoint,52,GGG,1,1,rock_turf_algae,25
+2020,July,28,WestPoint,52,GGG,1,1,crustose_corraline_algae,15
+2020,July,28,WestPoint,52,GGG,1,1,macro_algae,45
+2020,July,28,WestPoint,52,GGG,1,2,coral,15
+2020,July,28,WestPoint,52,GGG,1,2,sand,30
+2020,July,28,WestPoint,52,GGG,1,2,crustose_corraline_algae,10
+2020,July,28,WestPoint,52,GGG,1,2,rock_turf_algae,15
+2020,July,28,WestPoint,52,GGG,1,2,macro_algae,30
+2020,July,28,WestPoint,52,GGG,1,3,coral,25
+2020,July,28,WestPoint,52,GGG,1,3,crustose_corraline_algae,10
+2020,July,28,WestPoint,52,GGG,1,3,rock_turf_algae,15
+2020,July,28,WestPoint,52,GGG,1,3,macro_algae,45
+2020,July,28,WestPoint,52,GGG,1,4,coral,5
+2020,July,28,WestPoint,52,GGG,1,4,crustose_corraline_algae,10
+2020,July,28,WestPoint,52,GGG,1,4,rock_turf_algae,20
+2020,July,28,WestPoint,52,GGG,1,4,macro_algae,65
+2020,July,28,WestPoint,52,GGG,1,5,coral,30
+2020,July,28,WestPoint,52,GGG,1,5,rock_turf_algae,15
+2020,July,28,WestPoint,52,GGG,1,5,crustose_corraline_algae,10
+2020,July,28,WestPoint,52,GGG,1,5,macro_algae,45
+2020,July,28,WestPoint,43,GGG,2,1,coral,20
+2020,July,28,WestPoint,43,GGG,2,1,crustose_corraline_algae,20
+2020,July,28,WestPoint,43,GGG,2,1,rock_turf_algae,15
+2020,July,28,WestPoint,43,GGG,2,1,macro_algae,45
+2020,July,28,WestPoint,43,GGG,2,2,coral,30
+2020,July,28,WestPoint,43,GGG,2,2,crustose_corraline_algae,15
+2020,July,28,WestPoint,43,GGG,2,2,rock_turf_algae,5
+2020,July,28,WestPoint,43,GGG,2,2,macro_algae,40
+2020,July,28,WestPoint,43,GGG,2,2,sponge,10
+2020,July,28,WestPoint,43,GGG,2,3,sand,25
+2020,July,28,WestPoint,43,GGG,2,3,rock_turf_algae,25
+2020,July,28,WestPoint,43,GGG,2,3,macro_algae,25
+2020,July,28,WestPoint,43,GGG,2,3,crustose_corraline_algae,15
+2020,July,28,WestPoint,43,GGG,2,3,coral,15
+2020,July,28,WestPoint,43,GGG,2,4,coral,55
+2020,July,28,WestPoint,43,GGG,2,4,crustose_corraline_algae,15
+2020,July,28,WestPoint,43,GGG,2,4,rock_turf_algae,15
+2020,July,28,WestPoint,43,GGG,2,4,macro_algae,15
+2020,July,28,WestPoint,43,GGG,2,5,coral,40
+2020,July,28,WestPoint,43,GGG,2,5,crustose_corraline_algae,10
+2020,July,28,WestPoint,43,GGG,2,5,macro_algae,40
+2020,July,28,WestPoint,43,GGG,2,5,rock_turf_algae,10
+2020,July,28,WestPoint,54,MF,3,1,hard_coral,15
+2020,July,28,WestPoint,54,MF,3,1,crustose_corraline_algae,5
+2020,July,28,WestPoint,54,MF,3,1,soft_coral,5
+2020,July,28,WestPoint,54,MF,3,1,rock_turf_algae,20
+2020,July,28,WestPoint,54,MF,3,1,macro_algae,55
+2020,July,28,WestPoint,54,MF,3,2,hard_coral,25
+2020,July,28,WestPoint,54,MF,3,2,soft_coral,5
+2020,July,28,WestPoint,54,MF,3,2,rock_turf_algae,15
+2020,July,28,WestPoint,54,MF,3,2,crustose_corraline_algae,5
+2020,July,28,WestPoint,54,MF,3,2,macro_algae,50
+2020,July,28,WestPoint,54,MF,3,3,soft_coral,5
+2020,July,28,WestPoint,54,MF,3,3,crustose_corraline_algae,5
+2020,July,28,WestPoint,54,MF,3,3,rock_turf_algae,20
+2020,July,28,WestPoint,54,MF,3,3,hard_coral,2
+2020,July,28,WestPoint,54,MF,3,3,macro_algae,68
+2020,July,28,WestPoint,54,MF,3,4,hard_coral,20
+2020,July,28,WestPoint,54,MF,3,4,soft_coral,15
+2020,July,28,WestPoint,54,MF,3,4,crustose_corraline_algae,5
+2020,July,28,WestPoint,54,MF,3,4,rock_turf_algae,25
+2020,July,28,WestPoint,54,MF,3,4,macro_algae,35
+2020,July,28,WestPoint,54,MF,3,5,hard_coral,5
+2020,July,28,WestPoint,54,MF,3,5,soft_coral,5
+2020,July,28,WestPoint,54,MF,3,5,macro_algae,85
+2020,July,28,WestPoint,54,MF,3,5,crustose_corraline_algae,5
+2020,July,28,WestPoint,44,MF,4,1,soft_coral,5
+2020,July,28,WestPoint,44,MF,4,1,hard_coral,15
+2020,July,28,WestPoint,44,MF,4,1,macro_algae,75
+2020,July,28,WestPoint,44,MF,4,1,crustose_corraline_algae,5
+2020,July,28,WestPoint,44,MF,4,2,sponge,15
+2020,July,28,WestPoint,44,MF,4,2,hard_coral,25
+2020,July,28,WestPoint,44,MF,4,2,crustose_corraline_algae,38
+2020,July,28,WestPoint,44,MF,4,2,soft_coral,2
+2020,July,28,WestPoint,44,MF,4,2,macro_algae,20
+2020,July,28,WestPoint,44,MF,4,3,soft_coral,5
+2020,July,28,WestPoint,44,MF,4,3,coral,5
+2020,July,28,WestPoint,44,MF,4,3,hard_coral,10
+2020,July,28,WestPoint,44,MF,4,3,crustose_corraline_algae,10
+2020,July,28,WestPoint,44,MF,4,3,macro_algae,50
+2020,July,28,WestPoint,44,MF,4,3,rock_turf_algae,20
+2020,July,28,WestPoint,44,MF,4,4,soft_coral,5
+2020,July,28,WestPoint,44,MF,4,4,hard_coral,5
+2020,July,28,WestPoint,44,MF,4,4,rock_turf_algae,40
+2020,July,28,WestPoint,44,MF,4,4,macro_algae,50
+2020,July,28,WestPoint,44,MF,4,5,hard_coral,25
+2020,July,28,WestPoint,44,MF,4,5,crustose_corraline_algae,2
+2020,July,28,WestPoint,44,MF,4,5,rock_turf_algae,10
+2020,July,28,WestPoint,44,MF,4,5,macro_algae,63

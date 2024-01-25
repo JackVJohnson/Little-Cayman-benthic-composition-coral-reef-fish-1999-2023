@@ -1,0 +1,1520 @@
+Year,Month,Date,Site,Depth,Observer,Transect,Quadrat,Functional_Group,Perc_cover
+2021,June,28,Marthas,38,GGG,1,1,coral,1
+2021,June,28,Marthas,38,GGG,1,1,cca,5
+2021,June,28,Marthas,38,GGG,1,1,macro_algae,90
+2021,June,28,Marthas,38,GGG,1,1,turf_algae,4
+2021,June,28,Marthas,38,GGG,1,1,sand,0
+2021,June,28,Marthas,38,GGG,1,1,other,0
+2021,June,28,Marthas,38,GGG,1,2,coral,40
+2021,June,28,Marthas,38,GGG,1,2,cca,15
+2021,June,28,Marthas,38,GGG,1,2,macro_algae,35
+2021,June,28,Marthas,38,GGG,1,2,turf_algae,10
+2021,June,28,Marthas,38,GGG,1,2,sand,0
+2021,June,28,Marthas,38,GGG,1,2,other,0
+2021,June,28,Marthas,38,GGG,1,3,coral,40
+2021,June,28,Marthas,38,GGG,1,3,cca,25
+2021,June,28,Marthas,38,GGG,1,3,macro_algae,25
+2021,June,28,Marthas,38,GGG,1,3,turf_algae,10
+2021,June,28,Marthas,38,GGG,1,3,sand,0
+2021,June,28,Marthas,38,GGG,1,3,other,0
+2021,June,28,Marthas,38,GGG,1,4,coral,30
+2021,June,28,Marthas,38,GGG,1,4,cca,15
+2021,June,28,Marthas,38,GGG,1,4,macro_algae,40
+2021,June,28,Marthas,38,GGG,1,4,turf_algae,15
+2021,June,28,Marthas,38,GGG,1,4,sand,0
+2021,June,28,Marthas,38,GGG,1,4,other,0
+2021,June,28,Marthas,38,GGG,1,5,coral,80
+2021,June,28,Marthas,38,GGG,1,5,cca,5
+2021,June,28,Marthas,38,GGG,1,5,macro_algae,15
+2021,June,28,Marthas,38,GGG,1,5,turf_algae,0
+2021,June,28,Marthas,38,GGG,1,5,sand,0
+2021,June,28,Marthas,38,GGG,1,5,other,0
+2021,June,28,Marilyns Cut,33,GGG,1,1,coral,10
+2021,June,28,Marilyns Cut,33,GGG,1,1,cca,20
+2021,June,28,Marilyns Cut,33,GGG,1,1,macro_algae,10
+2021,June,28,Marilyns Cut,33,GGG,1,1,turf_algae,60
+2021,June,28,Marilyns Cut,33,GGG,1,1,sand,0
+2021,June,28,Marilyns Cut,33,GGG,1,1,other,0
+2021,June,28,Marilyns Cut,33,GGG,1,2,coral,30
+2021,June,28,Marilyns Cut,33,GGG,1,2,cca,15
+2021,June,28,Marilyns Cut,33,GGG,1,2,macro_algae,15
+2021,June,28,Marilyns Cut,33,GGG,1,2,turf_algae,40
+2021,June,28,Marilyns Cut,33,GGG,1,2,sand,0
+2021,June,28,Marilyns Cut,33,GGG,1,2,other,0
+2021,June,28,Marilyns Cut,33,GGG,1,3,coral,25
+2021,June,28,Marilyns Cut,33,GGG,1,3,cca,10
+2021,June,28,Marilyns Cut,33,GGG,1,3,macro_algae,50
+2021,June,28,Marilyns Cut,33,GGG,1,3,turf_algae,15
+2021,June,28,Marilyns Cut,33,GGG,1,3,sand,0
+2021,June,28,Marilyns Cut,33,GGG,1,3,sponge,20
+2021,June,28,Marilyns Cut,33,GGG,1,4,coral,20
+2021,June,28,Marilyns Cut,33,GGG,1,4,cca,20
+2021,June,28,Marilyns Cut,33,GGG,1,4,macro_algae,15
+2021,June,28,Marilyns Cut,33,GGG,1,4,turf_algae,45
+2021,June,28,Marilyns Cut,33,GGG,1,4,sand,0
+2021,June,28,Marilyns Cut,33,GGG,1,4,other,0
+2021,June,28,Marilyns Cut,33,GGG,1,5,coral,15
+2021,June,28,Marilyns Cut,33,GGG,1,5,cca,30
+2021,June,28,Marilyns Cut,33,GGG,1,5,macro_algae,10
+2021,June,28,Marilyns Cut,33,GGG,1,5,turf_algae,45
+2021,June,28,Marilyns Cut,33,GGG,1,5,sand,0
+2021,June,28,Marilyns Cut,33,GGG,1,5,other,0
+2021,June,25,Coral City,40,CG,1,1,coral,40
+2021,June,25,Coral City,40,CG,1,1,cca,20
+2021,June,25,Coral City,40,CG,1,1,macro_algae,10
+2021,June,25,Coral City,40,CG,1,1,sand,0
+2021,June,25,Coral City,40,CG,1,1,other,0
+2021,June,25,Coral City,40,CG,1,1,turf_algae,30
+2021,June,25,Coral City,40,CG,1,3,coral,25
+2021,June,25,Coral City,40,CG,1,3,cca,0
+2021,June,25,Coral City,40,CG,1,3,turf_algae,0
+2021,June,25,Coral City,40,CG,1,3,sand,0
+2021,June,25,Coral City,40,CG,1,3,other,0
+2021,June,25,Coral City,40,CG,1,3,macro_algae,75
+2021,June,25,Coral City,40,CG,1,5,coral,20
+2021,June,25,Coral City,40,CG,1,5,cca,0
+2021,June,25,Coral City,40,CG,1,5,turf_algae,0
+2021,June,25,Coral City,40,CG,1,5,sand,0
+2021,June,25,Coral City,40,CG,1,5,other,0
+2021,June,25,Coral City,40,CG,1,5,macro_algae,80
+2021,June,25,Coral City,40,CG,1,7,coral,5
+2021,June,25,Coral City,40,CG,1,7,cca,0
+2021,June,25,Coral City,40,CG,1,7,turf_algae,0
+2021,June,25,Coral City,40,CG,1,7,sand,0
+2021,June,25,Coral City,40,CG,1,7,other,0
+2021,June,25,Coral City,40,CG,1,7,macro_algae,95
+2021,June,25,Coral City,40,CG,1,9,coral,50
+2021,June,25,Coral City,40,CG,1,9,cca,0
+2021,June,25,Coral City,40,CG,1,9,sand,0
+2021,June,25,Coral City,40,CG,1,9,other,0
+2021,June,25,Coral City,40,CG,1,9,macro_algae,40
+2021,June,25,Coral City,40,CG,1,9,turf_algae,10
+2021,June,25,Coral City,35,CG,2,1,coral,20
+2021,June,25,Coral City,35,CG,2,1,macro_algae,40
+2021,June,25,Coral City,35,CG,2,1,turf_algae,20
+2021,June,25,Coral City,35,CG,2,1,cca,0
+2021,June,25,Coral City,35,CG,2,1,other,0
+2021,June,25,Coral City,35,CG,2,1,sand,20
+2021,June,25,Coral City,35,CG,2,3,coral,10
+2021,June,25,Coral City,35,CG,2,3,cca,30
+2021,June,25,Coral City,35,CG,2,3,other,0
+2021,June,25,Coral City,35,CG,2,3,macro_algae,20
+2021,June,25,Coral City,35,CG,2,3,turf_algae,20
+2021,June,25,Coral City,35,CG,2,3,sand,20
+2021,June,25,Coral City,35,CG,2,5,coral,20
+2021,June,25,Coral City,35,CG,2,5,cca,0
+2021,June,25,Coral City,35,CG,2,5,other,0
+2021,June,25,Coral City,35,CG,2,5,macro_algae,10
+2021,June,25,Coral City,35,CG,2,5,turf_algae,60
+2021,June,25,Coral City,35,CG,2,5,sand,10
+2021,June,25,Coral City,35,CG,2,7,coral,75
+2021,June,25,Coral City,35,CG,2,7,macro_algae,10
+2021,June,25,Coral City,35,CG,2,7,other,0
+2021,June,25,Coral City,35,CG,2,7,cca,0
+2021,June,25,Coral City,35,CG,2,7,turf_algae,10
+2021,June,25,Coral City,35,CG,2,7,sand,5
+2021,June,25,Coral City,35,CG,2,9,coral,50
+2021,June,25,Coral City,35,CG,2,9,macro_algae,25
+2021,June,25,Coral City,35,CG,2,9,cca,0
+2021,June,25,Coral City,35,CG,2,9,other,0
+2021,June,25,Coral City,35,CG,2,9,turf_algae,10
+2021,June,25,Coral City,35,CG,2,9,sand,15
+2021,June,25,Westpoint,40,CG,1,1,coral,10
+2021,June,25,Westpoint,40,CG,1,1,cca,0
+2021,June,25,Westpoint,40,CG,1,1,other,0
+2021,June,25,Westpoint,40,CG,1,1,turf_algae,0
+2021,June,25,Westpoint,40,CG,1,1,macro_algae,20
+2021,June,25,Westpoint,40,CG,1,1,sand,70
+2021,June,25,Westpoint,40,CG,1,3,coral,30
+2021,June,25,Westpoint,40,CG,1,3,cca,10
+2021,June,25,Westpoint,40,CG,1,3,macro_algae,0
+2021,June,25,Westpoint,40,CG,1,3,sand,0
+2021,June,25,Westpoint,40,CG,1,3,turf_algae,30
+2021,June,25,Westpoint,40,CG,1,3,other,30
+2021,June,25,Westpoint,40,CG,1,5,coral,90
+2021,June,25,Westpoint,40,CG,1,5,turf_algae,5
+2021,June,25,Westpoint,40,CG,1,5,macro_algae,0
+2021,June,25,Westpoint,40,CG,1,5,cca,0
+2021,June,25,Westpoint,40,CG,1,5,other,0
+2021,June,25,Westpoint,40,CG,1,5,sand,5
+2021,June,25,Westpoint,40,CG,1,7,coral,40
+2021,June,25,Westpoint,40,CG,1,7,cca,30
+2021,June,25,Westpoint,40,CG,1,7,turf_algae,10
+2021,June,25,Westpoint,40,CG,1,7,other,0
+2021,June,25,Westpoint,40,CG,1,7,sand,20
+2021,June,25,Westpoint,40,CG,1,9,coral,10
+2021,June,25,Westpoint,40,CG,1,9,cca,30
+2021,June,25,Westpoint,40,CG,1,9,macro_algae,10
+2021,June,25,Westpoint,40,CG,1,9,turf_algae,0
+2021,June,25,Westpoint,40,CG,1,9,sand,10
+2021,June,25,Westpoint,40,CG,1,9,other,40
+2021,June,25,Coral City,38,GGG,1,1,coral,25
+2021,June,25,Coral City,38,GGG,1,1,cca,50
+2021,June,25,Coral City,38,GGG,1,1,sand,0
+2021,June,25,Coral City,38,GGG,1,1,other,0
+2021,June,25,Coral City,38,GGG,1,1,macro_algae,20
+2021,June,25,Coral City,38,GGG,1,1,turf_algae,5
+2021,June,25,Coral City,38,GGG,1,3,coral,7
+2021,June,25,Coral City,38,GGG,1,3,cca,5
+2021,June,25,Coral City,38,GGG,1,3,other,0
+2021,June,25,Coral City,38,GGG,1,3,sand,0
+2021,June,25,Coral City,38,GGG,1,3,macro_algae,75
+2021,June,25,Coral City,38,GGG,1,3,turf_algae,13
+2021,June,25,Coral City,38,GGG,1,5,coral,2
+2021,June,25,Coral City,38,GGG,1,5,cca,5
+2021,June,25,Coral City,38,GGG,1,5,macro_algae,33
+2021,June,25,Coral City,38,GGG,1,5,sand,0
+2021,June,25,Coral City,38,GGG,1,5,turf_algae,55
+2021,June,25,Coral City,38,GGG,1,5,other,5
+2021,June,25,Coral City,38,GGG,1,7,coral,20
+2021,June,25,Coral City,38,GGG,1,7,cca,5
+2021,June,25,Coral City,38,GGG,1,7,sand,0
+2021,June,25,Coral City,38,GGG,1,7,other,0
+2021,June,25,Coral City,38,GGG,1,7,macro_algae,65
+2021,June,25,Coral City,38,GGG,1,7,turf_algae,20
+2021,June,25,Coral City,38,GGG,1,9,coral,15
+2021,June,25,Coral City,38,GGG,1,9,cca,10
+2021,June,25,Coral City,38,GGG,1,9,other,0
+2021,June,25,Coral City,38,GGG,1,9,sand,0
+2021,June,25,Coral City,38,GGG,1,9,macro_algae,55
+2021,June,25,Coral City,38,GGG,1,9,turf_algae,20
+2021,June,25,Coral City,40,GGG,2,1,coral,10
+2021,June,25,Coral City,40,GGG,2,1,cca,10
+2021,June,25,Coral City,40,GGG,2,1,macro_algae,70
+2021,June,25,Coral City,40,GGG,2,1,sand,0
+2021,June,25,Coral City,40,GGG,2,1,other,0
+2021,June,25,Coral City,40,GGG,2,1,turf_algae,10
+2021,June,25,Coral City,40,GGG,2,3,coral,25
+2021,June,25,Coral City,40,GGG,2,3,cca,10
+2021,June,25,Coral City,40,GGG,2,3,macro_algae,60
+2021,June,25,Coral City,40,GGG,2,3,sand,0
+2021,June,25,Coral City,40,GGG,2,3,other,0
+2021,June,25,Coral City,40,GGG,2,3,turf_algae,5
+2021,June,25,Coral City,40,GGG,2,5,coral,50
+2021,June,25,Coral City,40,GGG,2,5,cca,30
+2021,June,25,Coral City,40,GGG,2,5,macro_algae,10
+2021,June,25,Coral City,40,GGG,2,5,sand,0
+2021,June,25,Coral City,40,GGG,2,5,turf_algae,0
+2021,June,25,Coral City,40,GGG,2,5,other,10
+2021,June,25,Coral City,40,GGG,2,7,coral,25
+2021,June,25,Coral City,40,GGG,2,7,cca,20
+2021,June,25,Coral City,40,GGG,2,7,macro_algae,50
+2021,June,25,Coral City,40,GGG,2,7,turf_algae,0
+2021,June,25,Coral City,40,GGG,2,7,sand,0
+2021,June,25,Coral City,40,GGG,2,7,other,5
+2021,June,25,Coral City,40,GGG,2,9,coral,5
+2021,June,25,Coral City,40,GGG,2,9,cca,50
+2021,June,25,Coral City,40,GGG,2,9,macro_algae,25
+2021,June,25,Coral City,40,GGG,2,9,sand,0
+2021,June,25,Coral City,40,GGG,2,9,other,0
+2021,June,25,Coral City,40,GGG,2,9,turf_algae,20
+2021,June,25,Coral City,35,GGG,3,1,coral,95
+2021,June,25,Coral City,35,GGG,3,1,cca,0
+2021,June,25,Coral City,35,GGG,3,1,turf_algae,0
+2021,June,25,Coral City,35,GGG,3,1,sand,0
+2021,June,25,Coral City,35,GGG,3,1,other,0
+2021,June,25,Coral City,35,GGG,3,1,macro_algae,5
+2021,June,25,Coral City,35,GGG,3,3,coral,50
+2021,June,25,Coral City,35,GGG,3,3,macro_algae,0
+2021,June,25,Coral City,35,GGG,3,3,turf_algae,0
+2021,June,25,Coral City,35,GGG,3,3,sand,0
+2021,June,25,Coral City,35,GGG,3,3,other,0
+2021,June,25,Coral City,35,GGG,3,3,cca,50
+2021,June,25,Coral City,35,GGG,3,5,cca,40
+2021,June,25,Coral City,35,GGG,3,5,macro_algae,35
+2021,June,25,Coral City,35,GGG,3,5,turf_algae,20
+2021,June,25,Coral City,35,GGG,3,5,coral,0
+2021,June,25,Coral City,35,GGG,3,5,sand,0
+2021,June,25,Coral City,35,GGG,3,5,sponge,5
+2021,June,25,Coral City,35,GGG,3,7,coral,65
+2021,June,25,Coral City,35,GGG,3,7,cca,10
+2021,June,25,Coral City,35,GGG,3,7,macro_algae,20
+2021,June,25,Coral City,35,GGG,3,7,other,0
+2021,June,25,Coral City,35,GGG,3,7,sand,0
+2021,June,25,Coral City,35,GGG,3,7,turf_algae,5
+2021,June,25,Coral City,35,GGG,3,9,coral,10
+2021,June,25,Coral City,35,GGG,3,9,cca,10
+2021,June,25,Coral City,35,GGG,3,9,macro_algae,30
+2021,June,25,Coral City,35,GGG,3,9,other,0
+2021,June,25,Coral City,35,GGG,3,9,sand,0
+2021,June,25,Coral City,35,GGG,3,9,turf_algae,50
+2021,June,25,Westpoint,43,GGG,1,1,cca,50
+2021,June,25,Westpoint,43,GGG,1,1,macro_algae,30
+2021,June,25,Westpoint,43,GGG,1,1,other,0
+2021,June,25,Westpoint,43,GGG,1,1,sand,0
+2021,June,25,Westpoint,43,GGG,1,1,coral,0
+2021,June,25,Westpoint,43,GGG,1,1,turf_algae,20
+2021,June,25,Westpoint,43,GGG,1,3,coral,5
+2021,June,25,Westpoint,43,GGG,1,3,cca,20
+2021,June,25,Westpoint,43,GGG,1,3,macro_algae,30
+2021,June,25,Westpoint,43,GGG,1,3,turf_algae,40
+2021,June,25,Westpoint,43,GGG,1,3,other,0
+2021,June,25,Westpoint,43,GGG,1,3,sand,5
+2021,June,25,Westpoint,43,GGG,1,5,coral,20
+2021,June,25,Westpoint,43,GGG,1,5,cca,5
+2021,June,25,Westpoint,43,GGG,1,5,macro_algae,10
+2021,June,25,Westpoint,43,GGG,1,5,turf_algae,40
+2021,June,25,Westpoint,43,GGG,1,5,sand,5
+2021,June,25,Westpoint,43,GGG,1,5,sponge,20
+2021,June,25,Westpoint,43,GGG,1,7,coral,70
+2021,June,25,Westpoint,43,GGG,1,7,cca,5
+2021,June,25,Westpoint,43,GGG,1,7,macro_algae,15
+2021,June,25,Westpoint,43,GGG,1,7,turf_algae,5
+2021,June,25,Westpoint,43,GGG,1,7,sand,0
+2021,June,25,Westpoint,43,GGG,1,7,sponge,15
+2021,June,25,Westpoint,43,GGG,1,9,coral,25
+2021,June,25,Westpoint,43,GGG,1,9,cca,30
+2021,June,25,Westpoint,43,GGG,1,9,macro_algae,10
+2021,June,25,Westpoint,43,GGG,1,9,turf_algae,25
+2021,June,25,Westpoint,43,GGG,1,9,other,0
+2021,June,25,Westpoint,43,GGG,1,9,sand,10
+2021,June,25,Westpoint,40,GGG,2,1,cca,25
+2021,June,25,Westpoint,40,GGG,2,1,macro_algae,25
+2021,June,25,Westpoint,40,GGG,2,1,turf_algae,45
+2021,June,25,Westpoint,40,GGG,2,1,other,0
+2021,June,25,Westpoint,40,GGG,2,1,coral,0
+2021,June,25,Westpoint,40,GGG,2,1,sand,5
+2021,June,25,Westpoint,40,GGG,2,3,coral,10
+2021,June,25,Westpoint,40,GGG,2,3,cca,70
+2021,June,25,Westpoint,40,GGG,2,3,macro_algae,5
+2021,June,25,Westpoint,40,GGG,2,3,other,0
+2021,June,25,Westpoint,40,GGG,2,3,sand,0
+2021,June,25,Westpoint,40,GGG,2,3,turf_algae,15
+2021,June,25,Westpoint,40,GGG,2,5,coral,5
+2021,June,25,Westpoint,40,GGG,2,5,cca,5
+2021,June,25,Westpoint,40,GGG,2,5,macro_algae,15
+2021,June,25,Westpoint,40,GGG,2,5,turf_algae,70
+2021,June,25,Westpoint,40,GGG,2,5,sand,0
+2021,June,25,Westpoint,40,GGG,2,5,sponge,5
+2021,June,25,Westpoint,40,GGG,2,7,coral,5
+2021,June,25,Westpoint,40,GGG,2,7,cca,15
+2021,June,25,Westpoint,40,GGG,2,7,macro_algae,20
+2021,June,25,Westpoint,40,GGG,2,7,turf_algae,50
+2021,June,25,Westpoint,40,GGG,2,7,other,0
+2021,June,25,Westpoint,40,GGG,2,7,sand,10
+2021,June,25,Westpoint,40,GGG,2,9,coral,55
+2021,June,25,Westpoint,40,GGG,2,9,cca,10
+2021,June,25,Westpoint,40,GGG,2,9,macro_algae,15
+2021,June,25,Westpoint,40,GGG,2,9,other,0
+2021,June,25,Westpoint,40,GGG,2,9,sand,0
+2021,June,25,Westpoint,40,GGG,2,9,turf_algae,25
+2021,June,25,Westpoint,33,CG,2,1,coral,10
+2021,June,25,Westpoint,33,CG,2,1,macro_algae,10
+2021,June,25,Westpoint,33,CG,2,1,turf_algae,30
+2021,June,25,Westpoint,33,CG,2,1,sand,40
+2021,June,25,Westpoint,33,CG,2,1,cca,0
+2021,June,25,Westpoint,33,CG,2,1,other,10
+2021,June,25,Westpoint,33,CG,2,3,cca,30
+2021,June,25,Westpoint,33,CG,2,3,turf_algae,20
+2021,June,25,Westpoint,33,CG,2,3,macro_algae,0
+2021,June,25,Westpoint,33,CG,2,3,coral,0
+2021,June,25,Westpoint,33,CG,2,3,other,0
+2021,June,25,Westpoint,33,CG,2,3,sand,50
+2021,June,25,Westpoint,33,CG,2,5,coral,40
+2021,June,25,Westpoint,33,CG,2,5,cca,30
+2021,June,25,Westpoint,33,CG,2,5,other,0
+2021,June,25,Westpoint,33,CG,2,5,macro_algae,0
+2021,June,25,Westpoint,33,CG,2,5,turf_algae,0
+2021,June,25,Westpoint,33,CG,2,5,sand,30
+2021,June,25,Westpoint,33,CG,2,7,coral,80
+2021,June,25,Westpoint,33,CG,2,7,cca,10
+2021,June,25,Westpoint,33,CG,2,7,macro_algae,0
+2021,June,25,Westpoint,33,CG,2,7,turf_algae,0
+2021,June,25,Westpoint,33,CG,2,7,other,0
+2021,June,25,Westpoint,33,CG,2,7,sand,10
+2021,June,25,Westpoint,33,CG,2,9,coral,20
+2021,June,25,Westpoint,33,CG,2,9,cca,20
+2021,June,25,Westpoint,33,CG,2,9,macro_algae,30
+2021,June,25,Westpoint,33,CG,2,9,sand,20
+2021,June,25,Westpoint,33,CG,2,9,turf_algae,0
+2021,June,25,Westpoint,33,CG,2,9,other,10
+2021,June,28,Marilyns Cut,30,CG,1,1,coral,5
+2021,June,28,Marilyns Cut,30,CG,1,1,macro_algae,80
+2021,June,28,Marilyns Cut,30,CG,1,1,turf_algae,5
+2021,June,28,Marilyns Cut,30,CG,1,1,sand,5
+2021,June,28,Marilyns Cut,30,CG,1,1,cca,0
+2021,June,28,Marilyns Cut,30,CG,1,1,other,5
+2021,June,28,Marilyns Cut,30,CG,1,3,cca,10
+2021,June,28,Marilyns Cut,30,CG,1,3,turf_algae,0
+2021,June,28,Marilyns Cut,30,CG,1,3,sand,0
+2021,June,28,Marilyns Cut,30,CG,1,3,macro_algae,50
+2021,June,28,Marilyns Cut,30,CG,1,3,coral,0
+2021,June,28,Marilyns Cut,30,CG,1,3,other,40
+2021,June,28,Marilyns Cut,30,CG,1,5,macro_algae,60
+2021,June,28,Marilyns Cut,30,CG,1,5,turf_algae,20
+2021,June,28,Marilyns Cut,30,CG,1,5,other,0
+2021,June,28,Marilyns Cut,30,CG,1,5,cca,0
+2021,June,28,Marilyns Cut,30,CG,1,5,coral,0
+2021,June,28,Marilyns Cut,30,CG,1,5,sand,20
+2021,June,28,Marilyns Cut,30,CG,1,7,coral,5
+2021,June,28,Marilyns Cut,30,CG,1,7,macro_algae,60
+2021,June,28,Marilyns Cut,30,CG,1,7,turf_algae,5
+2021,June,28,Marilyns Cut,30,CG,1,7,cca,0
+2021,June,28,Marilyns Cut,30,CG,1,7,other,0
+2021,June,28,Marilyns Cut,30,CG,1,7,sand,30
+2021,June,28,Marilyns Cut,30,CG,1,9,coral,2
+2021,June,28,Marilyns Cut,30,CG,1,9,macro_algae,40
+2021,June,28,Marilyns Cut,30,CG,1,9,turf_algae,30
+2021,June,28,Marilyns Cut,30,CG,1,9,cca,0
+2021,June,28,Marilyns Cut,30,CG,1,9,other,0
+2021,June,28,Marilyns Cut,30,CG,1,9,sand,28
+2021,June,25,Marilyns Cut,30,CG,2,1,coral,40
+2021,June,25,Marilyns Cut,30,CG,2,1,macro_algae,40
+2021,June,25,Marilyns Cut,30,CG,2,1,turf_algae,10
+2021,June,25,Marilyns Cut,30,CG,2,1,other,0
+2021,June,25,Marilyns Cut,30,CG,2,1,cca,0
+2021,June,25,Marilyns Cut,30,CG,2,1,sand,10
+2021,June,25,Marilyns Cut,30,CG,2,3,coral,15
+2021,June,25,Marilyns Cut,30,CG,2,3,macro_algae,60
+2021,June,25,Marilyns Cut,30,CG,2,3,cca,0
+2021,June,25,Marilyns Cut,30,CG,2,3,sand,0
+2021,June,25,Marilyns Cut,30,CG,2,3,other,0
+2021,June,25,Marilyns Cut,30,CG,2,3,turf_algae,25
+2021,June,25,Marilyns Cut,30,CG,2,5,coral,10
+2021,June,25,Marilyns Cut,30,CG,2,5,cca,40
+2021,June,25,Marilyns Cut,30,CG,2,5,macro_algae,30
+2021,June,25,Marilyns Cut,30,CG,2,5,turf_algae,5
+2021,June,25,Marilyns Cut,30,CG,2,5,sand,0
+2021,June,25,Marilyns Cut,30,CG,2,5,other,15
+2021,June,25,Marilyns Cut,30,CG,2,7,coral,40
+2021,June,25,Marilyns Cut,30,CG,2,7,macro_algae,20
+2021,June,25,Marilyns Cut,30,CG,2,7,turf_algae,10
+2021,June,25,Marilyns Cut,30,CG,2,7,sand,10
+2021,June,25,Marilyns Cut,30,CG,2,7,cca,0
+2021,June,25,Marilyns Cut,30,CG,2,7,other,20
+2021,June,25,Marilyns Cut,30,CG,2,9,cca,20
+2021,June,25,Marilyns Cut,30,CG,2,9,coral,0
+2021,June,25,Marilyns Cut,30,CG,2,9,turf_algae,0
+2021,June,25,Marilyns Cut,30,CG,2,9,sand,0
+2021,June,25,Marilyns Cut,30,CG,2,9,other,0
+2021,June,25,Marilyns Cut,30,CG,2,9,macro_algae,80
+2021,June,28,Marthas,35,CG,1,1,coral,30
+2021,June,28,Marthas,35,CG,1,1,cca,25
+2021,June,28,Marthas,35,CG,1,1,macro_algae,25
+2021,June,28,Marthas,35,CG,1,1,turf_algae,0
+2021,June,28,Marthas,35,CG,1,1,sand,0
+2021,June,28,Marthas,35,CG,1,1,other,20
+2021,June,28,Marthas,35,CG,1,3,coral,80
+2021,June,28,Marthas,35,CG,1,3,macro_algae,10
+2021,June,28,Marthas,35,CG,1,3,cca,0
+2021,June,28,Marthas,35,CG,1,3,sand,0
+2021,June,28,Marthas,35,CG,1,3,other,0
+2021,June,28,Marthas,35,CG,1,3,turf_algae,10
+2021,June,28,Marthas,35,CG,1,5,macro_algae,80
+2021,June,28,Marthas,35,CG,1,5,coral,0
+2021,June,28,Marthas,35,CG,1,5,sand,0
+2021,June,28,Marthas,35,CG,1,5,other,0
+2021,June,28,Marthas,35,CG,1,5,cca,0
+2021,June,28,Marthas,35,CG,1,5,turf_algae,20
+2021,June,28,Marthas,35,CG,1,7,coral,20
+2021,June,28,Marthas,35,CG,1,7,cca,0
+2021,June,28,Marthas,35,CG,1,7,turf_algae,0
+2021,June,28,Marthas,35,CG,1,7,sand,0
+2021,June,28,Marthas,35,CG,1,7,other,0
+2021,June,28,Marthas,35,CG,1,7,macro_algae,80
+2021,June,28,Marthas,35,CG,1,9,coral,10
+2021,June,28,Marthas,35,CG,1,9,macro_algae,70
+2021,June,28,Marthas,35,CG,1,9,cca,0
+2021,June,28,Marthas,35,CG,1,9,turf_algae,0
+2021,June,28,Marthas,35,CG,1,9,sand,0
+2021,June,28,Marthas,35,CG,1,9,other,20
+2021,June,28,Grundys,43,CG,1,1,coral,65
+2021,June,28,Grundys,43,CG,1,1,macro_algae,10
+2021,June,28,Grundys,43,CG,1,1,cca,0
+2021,June,28,Grundys,43,CG,1,1,sand,0
+2021,June,28,Grundys,43,CG,1,1,other,0
+2021,June,28,Grundys,43,CG,1,1,turf_algae,25
+2021,June,28,Grundys,43,CG,1,3,coral,20
+2021,June,28,Grundys,43,CG,1,3,cca,40
+2021,June,28,Grundys,43,CG,1,3,macro_algae,20
+2021,June,28,Grundys,43,CG,1,3,turf_algae,0
+2021,June,28,Grundys,43,CG,1,3,sand,0
+2021,June,28,Grundys,43,CG,1,3,other,20
+2021,June,28,Grundys,43,CG,1,5,cca,20
+2021,June,28,Grundys,43,CG,1,5,macro_algae,50
+2021,June,28,Grundys,43,CG,1,5,turf_algae,25
+2021,June,28,Grundys,43,CG,1,5,coral,0
+2021,June,28,Grundys,43,CG,1,5,other,0
+2021,June,28,Grundys,43,CG,1,5,sand,5
+2021,June,28,Grundys,43,CG,1,7,coral,50
+2021,June,28,Grundys,43,CG,1,7,cca,30
+2021,June,28,Grundys,43,CG,1,7,turf_algae,0
+2021,June,28,Grundys,43,CG,1,7,sand,0
+2021,June,28,Grundys,43,CG,1,7,other,0
+2021,June,28,Grundys,43,CG,1,7,macro_algae,20
+2021,June,28,Grundys,43,CG,1,9,macro_algae,40
+2021,June,28,Grundys,43,CG,1,9,turf_algae,30
+2021,June,28,Grundys,43,CG,1,9,sand,20
+2021,June,28,Grundys,43,CG,1,9,coral,0
+2021,June,28,Grundys,43,CG,1,9,cca,0
+2021,June,28,Grundys,43,CG,1,9,other,10
+2021,June,28,Grundys,43,CG,2,1,cca,20
+2021,June,28,Grundys,43,CG,2,1,coral,0
+2021,June,28,Grundys,43,CG,2,1,macro_algae,0
+2021,June,28,Grundys,43,CG,2,1,turf_algae,0
+2021,June,28,Grundys,43,CG,2,1,sand,0
+2021,June,28,Grundys,43,CG,2,1,other,80
+2021,June,28,Grundys,43,CG,2,3,coral,75
+2021,June,28,Grundys,43,CG,2,3,macro_algae,20
+2021,June,28,Grundys,43,CG,2,3,cca,0
+2021,June,28,Grundys,43,CG,2,3,sand,0
+2021,June,28,Grundys,43,CG,2,3,turf_algae,0
+2021,June,28,Grundys,43,CG,2,3,other,5
+2021,June,28,Grundys,43,CG,2,5,coral,50
+2021,June,28,Grundys,43,CG,2,5,cca,0
+2021,June,28,Grundys,43,CG,2,5,turf_algae,0
+2021,June,28,Grundys,43,CG,2,5,sand,0
+2021,June,28,Grundys,43,CG,2,5,other,0
+2021,June,28,Grundys,43,CG,2,5,macro_algae,50
+2021,June,28,Grundys,43,CG,2,7,coral,70
+2021,June,28,Grundys,43,CG,2,7,macro_algae,15
+2021,June,28,Grundys,43,CG,2,7,turf_algae,5
+2021,June,28,Grundys,43,CG,2,7,cca,0
+2021,June,28,Grundys,43,CG,2,7,sand,0
+2021,June,28,Grundys,43,CG,2,7,other,10
+2021,June,28,Grundys,43,CG,2,9,macro_algae,70
+2021,June,28,Grundys,43,CG,2,9,turf_algae,20
+2021,June,28,Grundys,43,CG,2,9,coral,0
+2021,June,28,Grundys,43,CG,2,9,cca,0
+2021,June,28,Grundys,43,CG,2,9,sand,0
+2021,June,28,Grundys,43,CG,2,9,other,10
+2021,June,29,Pauls Anchor,38,CG,1,1,coral,20
+2021,June,29,Pauls Anchor,38,CG,1,1,macro_algae,70
+2021,June,29,Pauls Anchor,38,CG,1,1,cca,0
+2021,June,29,Pauls Anchor,38,CG,1,1,turf_algae,0
+2021,June,29,Pauls Anchor,38,CG,1,1,other,0
+2021,June,29,Pauls Anchor,38,CG,1,1,sand,10
+2021,June,29,Pauls Anchor,38,CG,1,3,coral,15
+2021,June,29,Pauls Anchor,38,CG,1,3,cca,20
+2021,June,29,Pauls Anchor,38,CG,1,3,macro_algae,35
+2021,June,29,Pauls Anchor,38,CG,1,3,turf_algae,0
+2021,June,29,Pauls Anchor,38,CG,1,3,sand,0
+2021,June,29,Pauls Anchor,38,CG,1,3,other,30
+2021,June,29,Pauls Anchor,38,CG,1,5,coral,10
+2021,June,29,Pauls Anchor,38,CG,1,5,macro_algae,20
+2021,June,29,Pauls Anchor,38,CG,1,5,sand,30
+2021,June,29,Pauls Anchor,38,CG,1,5,cca,0
+2021,June,29,Pauls Anchor,38,CG,1,5,turf_algae,0
+2021,June,29,Pauls Anchor,38,CG,1,5,other,40
+2021,June,29,Pauls Anchor,38,CG,1,7,coral,40
+2021,June,29,Pauls Anchor,38,CG,1,7,macro_algae,20
+2021,June,29,Pauls Anchor,38,CG,1,7,sand,10
+2021,June,29,Pauls Anchor,38,CG,1,7,cca,0
+2021,June,29,Pauls Anchor,38,CG,1,7,turf_algae,0
+2021,June,29,Pauls Anchor,38,CG,1,7,other,30
+2021,June,29,Pauls Anchor,38,CG,1,9,coral,5
+2021,June,29,Pauls Anchor,38,CG,1,9,cca,10
+2021,June,29,Pauls Anchor,38,CG,1,9,macro_algae,30
+2021,June,29,Pauls Anchor,38,CG,1,9,turf_algae,25
+2021,June,29,Pauls Anchor,38,CG,1,9,other,0
+2021,June,29,Pauls Anchor,38,CG,1,9,sand,30
+2021,June,29,Pauls Anchor,38,CG_SW,2,1,coral,10
+2021,June,29,Pauls Anchor,38,CG_SW,2,1,macro_algae,70
+2021,June,29,Pauls Anchor,38,CG_SW,2,1,turf_algae,0
+2021,June,29,Pauls Anchor,38,CG_SW,2,1,other,0
+2021,June,29,Pauls Anchor,38,CG_SW,2,1,cca,0
+2021,June,29,Pauls Anchor,38,CG_SW,2,1,sand,20
+2021,June,29,Pauls Anchor,38,CG_SW,2,3,coral,40
+2021,June,29,Pauls Anchor,38,CG_SW,2,3,macro_algae,30
+2021,June,29,Pauls Anchor,38,CG_SW,2,3,sand,20
+2021,June,29,Pauls Anchor,38,CG_SW,2,3,cca,0
+2021,June,29,Pauls Anchor,38,CG_SW,2,3,sand,0
+2021,June,29,Pauls Anchor,38,CG_SW,2,3,other,10
+2021,June,29,Pauls Anchor,38,CG_SW,2,5,coral,20
+2021,June,29,Pauls Anchor,38,CG_SW,2,5,macro_algae,30
+2021,June,29,Pauls Anchor,38,CG_SW,2,5,turf_algae,30
+2021,June,29,Pauls Anchor,38,CG_SW,2,5,cca,0
+2021,June,29,Pauls Anchor,38,CG_SW,2,5,other,0
+2021,June,29,Pauls Anchor,38,CG_SW,2,5,sand,20
+2021,June,29,Snapshot,33,CG,1,1,macro_algae,20
+2021,June,29,Snapshot,33,CG,1,1,turf_algae,30
+2021,June,29,Snapshot,33,CG,1,1,coral,0
+2021,June,29,Snapshot,33,CG,1,1,cca,0
+2021,June,29,Snapshot,33,CG,1,1,other,0
+2021,June,29,Snapshot,33,CG,1,1,sand,50
+2021,June,29,Snapshot,33,CG,1,3,coral,20
+2021,June,29,Snapshot,33,CG,1,3,macro_algae,30
+2021,June,29,Snapshot,33,CG,1,3,cca,0
+2021,June,29,Snapshot,33,CG,1,3,turf_algae,0
+2021,June,29,Snapshot,33,CG,1,3,sand,0
+2021,June,29,Snapshot,33,CG,1,3,other,50
+2021,June,29,Snapshot,33,CG,1,5,coral,80
+2021,June,29,Snapshot,33,CG,1,5,cca,0
+2021,June,29,Snapshot,33,CG,1,5,sand,0
+2021,June,29,Snapshot,33,CG,1,5,other,0
+2021,June,29,Snapshot,33,CG,1,5,turf_algae,0
+2021,June,29,Snapshot,33,CG,1,5,macro_algae,20
+2021,June,29,Snapshot,33,CG,1,7,macro_algae,75
+2021,June,29,Snapshot,33,CG,1,7,sand,5
+2021,June,29,Snapshot,33,CG,1,7,turf_algae,0
+2021,June,29,Snapshot,33,CG,1,7,coral,0
+2021,June,29,Snapshot,33,CG,1,7,cca,0
+2021,June,29,Snapshot,33,CG,1,7,other,20
+2021,June,29,Snapshot,33,CG,1,9,coral,10
+2021,June,29,Snapshot,33,CG,1,9,cca,0
+2021,June,29,Snapshot,33,CG,1,9,other,0
+2021,June,29,Snapshot,33,CG,1,9,macro_algae,0
+2021,June,29,Snapshot,33,CG,1,9,turf_algae,0
+2021,June,29,Snapshot,33,CG,1,9,sand,90
+2021,June,29,Snapshot,33,CG,2,1,coral,5
+2021,June,29,Snapshot,33,CG,2,1,cca,30
+2021,June,29,Snapshot,33,CG,2,1,macro_algae,40
+2021,June,29,Snapshot,33,CG,2,1,turf_algae,5
+2021,June,29,Snapshot,33,CG,2,1,sand,0
+2021,June,29,Snapshot,33,CG,2,1,other,20
+2021,June,29,Snapshot,33,CG,2,3,coral,100
+2021,June,29,Snapshot,33,CG,2,5,cca,100
+2021,June,29,Snapshot,33,CG,2,5,macro_algae,100
+2021,June,29,Snapshot,33,CG,2,5,turf_algae,100
+2021,June,29,Snapshot,33,CG,2,5,sand,100
+2021,June,29,Snapshot,33,CG,2,5,other,100
+2021,June,29,Snapshot,33,CG,2,5,coral,100
+2021,June,29,Snapshot,33,CG,2,7,coral,20
+2021,June,29,Snapshot,33,CG,2,7,cca,10
+2021,June,29,Snapshot,33,CG,2,7,macro_algae,30
+2021,June,29,Snapshot,33,CG,2,7,turf_algae,0
+2021,June,29,Snapshot,33,CG,2,7,other,0
+2021,June,29,Snapshot,33,CG,2,7,sand,40
+2021,June,29,Snapshot,33,CG,2,9,coral,20
+2021,June,29,Snapshot,33,CG,2,9,cca,10
+2021,June,29,Snapshot,33,CG,2,9,macro_algae,30
+2021,June,29,Snapshot,33,CG,2,9,turf_algae,0
+2021,June,29,Snapshot,33,CG,2,9,other,0
+2021,June,29,Snapshot,33,CG,2,9,sand,40
+2021,June,29,Meadows,18,CG,1,1,coral,70
+2021,June,29,Meadows,18,CG,1,1,macro_algae,10
+2021,June,29,Meadows,18,CG,1,1,cca,0
+2021,June,29,Meadows,18,CG,1,1,sand,0
+2021,June,29,Meadows,18,CG,1,1,turf_algae,0
+2021,June,29,Meadows,18,CG,1,1,other,20
+2021,June,29,Meadows,18,CG,1,3,cca,0
+2021,June,29,Meadows,18,CG,1,3,macro_algae,0
+2021,June,29,Meadows,18,CG,1,3,turf_algae,0
+2021,June,29,Meadows,18,CG,1,3,other,0
+2021,June,29,Meadows,18,CG,1,3,sand,0
+2021,June,29,Meadows,18,CG,1,3,coral,100
+2021,June,29,Meadows,18,CG,1,5,coral,0
+2021,June,29,Meadows,18,CG,1,5,cca,0
+2021,June,29,Meadows,18,CG,1,5,macro_algae,0
+2021,June,29,Meadows,18,CG,1,5,turf_algae,0
+2021,June,29,Meadows,18,CG,1,5,sand,0
+2021,June,29,Meadows,18,CG,1,5,other,100
+2021,June,29,Meadows,18,CG,1,7,cca,0
+2021,June,29,Meadows,18,CG,1,7,macro_algae,0
+2021,June,29,Meadows,18,CG,1,7,turf_algae,0
+2021,June,29,Meadows,18,CG,1,7,other,0
+2021,June,29,Meadows,18,CG,1,7,sand,0
+2021,June,29,Meadows,18,CG,1,7,coral,100
+2021,June,29,Meadows,18,CG,1,9,coral,10
+2021,June,29,Meadows,18,CG,1,9,macro_algae,80
+2021,June,29,Meadows,18,CG,1,9,turf_algae,0
+2021,June,29,Meadows,18,CG,1,9,cca,0
+2021,June,29,Meadows,18,CG,1,9,sand,0
+2021,June,29,Meadows,18,CG,1,9,other,10
+2021,June,29,Meadows,18,CG,2,1,coral,5
+2021,June,29,Meadows,18,CG,2,1,macro_algae,60
+2021,June,29,Meadows,18,CG,2,1,sand,20
+2021,June,29,Meadows,18,CG,2,1,cca,0
+2021,June,29,Meadows,18,CG,2,1,turf_algae,0
+2021,June,29,Meadows,18,CG,2,1,other,15
+2021,June,29,Meadows,18,CG,2,3,coral,30
+2021,June,29,Meadows,18,CG,2,3,cca,20
+2021,June,29,Meadows,18,CG,2,3,macro_algae,20
+2021,June,29,Meadows,18,CG,2,3,turf_algae,0
+2021,June,29,Meadows,18,CG,2,3,other,0
+2021,June,29,Meadows,18,CG,2,3,sand,30
+2021,June,29,Meadows,18,CG,2,5,coral,0
+2021,June,29,Meadows,18,CG,2,5,cca,0
+2021,June,29,Meadows,18,CG,2,5,macro_algae,0
+2021,June,29,Meadows,18,CG,2,5,turf_algae,0
+2021,June,29,Meadows,18,CG,2,5,other,0
+2021,June,29,Meadows,18,CG,2,5,sand,100
+2021,June,29,Meadows,18,CG,2,7,coral,30
+2021,June,29,Meadows,18,CG,2,7,macro_algae,50
+2021,June,29,Meadows,18,CG,2,7,sand,10
+2021,June,29,Meadows,18,CG,2,7,turf_algae,0
+2021,June,29,Meadows,18,CG,2,7,cca,0
+2021,June,29,Meadows,18,CG,2,7,other,10
+2021,June,29,Meadows,18,CG,2,9,coral,5
+2021,June,29,Meadows,18,CG,2,9,cca,10
+2021,June,29,Meadows,18,CG,2,9,macro_algae,80
+2021,June,29,Meadows,18,CG,2,9,turf_algae,0
+2021,June,29,Meadows,18,CG,2,9,other,0
+2021,June,29,Meadows,18,CG,2,9,sand,5
+2021,June,30,Sailfin,30,CG,1,1,coral,10
+2021,June,30,Sailfin,30,CG,1,1,macro_algae,80
+2021,June,30,Sailfin,30,CG,1,1,sand,5
+2021,June,30,Sailfin,30,CG,1,1,cca,0
+2021,June,30,Sailfin,30,CG,1,1,turf_algae,0
+2021,June,30,Sailfin,30,CG,1,1,other,5
+2021,June,30,Sailfin,30,CG,1,3,macro_algae,100
+2021,June,30,Sailfin,30,CG,1,3,turf_algae,0
+2021,June,30,Sailfin,30,CG,1,3,coral,0
+2021,June,30,Sailfin,30,CG,1,3,cca,0
+2021,June,30,Sailfin,30,CG,1,3,sand,0
+2021,June,30,Sailfin,30,CG,1,3,other,0
+2021,June,30,Sailfin,30,CG,1,5,coral,10
+2021,June,30,Sailfin,30,CG,1,5,macro_algae,70
+2021,June,30,Sailfin,30,CG,1,5,sand,10
+2021,June,30,Sailfin,30,CG,1,5,cca,0
+2021,June,30,Sailfin,30,CG,1,5,turf_algae,0
+2021,June,30,Sailfin,30,CG,1,5,other,10
+2021,June,30,Sailfin,30,CG,1,7,coral,10
+2021,June,30,Sailfin,30,CG,1,7,macro_algae,65
+2021,June,30,Sailfin,30,CG,1,7,sand,20
+2021,June,30,Sailfin,30,CG,1,7,turf_algae,0
+2021,June,30,Sailfin,30,CG,1,7,cca,0
+2021,June,30,Sailfin,30,CG,1,7,other,5
+2021,June,30,Sailfin,30,CG,1,9,macro_algae,30
+2021,June,30,Sailfin,30,CG,1,9,turf_algae,10
+2021,June,30,Sailfin,30,CG,1,9,sand,20
+2021,June,30,Sailfin,30,CG,1,9,coral,0
+2021,June,30,Sailfin,30,CG,1,9,cca,0
+2021,June,30,Sailfin,30,CG,1,9,other,40
+2021,June,30,Sailfin,30,CG,2,1,coral,20
+2021,June,30,Sailfin,30,CG,2,1,macro_algae,30
+2021,June,30,Sailfin,30,CG,2,1,cca,0
+2021,June,30,Sailfin,30,CG,2,1,turf_algae,0
+2021,June,30,Sailfin,30,CG,2,1,other,0
+2021,June,30,Sailfin,30,CG,2,1,sand,50
+2021,June,30,Sailfin,30,CG,2,3,coral,20
+2021,June,30,Sailfin,30,CG,2,3,macro_algae,20
+2021,June,30,Sailfin,30,CG,2,3,turf_algae,0
+2021,June,30,Sailfin,30,CG,2,3,cca,0
+2021,June,30,Sailfin,30,CG,2,3,other,0
+2021,June,30,Sailfin,30,CG,2,3,sand,60
+2021,June,30,Sailfin,30,CG,2,5,coral,10
+2021,June,30,Sailfin,30,CG,2,5,cca,20
+2021,June,30,Sailfin,30,CG,2,5,macro_algae,30
+2021,June,30,Sailfin,30,CG,2,5,sand,20
+2021,June,30,Sailfin,30,CG,2,5,other,20
+2021,June,30,Sailfin,30,CG,2,5,turf_algae,0
+2021,June,30,Sailfin,30,CG,2,7,coral,10
+2021,June,30,Sailfin,30,CG,2,7,cca,10
+2021,June,30,Sailfin,30,CG,2,7,macro_algae,30
+2021,June,30,Sailfin,30,CG,2,7,sand,40
+2021,June,30,Sailfin,30,CG,2,7,other,10
+2021,June,30,Sailfin,30,CG,2,7,turf_algae,0
+2021,June,30,Sailfin,30,CG,2,9,coral,10
+2021,June,30,Sailfin,30,CG,2,9,macro_algae,70
+2021,June,30,Sailfin,30,CG,2,9,turf_algae,0
+2021,June,30,Sailfin,30,CG,2,9,other,0
+2021,June,30,Sailfin,30,CG,2,9,cca,0
+2021,June,30,Sailfin,30,CG,2,9,sand,20
+2021,June,30,Jigsaw,35,CG,1,1,coral,60
+2021,June,30,Jigsaw,35,CG,1,1,cca,10
+2021,June,30,Jigsaw,35,CG,1,1,turf_algae,0
+2021,June,30,Jigsaw,35,CG,1,1,sand,0
+2021,June,30,Jigsaw,35,CG,1,1,other,0
+2021,June,30,Jigsaw,35,CG,1,1,macro_algae,30
+2021,June,30,Jigsaw,35,CG,1,3,coral,30
+2021,June,30,Jigsaw,35,CG,1,3,macro_algae,10
+2021,June,30,Jigsaw,35,CG,1,3,turf_algae,0
+2021,June,30,Jigsaw,35,CG,1,3,sand,0
+2021,June,30,Jigsaw,35,CG,1,3,cca,0
+2021,June,30,Jigsaw,35,CG,1,3,other,60
+2021,June,30,Jigsaw,35,CG,1,5,coral,80
+2021,June,30,Jigsaw,35,CG,1,5,macro_algae,10
+2021,June,30,Jigsaw,35,CG,1,5,turf_algae,0
+2021,June,30,Jigsaw,35,CG,1,5,cca,0
+2021,June,30,Jigsaw,35,CG,1,5,coral,0
+2021,June,30,Jigsaw,35,CG,1,5,other,10
+2021,June,30,Jigsaw,35,CG,1,7,coral,30
+2021,June,30,Jigsaw,35,CG,1,7,sand,60
+2021,June,30,Jigsaw,35,CG,1,7,cca,0
+2021,June,30,Jigsaw,35,CG,1,7,macro_algae,0
+2021,June,30,Jigsaw,35,CG,1,7,turf_algae,0
+2021,June,30,Jigsaw,35,CG,1,7,other,10
+2021,June,30,Jigsaw,35,CG,1,9,coral,10
+2021,June,30,Jigsaw,35,CG,1,9,macro_algae,5
+2021,June,30,Jigsaw,35,CG,1,9,sand,80
+2021,June,30,Jigsaw,35,CG,1,9,cca,0
+2021,June,30,Jigsaw,35,CG,1,9,turf_algae,0
+2021,June,30,Jigsaw,35,CG,1,9,other,5
+2021,June,30,Jigsaw,35,CG,2,1,coral,30
+2021,June,30,Jigsaw,35,CG,2,1,cca,10
+2021,June,30,Jigsaw,35,CG,2,1,macro_algae,20
+2021,June,30,Jigsaw,35,CG,2,1,sand,30
+2021,June,30,Jigsaw,35,CG,2,1,turf_algae,0
+2021,June,30,Jigsaw,35,CG,2,1,other,10
+2021,June,30,Jigsaw,35,CG,2,3,coral,30
+2021,June,30,Jigsaw,35,CG,2,3,macro_algae,30
+2021,June,30,Jigsaw,35,CG,2,3,sand,20
+2021,June,30,Jigsaw,35,CG,2,3,turf_algae,0
+2021,June,30,Jigsaw,35,CG,2,3,cca,0
+2021,June,30,Jigsaw,35,CG,2,3,other,20
+2021,June,30,Jigsaw,35,CG,2,5,coral,75
+2021,June,30,Jigsaw,35,CG,2,5,macro_algae,20
+2021,June,30,Jigsaw,35,CG,2,5,turf_algae,0
+2021,June,30,Jigsaw,35,CG,2,5,cca,0
+2021,June,30,Jigsaw,35,CG,2,5,sand,0
+2021,June,30,Jigsaw,35,CG,2,5,other,5
+2021,June,30,Jigsaw,35,CG,2,7,coral,60
+2021,June,30,Jigsaw,35,CG,2,7,macro_algae,30
+2021,June,30,Jigsaw,35,CG,2,7,sand,5
+2021,June,30,Jigsaw,35,CG,2,7,cca,0
+2021,June,30,Jigsaw,35,CG,2,7,turf_algae,0
+2021,June,30,Jigsaw,35,CG,2,7,other,5
+2021,June,30,Jigsaw,35,CG,2,9,coral,40
+2021,June,30,Jigsaw,35,CG,2,9,cca,0
+2021,June,30,Jigsaw,35,CG,2,9,turf_algae,0
+2021,June,30,Jigsaw,35,CG,2,9,macro_algae,30
+2021,June,30,Jigsaw,35,CG,2,9,sand,20
+2021,June,30,Jigsaw,35,CG,2,9,other,10
+2021,June,28,Grundys,45,GGG,1,1,coral,50
+2021,June,28,Grundys,45,GGG,1,1,cca,25
+2021,June,28,Grundys,45,GGG,1,1,macro_algae,15
+2021,June,28,Grundys,45,GGG,1,1,turf_algae,10
+2021,June,28,Grundys,45,GGG,1,1,sand,0
+2021,June,28,Grundys,45,GGG,1,1,other,0
+2021,June,28,Grundys,45,GGG,1,3,coral,25
+2021,June,28,Grundys,45,GGG,1,3,cca,20
+2021,June,28,Grundys,45,GGG,1,3,macro_algae,5
+2021,June,28,Grundys,45,GGG,1,3,turf_algae,50
+2021,June,28,Grundys,45,GGG,1,3,sand,0
+2021,June,28,Grundys,45,GGG,1,3,other,0
+2021,June,28,Grundys,45,GGG,1,5,coral,60
+2021,June,28,Grundys,45,GGG,1,5,cca,20
+2021,June,28,Grundys,45,GGG,1,5,macro_algae,10
+2021,June,28,Grundys,45,GGG,1,5,turf_algae,10
+2021,June,28,Grundys,45,GGG,1,5,sand,0
+2021,June,28,Grundys,45,GGG,1,5,other,0
+2021,June,28,Grundys,45,GGG,1,7,coral,0
+2021,June,28,Grundys,45,GGG,1,7,cca,0
+2021,June,28,Grundys,45,GGG,1,7,macro_algae,25
+2021,June,28,Grundys,45,GGG,1,7,turf_algae,0
+2021,June,28,Grundys,45,GGG,1,7,sand,0
+2021,June,28,Grundys,45,GGG,1,7,other,75
+2021,June,28,Grundys,45,GGG,1,9,coral,20
+2021,June,28,Grundys,45,GGG,1,9,cca,15
+2021,June,28,Grundys,45,GGG,1,9,macro_algae,25
+2021,June,28,Grundys,45,GGG,1,9,turf_algae,20
+2021,June,28,Grundys,45,GGG,1,9,sand,20
+2021,June,28,Grundys,45,GGG,1,9,other,0
+2021,June,29,Snapshot,32,GGG,1,1,coral,25
+2021,June,29,Snapshot,32,GGG,1,1,cca,15
+2021,June,29,Snapshot,32,GGG,1,1,macro_algae,25
+2021,June,29,Snapshot,32,GGG,1,1,turf_algae,30
+2021,June,29,Snapshot,32,GGG,1,1,sand,0
+2021,June,29,Snapshot,32,GGG,1,1,other,5
+2021,June,29,Snapshot,32,GGG,1,3,coral,50
+2021,June,29,Snapshot,32,GGG,1,3,cca,20
+2021,June,29,Snapshot,32,GGG,1,3,macro_algae,10
+2021,June,29,Snapshot,32,GGG,1,3,turf_algae,20
+2021,June,29,Snapshot,32,GGG,1,3,sand,0
+2021,June,29,Snapshot,32,GGG,1,3,other,0
+2021,June,29,Snapshot,32,GGG,1,5,coral,10
+2021,June,29,Snapshot,32,GGG,1,5,cca,10
+2021,June,29,Snapshot,32,GGG,1,5,macro_algae,50
+2021,June,29,Snapshot,32,GGG,1,5,turf_algae,20
+2021,June,29,Snapshot,32,GGG,1,5,sand,10
+2021,June,29,Snapshot,32,GGG,1,5,other,0
+2021,June,29,Snapshot,32,GGG,1,7,coral,0
+2021,June,29,Snapshot,32,GGG,1,7,cca,10
+2021,June,29,Snapshot,32,GGG,1,7,macro_algae,5
+2021,June,29,Snapshot,32,GGG,1,7,turf_algae,5
+2021,June,29,Snapshot,32,GGG,1,7,sand,0
+2021,June,29,Snapshot,32,GGG,1,7,other,80
+2021,June,29,Snapshot,32,GGG,1,9,coral,10
+2021,June,29,Snapshot,32,GGG,1,9,cca,20
+2021,June,29,Snapshot,32,GGG,1,9,macro_algae,50
+2021,June,29,Snapshot,32,GGG,1,9,turf_algae,15
+2021,June,29,Snapshot,32,GGG,1,9,sand,5
+2021,June,29,Snapshot,32,GGG,1,9,other,0
+2021,June ,29,Pauls Anchor,38,GGG,1,1,coral,25
+2021,June ,29,Pauls Anchor,38,GGG,1,1,cca,30
+2021,June ,29,Pauls Anchor,38,GGG,1,1,macro_algae,5
+2021,June ,29,Pauls Anchor,38,GGG,1,1,turf_algae,40
+2021,June ,29,Pauls Anchor,38,GGG,1,1,sand,0
+2021,June ,29,Pauls Anchor,38,GGG,1,1,other,0
+2021,June ,29,Pauls Anchor,38,GGG,1,3,coral,15
+2021,June ,29,Pauls Anchor,38,GGG,1,3,cca,30
+2021,June ,29,Pauls Anchor,38,GGG,1,3,macro_algae,15
+2021,June ,29,Pauls Anchor,38,GGG,1,3,turf_algae,40
+2021,June ,29,Pauls Anchor,38,GGG,1,3,sand,0
+2021,June ,29,Pauls Anchor,38,GGG,1,3,other,0
+2021,June ,29,Pauls Anchor,38,GGG,1,5,coral,10
+2021,June ,29,Pauls Anchor,38,GGG,1,5,cca,10
+2021,June ,29,Pauls Anchor,38,GGG,1,5,macro_algae,15
+2021,June ,29,Pauls Anchor,38,GGG,1,5,turf_algae,60
+2021,June ,29,Pauls Anchor,38,GGG,1,5,sand,5
+2021,June ,29,Pauls Anchor,38,GGG,1,5,other,0
+2021,June ,29,Pauls Anchor,38,GGG,1,7,coral,5
+2021,June ,29,Pauls Anchor,38,GGG,1,7,cca,5
+2021,June ,29,Pauls Anchor,38,GGG,1,7,macro_algae,20
+2021,June ,29,Pauls Anchor,38,GGG,1,7,turf_algae,70
+2021,June ,29,Pauls Anchor,38,GGG,1,7,sand,0
+2021,June ,29,Pauls Anchor,38,GGG,1,7,other,0
+2021,June ,29,Pauls Anchor,38,GGG,1,9,coral,20
+2021,June ,29,Pauls Anchor,38,GGG,1,9,cca,15
+2021,June ,29,Pauls Anchor,38,GGG,1,9,macro_algae,15
+2021,June ,29,Pauls Anchor,38,GGG,1,9,turf_algae,50
+2021,June ,29,Pauls Anchor,38,GGG,1,9,sand,0
+2021,June ,29,Pauls Anchor,38,GGG,1,9,other,0
+2021,June ,29,Meadows,18,GGG,1,1,coral,80
+2021,June ,29,Meadows,18,GGG,1,1,cca,10
+2021,June ,29,Meadows,18,GGG,1,1,macro_algae,10
+2021,June ,29,Meadows,18,GGG,1,1,turf_algae,0
+2021,June ,29,Meadows,18,GGG,1,1,sand,0
+2021,June ,29,Meadows,18,GGG,1,1,other,0
+2021,June ,29,Meadows,18,GGG,1,3,coral,20
+2021,June ,29,Meadows,18,GGG,1,3,cca,60
+2021,June ,29,Meadows,18,GGG,1,3,macro_algae,5
+2021,June ,29,Meadows,18,GGG,1,3,turf_algae,15
+2021,June ,29,Meadows,18,GGG,1,3,sand,0
+2021,June ,29,Meadows,18,GGG,1,3,other,0
+2021,June ,29,Meadows,18,GGG,1,5,coral,15
+2021,June ,29,Meadows,18,GGG,1,5,cca,30
+2021,June ,29,Meadows,18,GGG,1,5,macro_algae,15
+2021,June ,29,Meadows,18,GGG,1,5,turf_algae,40
+2021,June ,29,Meadows,18,GGG,1,5,sand,0
+2021,June ,29,Meadows,18,GGG,1,5,other,0
+2021,June ,29,Meadows,18,GGG,1,7,coral,45
+2021,June ,29,Meadows,18,GGG,1,7,cca,20
+2021,June ,29,Meadows,18,GGG,1,7,macro_algae,15
+2021,June ,29,Meadows,18,GGG,1,7,turf_algae,20
+2021,June ,29,Meadows,18,GGG,1,7,sand,0
+2021,June ,29,Meadows,18,GGG,1,7,other,0
+2021,June ,29,Meadows,18,GGG,1,9,coral,35
+2021,June ,29,Meadows,18,GGG,1,9,cca,15
+2021,June ,29,Meadows,18,GGG,1,9,macro_algae,30
+2021,June ,29,Meadows,18,GGG,1,9,turf_algae,20
+2021,June ,29,Meadows,18,GGG,1,9,sand,0
+2021,June ,29,Meadows,18,GGG,1,9,other,0
+2021,June ,30,Sailfin,25,GGG,1,1,coral,40
+2021,June ,30,Sailfin,25,GGG,1,1,cca,20
+2021,June ,30,Sailfin,25,GGG,1,1,macro_algae,10
+2021,June ,30,Sailfin,25,GGG,1,1,turf_algae,25
+2021,June ,30,Sailfin,25,GGG,1,1,sand,3
+2021,June ,30,Sailfin,25,GGG,1,1,other,0
+2021,June ,30,Sailfin,25,GGG,1,3,coral,50
+2021,June ,30,Sailfin,25,GGG,1,3,cca,10
+2021,June ,30,Sailfin,25,GGG,1,3,macro_algae,5
+2021,June ,30,Sailfin,25,GGG,1,3,turf_algae,30
+2021,June ,30,Sailfin,25,GGG,1,3,sand,5
+2021,June ,30,Sailfin,25,GGG,1,3,other,0
+2021,June ,30,Sailfin,25,GGG,1,5,coral,50
+2021,June ,30,Sailfin,25,GGG,1,5,cca,10
+2021,June ,30,Sailfin,25,GGG,1,5,macro_algae,25
+2021,June ,30,Sailfin,25,GGG,1,5,turf_algae,15
+2021,June ,30,Sailfin,25,GGG,1,5,sand,0
+2021,June ,30,Sailfin,25,GGG,1,5,other,0
+2021,June ,30,Sailfin,25,GGG,1,7,coral,40
+2021,June ,30,Sailfin,25,GGG,1,7,cca,10
+2021,June ,30,Sailfin,25,GGG,1,7,macro_algae,20
+2021,June ,30,Sailfin,25,GGG,1,7,turf_algae,25
+2021,June ,30,Sailfin,25,GGG,1,7,sand,0
+2021,June ,30,Sailfin,25,GGG,1,7,sponge,5
+2021,June ,30,Sailfin,25,GGG,1,9,coral,5
+2021,June ,30,Sailfin,25,GGG,1,9,cca,80
+2021,June ,30,Sailfin,25,GGG,1,9,macro_algae,5
+2021,June ,30,Sailfin,25,GGG,1,9,turf_algae,10
+2021,June ,30,Sailfin,25,GGG,1,9,sand,0
+2021,June ,30,Sailfin,25,GGG,1,9,other,0
+2021,June ,30,Jigsaw,38,GGG,1,1,coral,5
+2021,June ,30,Jigsaw,38,GGG,1,1,cca,5
+2021,June ,30,Jigsaw,38,GGG,1,1,macro_algae,25
+2021,June ,30,Jigsaw,38,GGG,1,1,turf_algae,25
+2021,June ,30,Jigsaw,38,GGG,1,1,sand,40
+2021,June ,30,Jigsaw,38,GGG,1,1,other,0
+2021,June ,30,Jigsaw,38,GGG,1,3,coral,0
+2021,June ,30,Jigsaw,38,GGG,1,3,cca,30
+2021,June ,30,Jigsaw,38,GGG,1,3,macro_algae,20
+2021,June ,30,Jigsaw,38,GGG,1,3,turf_algae,15
+2021,June ,30,Jigsaw,38,GGG,1,3,sand,35
+2021,June ,30,Jigsaw,38,GGG,1,3,other,0
+2021,June ,30,Jigsaw,38,GGG,1,5,coral,20
+2021,June ,30,Jigsaw,38,GGG,1,5,cca,5
+2021,June ,30,Jigsaw,38,GGG,1,5,macro_algae,5
+2021,June ,30,Jigsaw,38,GGG,1,5,turf_algae,65
+2021,June ,30,Jigsaw,38,GGG,1,5,sand,0
+2021,June ,30,Jigsaw,38,GGG,1,5,other,0
+2021,June ,30,Jigsaw,38,GGG,1,7,coral,15
+2021,June ,30,Jigsaw,38,GGG,1,7,cca,30
+2021,June ,30,Jigsaw,38,GGG,1,7,macro_algae,20
+2021,June ,30,Jigsaw,38,GGG,1,7,turf_algae,35
+2021,June ,30,Jigsaw,38,GGG,1,7,sand,0
+2021,June ,30,Jigsaw,38,GGG,1,7,other,0
+2021,June ,30,Jigsaw,38,GGG,1,9,coral,20
+2021,June ,30,Jigsaw,38,GGG,1,9,cca,15
+2021,June ,30,Jigsaw,38,GGG,1,9,macro_algae,25
+2021,June ,30,Jigsaw,38,GGG,1,9,turf_algae,30
+2021,June ,30,Jigsaw,38,GGG,1,9,sand,10
+2021,June ,30,Jigsaw,38,GGG,1,9,other,0
+2021,June,25,Coral City,33,GEC,1,1,coral,15
+2021,June,25,Coral City,33,GEC,1,1,cca,2
+2021,June,25,Coral City,33,GEC,1,1,macro_algae,76
+2021,June,25,Coral City,33,GEC,1,1,turf_algae,5
+2021,June,25,Coral City,33,GEC,1,1,sand,0
+2021,June,25,Coral City,33,GEC,1,1,other,2
+2021,June,25,Coral City,33,GEC,1,3,coral,0
+2021,June,25,Coral City,33,GEC,1,3,cca,30
+2021,June,25,Coral City,33,GEC,1,3,macro_algae,55
+2021,June,25,Coral City,33,GEC,1,3,turf_algae,10
+2021,June,25,Coral City,33,GEC,1,3,sand,0
+2021,June,25,Coral City,33,GEC,1,3,other,5
+2021,June,25,Coral City,33,GEC,1,5,coral,5
+2021,June,25,Coral City,33,GEC,1,5,cca,10
+2021,June,25,Coral City,33,GEC,1,5,macro_algae,65
+2021,June,25,Coral City,33,GEC,1,5,turf_algae,10
+2021,June,25,Coral City,33,GEC,1,5,sand,0
+2021,June,25,Coral City,33,GEC,1,5,other,10
+2021,June,25,Coral City,33,GEC,1,7,coral,0
+2021,June,25,Coral City,33,GEC,1,7,cca,5
+2021,June,25,Coral City,33,GEC,1,7,macro_algae,75
+2021,June,25,Coral City,33,GEC,1,7,turf_algae,10
+2021,June,25,Coral City,33,GEC,1,7,sand,10
+2021,June,25,Coral City,33,GEC,1,7,other,0
+2021,June,25,Coral City,33,GEC,1,9,coral,60
+2021,June,25,Coral City,33,GEC,1,9,cca,5
+2021,June,25,Coral City,33,GEC,1,9,macro_algae,30
+2021,June,25,Coral City,33,GEC,1,9,turf_algae,5
+2021,June,25,Coral City,33,GEC,1,9,sand,0
+2021,June,25,Coral City,33,GEC,1,9,other,0
+2021,June,25,Coral City,33,GEC,2,1,coral,10
+2021,June,25,Coral City,33,GEC,2,1,cca,0
+2021,June,25,Coral City,33,GEC,2,1,macro_algae,40
+2021,June,25,Coral City,33,GEC,2,1,turf_algae,10
+2021,June,25,Coral City,33,GEC,2,1,sand,40
+2021,June,25,Coral City,33,GEC,2,1,other,0
+2021,June,25,Coral City,33,GEC,2,3,coral,10
+2021,June,25,Coral City,33,GEC,2,3,cca,2
+2021,June,25,Coral City,33,GEC,2,3,macro_algae,86
+2021,June,25,Coral City,33,GEC,2,3,turf_algae,0
+2021,June,25,Coral City,33,GEC,2,3,sand,2
+2021,June,25,Coral City,33,GEC,2,3,other,0
+2021,June,25,Coral City,33,GEC,2,5,coral,10
+2021,June,25,Coral City,33,GEC,2,5,cca,5
+2021,June,25,Coral City,33,GEC,2,5,macro_algae,80
+2021,June,25,Coral City,33,GEC,2,5,turf_algae,5
+2021,June,25,Coral City,33,GEC,2,5,sand,0
+2021,June,25,Coral City,33,GEC,2,5,other,0
+2021,June,25,Coral City,33,GEC,2,7,coral,40
+2021,June,25,Coral City,33,GEC,2,7,cca,5
+2021,June,25,Coral City,33,GEC,2,7,macro_algae,55
+2021,June,25,Coral City,33,GEC,2,7,turf_algae,0
+2021,June,25,Coral City,33,GEC,2,7,sand,0
+2021,June,25,Coral City,33,GEC,2,7,other,0
+2021,June,25,Coral City,33,GEC,2,9,coral,40
+2021,June,25,Coral City,33,GEC,2,9,cca,10
+2021,June,25,Coral City,33,GEC,2,9,macro_algae,10
+2021,June,25,Coral City,33,GEC,2,9,turf_algae,0
+2021,June,25,Coral City,33,GEC,2,9,sand,0
+2021,June,25,Coral City,33,GEC,2,9,other,40
+2021,June,25,Westpoint,44,GEC,1,1,coral,10
+2021,June,25,Westpoint,44,GEC,1,1,cca,12
+2021,June,25,Westpoint,44,GEC,1,1,macro_algae,30
+2021,June,25,Westpoint,44,GEC,1,1,turf_algae,3
+2021,June,25,Westpoint,44,GEC,1,1,sand,45
+2021,June,25,Westpoint,44,GEC,1,1,other,0
+2021,June,25,Westpoint,44,GEC,1,3,coral,5
+2021,June,25,Westpoint,44,GEC,1,3,cca,10
+2021,June,25,Westpoint,44,GEC,1,3,macro_algae,23
+2021,June,25,Westpoint,44,GEC,1,3,turf_algae,0
+2021,June,25,Westpoint,44,GEC,1,3,sand,60
+2021,June,25,Westpoint,44,GEC,1,3,other,2
+2021,June,25,Westpoint,44,GEC,1,5,coral,5
+2021,June,25,Westpoint,44,GEC,1,5,cca,10
+2021,June,25,Westpoint,44,GEC,1,5,macro_algae,10
+2021,June,25,Westpoint,44,GEC,1,5,turf_algae,10
+2021,June,25,Westpoint,44,GEC,1,5,sand,60
+2021,June,25,Westpoint,44,GEC,1,5,other,5
+2021,June,25,Westpoint,44,GEC,1,7,coral,0
+2021,June,25,Westpoint,44,GEC,1,7,cca,5
+2021,June,25,Westpoint,44,GEC,1,7,macro_algae,65
+2021,June,25,Westpoint,44,GEC,1,7,turf_algae,0
+2021,June,25,Westpoint,44,GEC,1,7,sand,30
+2021,June,25,Westpoint,44,GEC,1,7,other,0
+2021,June,25,Westpoint,44,GEC,1,9,coral,15
+2021,June,25,Westpoint,44,GEC,1,9,cca,5
+2021,June,25,Westpoint,44,GEC,1,9,macro_algae,35
+2021,June,25,Westpoint,44,GEC,1,9,turf_algae,5
+2021,June,25,Westpoint,44,GEC,1,9,sand,40
+2021,June,25,Westpoint,44,GEC,1,9,other,0
+2021,June,25,Westpoint,41,GEC,2,1,coral,10
+2021,June,25,Westpoint,41,GEC,2,1,cca,20
+2021,June,25,Westpoint,41,GEC,2,1,macro_algae,40
+2021,June,25,Westpoint,41,GEC,2,1,turf_algae,10
+2021,June,25,Westpoint,41,GEC,2,1,sand,20
+2021,June,25,Westpoint,41,GEC,2,1,other,0
+2021,June,25,Westpoint,41,GEC,2,3,coral,15
+2021,June,25,Westpoint,41,GEC,2,3,cca,5
+2021,June,25,Westpoint,41,GEC,2,3,macro_algae,35
+2021,June,25,Westpoint,41,GEC,2,3,turf_algae,20
+2021,June,25,Westpoint,41,GEC,2,3,sand,0
+2021,June,25,Westpoint,41,GEC,2,3,other,25
+2021,June,25,Westpoint,41,GEC,2,5,coral,25
+2021,June,25,Westpoint,41,GEC,2,5,cca,5
+2021,June,25,Westpoint,41,GEC,2,5,macro_algae,20
+2021,June,25,Westpoint,41,GEC,2,5,turf_algae,10
+2021,June,25,Westpoint,41,GEC,2,5,sand,40
+2021,June,25,Westpoint,41,GEC,2,5,other,0
+2021,June,25,Westpoint,41,GEC,2,7,coral,0
+2021,June,25,Westpoint,41,GEC,2,7,cca,5
+2021,June,25,Westpoint,41,GEC,2,7,macro_algae,75
+2021,June,25,Westpoint,41,GEC,2,7,turf_algae,5
+2021,June,25,Westpoint,41,GEC,2,7,sand,10
+2021,June,25,Westpoint,41,GEC,2,7,other,5
+2021,June,25,Westpoint,41,GEC,2,9,coral,5
+2021,June,25,Westpoint,41,GEC,2,9,cca,5
+2021,June,25,Westpoint,41,GEC,2,9,macro_algae,40
+2021,June,25,Westpoint,41,GEC,2,9,turf_algae,10
+2021,June,25,Westpoint,41,GEC,2,9,sand,40
+2021,June,25,Westpoint,41,GEC,2,9,other,0
+2021,June,28,Grundys,40,GEC,1,1,coral,2
+2021,June,28,Grundys,40,GEC,1,1,cca,10
+2021,June,28,Grundys,40,GEC,1,1,macro_algae,88
+2021,June,28,Grundys,40,GEC,1,1,turf_algae,0
+2021,June,28,Grundys,40,GEC,1,1,sand,0
+2021,June,28,Grundys,40,GEC,1,1,other,0
+2021,June,28,Grundys,40,GEC,1,3,coral,60
+2021,June,28,Grundys,40,GEC,1,3,cca,5
+2021,June,28,Grundys,40,GEC,1,3,macro_algae,35
+2021,June,28,Grundys,40,GEC,1,3,turf_algae,0
+2021,June,28,Grundys,40,GEC,1,3,sand,0
+2021,June,28,Grundys,40,GEC,1,3,other,0
+2021,June,28,Grundys,40,GEC,1,5,coral,2
+2021,June,28,Grundys,40,GEC,1,5,cca,10
+2021,June,28,Grundys,40,GEC,1,5,macro_algae,83
+2021,June,28,Grundys,40,GEC,1,5,turf_algae,0
+2021,June,28,Grundys,40,GEC,1,5,sand,5
+2021,June,28,Grundys,40,GEC,1,5,other,0
+2021,June,28,Grundys,40,GEC,1,7,coral,0
+2021,June,28,Grundys,40,GEC,1,7,cca,0
+2021,June,28,Grundys,40,GEC,1,7,macro_algae,85
+2021,June,28,Grundys,40,GEC,1,7,turf_algae,0
+2021,June,28,Grundys,40,GEC,1,7,sand,15
+2021,June,28,Grundys,40,GEC,1,7,other,0
+2021,June,28,Grundys,40,GEC,1,9,coral,5
+2021,June,28,Grundys,40,GEC,1,9,cca,0
+2021,June,28,Grundys,40,GEC,1,9,macro_algae,55
+2021,June,28,Grundys,40,GEC,1,9,turf_algae,0
+2021,June,28,Grundys,40,GEC,1,9,sand,40
+2021,June,28,Grundys,40,GEC,1,9,other,0
+2021,June,28,Grundys,40,GEC,2,1,coral,15
+2021,June,28,Grundys,40,GEC,2,1,cca,10
+2021,June,28,Grundys,40,GEC,2,1,macro_algae,70
+2021,June,28,Grundys,40,GEC,2,1,turf_algae,0
+2021,June,28,Grundys,40,GEC,2,1,sand,5
+2021,June,28,Grundys,40,GEC,2,1,other,0
+2021,June,28,Grundys,40,GEC,2,3,coral,5
+2021,June,28,Grundys,40,GEC,2,3,cca,5
+2021,June,28,Grundys,40,GEC,2,3,macro_algae,40
+2021,June,28,Grundys,40,GEC,2,3,turf_algae,10
+2021,June,28,Grundys,40,GEC,2,3,sand,40
+2021,June,28,Grundys,40,GEC,2,3,other,0
+2021,June,28,Grundys,40,GEC,2,5,coral,10
+2021,June,28,Grundys,40,GEC,2,5,cca,0
+2021,June,28,Grundys,40,GEC,2,5,macro_algae,40
+2021,June,28,Grundys,40,GEC,2,5,turf_algae,10
+2021,June,28,Grundys,40,GEC,2,5,sand,40
+2021,June,28,Grundys,40,GEC,2,5,other,0
+2021,June,28,Grundys,40,GEC,2,7,coral,2
+2021,June,28,Grundys,40,GEC,2,7,cca,10
+2021,June,28,Grundys,40,GEC,2,7,macro_algae,0
+2021,June,28,Grundys,40,GEC,2,7,turf_algae,15
+2021,June,28,Grundys,40,GEC,2,7,sand,5
+2021,June,28,Grundys,40,GEC,2,7,other,68
+2021,June,28,Grundys,40,GEC,2,9,coral,0
+2021,June,28,Grundys,40,GEC,2,9,cca,10
+2021,June,28,Grundys,40,GEC,2,9,macro_algae,60
+2021,June,28,Grundys,40,GEC,2,9,turf_algae,15
+2021,June,28,Grundys,40,GEC,2,9,sand,0
+2021,June,28,Grundys,40,GEC,2,9,other,15
+2021,June,28,Marthas,47,GEC,1,1,coral,5
+2021,June,28,Marthas,47,GEC,1,1,cca,3
+2021,June,28,Marthas,47,GEC,1,1,macro_algae,62
+2021,June,28,Marthas,47,GEC,1,1,turf_algae,10
+2021,June,28,Marthas,47,GEC,1,1,sand,20
+2021,June,28,Marthas,47,GEC,1,1,other,0
+2021,June,28,Marthas,47,GEC,1,3,coral,40
+2021,June,28,Marthas,47,GEC,1,3,cca,5
+2021,June,28,Marthas,47,GEC,1,3,macro_algae,35
+2021,June,28,Marthas,47,GEC,1,3,turf_algae,5
+2021,June,28,Marthas,47,GEC,1,3,sand,10
+2021,June,28,Marthas,47,GEC,1,3,other,5
+2021,June,28,Marthas,47,GEC,1,5,coral,100
+2021,June,28,Marthas,47,GEC,1,5,cca,0
+2021,June,28,Marthas,47,GEC,1,5,macro_algae,0
+2021,June,28,Marthas,47,GEC,1,5,turf_algae,0
+2021,June,28,Marthas,47,GEC,1,5,sand,0
+2021,June,28,Marthas,47,GEC,1,5,other,0
+2021,June,28,Marthas,47,GEC,1,7,coral,40
+2021,June,28,Marthas,47,GEC,1,7,cca,5
+2021,June,28,Marthas,47,GEC,1,7,macro_algae,10
+2021,June,28,Marthas,47,GEC,1,7,turf_algae,40
+2021,June,28,Marthas,47,GEC,1,7,sand,5
+2021,June,28,Marthas,47,GEC,1,7,other,0
+2021,June,28,Marthas,47,GEC,1,9,coral,5
+2021,June,28,Marthas,47,GEC,1,9,cca,5
+2021,June,28,Marthas,47,GEC,1,9,macro_algae,55
+2021,June,28,Marthas,47,GEC,1,9,turf_algae,5
+2021,June,28,Marthas,47,GEC,1,9,sand,30
+2021,June,28,Marthas,47,GEC,1,9,other,0
+2021,June,28,Marilyns Cut,35,GEC,1,1,coral,0
+2021,June,28,Marilyns Cut,35,GEC,1,1,cca,5
+2021,June,28,Marilyns Cut,35,GEC,1,1,macro_algae,30
+2021,June,28,Marilyns Cut,35,GEC,1,1,turf_algae,10
+2021,June,28,Marilyns Cut,35,GEC,1,1,sand,5
+2021,June,28,Marilyns Cut,35,GEC,1,1,other,50
+2021,June,28,Marilyns Cut,35,GEC,1,3,coral,30
+2021,June,28,Marilyns Cut,35,GEC,1,3,cca,0
+2021,June,28,Marilyns Cut,35,GEC,1,3,macro_algae,55
+2021,June,28,Marilyns Cut,35,GEC,1,3,turf_algae,0
+2021,June,28,Marilyns Cut,35,GEC,1,3,sand,10
+2021,June,28,Marilyns Cut,35,GEC,1,3,other,5
+2021,June,28,Marilyns Cut,35,GEC,1,5,coral,15
+2021,June,28,Marilyns Cut,35,GEC,1,5,cca,15
+2021,June,28,Marilyns Cut,35,GEC,1,5,macro_algae,50
+2021,June,28,Marilyns Cut,35,GEC,1,5,turf_algae,5
+2021,June,28,Marilyns Cut,35,GEC,1,5,sand,5
+2021,June,28,Marilyns Cut,35,GEC,1,5,other,10
+2021,June,28,Marilyns Cut,35,GEC,1,7,coral,5
+2021,June,28,Marilyns Cut,35,GEC,1,7,cca,5
+2021,June,28,Marilyns Cut,35,GEC,1,7,macro_algae,60
+2021,June,28,Marilyns Cut,35,GEC,1,7,turf_algae,10
+2021,June,28,Marilyns Cut,35,GEC,1,7,sand,20
+2021,June,28,Marilyns Cut,35,GEC,1,7,other,0
+2021,June,28,Marilyns Cut,35,GEC,1,9,coral,5
+2021,June,28,Marilyns Cut,35,GEC,1,9,cca,5
+2021,June,28,Marilyns Cut,35,GEC,1,9,macro_algae,45
+2021,June,28,Marilyns Cut,35,GEC,1,9,turf_algae,10
+2021,June,28,Marilyns Cut,35,GEC,1,9,sand,20
+2021,June,28,Marilyns Cut,35,GEC,1,9,other,15
+2021,June,28,Snapshot,51,GEC,1,1,coral,10
+2021,June,28,Snapshot,51,GEC,1,1,cca,5
+2021,June,28,Snapshot,51,GEC,1,1,macro_algae,45
+2021,June,28,Snapshot,51,GEC,1,1,turf_algae,10
+2021,June,28,Snapshot,51,GEC,1,1,sand,30
+2021,June,28,Snapshot,51,GEC,1,1,other,0
+2021,June,28,Snapshot,51,GEC,1,3,coral,20
+2021,June,28,Snapshot,51,GEC,1,3,cca,5
+2021,June,28,Snapshot,51,GEC,1,3,macro_algae,10
+2021,June,28,Snapshot,51,GEC,1,3,turf_algae,5
+2021,June,28,Snapshot,51,GEC,1,3,sand,5
+2021,June,28,Snapshot,51,GEC,1,3,other,55
+2021,June,28,Snapshot,51,GEC,1,5,coral,60
+2021,June,28,Snapshot,51,GEC,1,5,cca,2
+2021,June,28,Snapshot,51,GEC,1,5,macro_algae,23
+2021,June,28,Snapshot,51,GEC,1,5,turf_algae,0
+2021,June,28,Snapshot,51,GEC,1,5,sand,5
+2021,June,28,Snapshot,51,GEC,1,5,other,10
+2021,June,28,Snapshot,51,GEC,1,7,coral,10
+2021,June,28,Snapshot,51,GEC,1,7,cca,0
+2021,June,28,Snapshot,51,GEC,1,7,macro_algae,25
+2021,June,28,Snapshot,51,GEC,1,7,turf_algae,40
+2021,June,28,Snapshot,51,GEC,1,7,sand,20
+2021,June,28,Snapshot,51,GEC,1,7,other,5
+2021,June,28,Snapshot,51,GEC,1,9,coral,5
+2021,June,28,Snapshot,51,GEC,1,9,cca,5
+2021,June,28,Snapshot,51,GEC,1,9,macro_algae,45
+2021,June,28,Snapshot,51,GEC,1,9,turf_algae,20
+2021,June,28,Snapshot,51,GEC,1,9,sand,15
+2021,June,28,Snapshot,51,GEC,1,9,other,10
+2021,June,29,Pauls Anchor,42,GEC,1,1,coral,80
+2021,June,29,Pauls Anchor,42,GEC,1,1,cca,0
+2021,June,29,Pauls Anchor,42,GEC,1,1,macro_algae,10
+2021,June,29,Pauls Anchor,42,GEC,1,1,turf_algae,10
+2021,June,29,Pauls Anchor,42,GEC,1,1,sand,0
+2021,June,29,Pauls Anchor,42,GEC,1,1,other,0
+2021,June,29,Pauls Anchor,42,GEC,1,3,coral,15
+2021,June,29,Pauls Anchor,42,GEC,1,3,cca,10
+2021,June,29,Pauls Anchor,42,GEC,1,3,macro_algae,40
+2021,June,29,Pauls Anchor,42,GEC,1,3,turf_algae,20
+2021,June,29,Pauls Anchor,42,GEC,1,3,sand,5
+2021,June,29,Pauls Anchor,42,GEC,1,3,other,10
+2021,June,29,Pauls Anchor,42,GEC,1,5,coral,5
+2021,June,29,Pauls Anchor,42,GEC,1,5,cca,15
+2021,June,29,Pauls Anchor,42,GEC,1,5,macro_algae,35
+2021,June,29,Pauls Anchor,42,GEC,1,5,turf_algae,10
+2021,June,29,Pauls Anchor,42,GEC,1,5,sand,5
+2021,June,29,Pauls Anchor,42,GEC,1,5,other,30
+2021,June,29,Pauls Anchor,42,GEC,1,7,coral,15
+2021,June,29,Pauls Anchor,42,GEC,1,7,cca,10
+2021,June,29,Pauls Anchor,42,GEC,1,7,macro_algae,40
+2021,June,29,Pauls Anchor,42,GEC,1,7,turf_algae,10
+2021,June,29,Pauls Anchor,42,GEC,1,7,sand,5
+2021,June,29,Pauls Anchor,42,GEC,1,7,other,20
+2021,June,29,Pauls Anchor,42,GEC,1,9,coral,15
+2021,June,29,Pauls Anchor,42,GEC,1,9,cca,5
+2021,June,29,Pauls Anchor,42,GEC,1,9,macro_algae,70
+2021,June,29,Pauls Anchor,42,GEC,1,9,turf_algae,10
+2021,June,29,Pauls Anchor,42,GEC,1,9,sand,0
+2021,June,29,Pauls Anchor,42,GEC,1,9,other,0
+2021,June,29,Meadows,15,GEC,1,1,coral,80
+2021,June,29,Meadows,15,GEC,1,1,cca,0
+2021,June,29,Meadows,15,GEC,1,1,macro_algae,10
+2021,June,29,Meadows,15,GEC,1,1,turf_algae,0
+2021,June,29,Meadows,15,GEC,1,1,sand,10
+2021,June,29,Meadows,15,GEC,1,1,other,0
+2021,June,29,Meadows,15,GEC,1,3,coral,75
+2021,June,29,Meadows,15,GEC,1,3,cca,5
+2021,June,29,Meadows,15,GEC,1,3,macro_algae,10
+2021,June,29,Meadows,15,GEC,1,3,turf_algae,5
+2021,June,29,Meadows,15,GEC,1,3,sand,0
+2021,June,29,Meadows,15,GEC,1,3,other,5
+2021,June,29,Meadows,15,GEC,1,5,coral,30
+2021,June,29,Meadows,15,GEC,1,5,cca,10
+2021,June,29,Meadows,15,GEC,1,5,macro_algae,60
+2021,June,29,Meadows,15,GEC,1,5,turf_algae,0
+2021,June,29,Meadows,15,GEC,1,5,sand,0
+2021,June,29,Meadows,15,GEC,1,5,other,0
+2021,June,29,Meadows,15,GEC,1,7,coral,15
+2021,June,29,Meadows,15,GEC,1,7,cca,0
+2021,June,29,Meadows,15,GEC,1,7,macro_algae,80
+2021,June,29,Meadows,15,GEC,1,7,turf_algae,0
+2021,June,29,Meadows,15,GEC,1,7,sand,5
+2021,June,29,Meadows,15,GEC,1,7,other,0
+2021,June,29,Meadows,15,GEC,1,9,coral,5
+2021,June,29,Meadows,15,GEC,1,9,cca,10
+2021,June,29,Meadows,15,GEC,1,9,macro_algae,70
+2021,June,29,Meadows,15,GEC,1,9,turf_algae,10
+2021,June,29,Meadows,15,GEC,1,9,sand,5
+2021,June,29,Meadows,15,GEC,1,9,other,0
+2021,June,30,Jigsaw,45,GEC,1,1,coral,10
+2021,June,30,Jigsaw,45,GEC,1,1,cca,5
+2021,June,30,Jigsaw,45,GEC,1,1,macro_algae,43
+2021,June,30,Jigsaw,45,GEC,1,1,turf_algae,10
+2021,June,30,Jigsaw,45,GEC,1,1,sand,30
+2021,June,30,Jigsaw,45,GEC,1,1,other,2
+2021,June,30,Jigsaw,45,GEC,1,3,coral,2
+2021,June,30,Jigsaw,45,GEC,1,3,cca,0
+2021,June,30,Jigsaw,45,GEC,1,3,macro_algae,23
+2021,June,30,Jigsaw,45,GEC,1,3,turf_algae,10
+2021,June,30,Jigsaw,45,GEC,1,3,sand,60
+2021,June,30,Jigsaw,45,GEC,1,3,other,5
+2021,June,30,Jigsaw,45,GEC,1,5,coral,70
+2021,June,30,Jigsaw,45,GEC,1,5,cca,5
+2021,June,30,Jigsaw,45,GEC,1,5,macro_algae,20
+2021,June,30,Jigsaw,45,GEC,1,5,turf_algae,0
+2021,June,30,Jigsaw,45,GEC,1,5,sand,5
+2021,June,30,Jigsaw,45,GEC,1,5,other,0
+2021,June,30,Jigsaw,45,GEC,1,7,coral,0
+2021,June,30,Jigsaw,45,GEC,1,7,cca,0
+2021,June,30,Jigsaw,45,GEC,1,7,macro_algae,10
+2021,June,30,Jigsaw,45,GEC,1,7,turf_algae,10
+2021,June,30,Jigsaw,45,GEC,1,7,sand,80
+2021,June,30,Jigsaw,45,GEC,1,7,other,0
+2021,June,30,Jigsaw,45,GEC,1,9,coral,30
+2021,June,30,Jigsaw,45,GEC,1,9,cca,5
+2021,June,30,Jigsaw,45,GEC,1,9,macro_algae,45
+2021,June,30,Jigsaw,45,GEC,1,9,turf_algae,10
+2021,June,30,Jigsaw,45,GEC,1,9,sand,10
+2021,June,30,Jigsaw,45,GEC,1,9,other,0
+2021,June,30,Sailfin,30,GEC,1,1,coral,5
+2021,June,30,Sailfin,30,GEC,1,1,cca,5
+2021,June,30,Sailfin,30,GEC,1,1,macro_algae,80
+2021,June,30,Sailfin,30,GEC,1,1,turf_algae,0
+2021,June,30,Sailfin,30,GEC,1,1,sand,5
+2021,June,30,Sailfin,30,GEC,1,1,other,5
+2021,June,30,Sailfin,30,GEC,1,3,coral,2
+2021,June,30,Sailfin,30,GEC,1,3,cca,3
+2021,June,30,Sailfin,30,GEC,1,3,macro_algae,25
+2021,June,30,Sailfin,30,GEC,1,3,turf_algae,10
+2021,June,30,Sailfin,30,GEC,1,3,sand,60
+2021,June,30,Sailfin,30,GEC,1,3,other,0
+2021,June,30,Sailfin,30,GEC,1,5,coral,15
+2021,June,30,Sailfin,30,GEC,1,5,cca,5
+2021,June,30,Sailfin,30,GEC,1,5,macro_algae,35
+2021,June,30,Sailfin,30,GEC,1,5,turf_algae,5
+2021,June,30,Sailfin,30,GEC,1,5,sand,40
+2021,June,30,Sailfin,30,GEC,1,5,other,0
+2021,June,30,Sailfin,30,GEC,1,7,coral,2
+2021,June,30,Sailfin,30,GEC,1,7,cca,20
+2021,June,30,Sailfin,30,GEC,1,7,macro_algae,5
+2021,June,30,Sailfin,30,GEC,1,7,turf_algae,20
+2021,June,30,Sailfin,30,GEC,1,7,sand,53
+2021,June,30,Sailfin,30,GEC,1,7,other,0
+2021,June,30,Sailfin,30,GEC,1,9,coral,80
+2021,June,30,Sailfin,30,GEC,1,9,cca,0
+2021,June,30,Sailfin,30,GEC,1,9,macro_algae,10
+2021,June,30,Sailfin,30,GEC,1,9,turf_algae,0
+2021,June,30,Sailfin,30,GEC,1,9,sand,0
+2021,June,30,Sailfin,30,GEC,1,9,other,10
+2021,June,28,Marthas,45.3,sw,1,1,coral,15
+2021,June,28,Marthas,45.3,sw,1,1,cca,15
+2021,June,28,Marthas,45.3,sw,1,1,macro_algae,45
+2021,June,28,Marthas,45.3,sw,1,1,turf_algae,20
+2021,June,28,Marthas,45.3,sw,1,1,sand,5
+2021,June,28,Marthas,45.3,sw,1,3,coral,15
+2021,June,28,Marthas,45.3,sw,1,3,cca,7
+2021,June,28,Marthas,45.3,sw,1,3,macro_algae,65
+2021,June,28,Marthas,45.3,sw,1,3,turf_algae,12
+2021,June,28,Marthas,45.3,sw,1,3,sand,1
+2021,June,28,Marthas,45.3,sw,1,5,coral,3
+2021,June,28,Marthas,45.3,sw,1,5,cca,4
+2021,June,28,Marthas,45.3,sw,1,5,macro_algae,83
+2021,June,28,Marthas,45.3,sw,1,5,turf_algae,10
+2021,June,28,Marthas,45.3,sw,1,7,coral,55
+2021,June,28,Marthas,45.3,sw,1,7,cca,4
+2021,June,28,Marthas,45.3,sw,1,7,macro_algae,35
+2021,June,28,Marthas,45.3,sw,1,7,turf_algae,5
+2021,June,28,Marthas,45.3,sw,1,7,sand,1
+2021,June,28,Marthas,45.3,sw,1,9,coral,45
+2021,June,28,Marthas,45.3,sw,1,9,cca,10
+2021,June,28,Marthas,45.3,sw,1,9,macro_algae,20
+2021,June,28,Marthas,45.3,sw,1,9,turf_algae,20
+2021,June,28,Marthas,45.3,sw,1,9,sand,5
+2021,June,28,Marilyns Cut,25.6,sw,1,1,coral,1
+2021,June,28,Marilyns Cut,25.6,sw,1,1,cca,55
+2021,June,28,Marilyns Cut,25.6,sw,1,1,macro_algae,17
+2021,June,28,Marilyns Cut,25.6,sw,1,1,turf_algae,26
+2021,June,28,Marilyns Cut,25.6,sw,1,1,sand,1
+2021,June,28,Marilyns Cut,25.6,sw,1,3,coral,35
+2021,June,28,Marilyns Cut,25.6,sw,1,3,cca,30
+2021,June,28,Marilyns Cut,25.6,sw,1,3,macro_algae,25
+2021,June,28,Marilyns Cut,25.6,sw,1,3,turf_algae,8
+2021,June,28,Marilyns Cut,25.6,sw,1,3,sand,2
+2021,June,28,Marilyns Cut,25.6,sw,1,5,coral,2
+2021,June,28,Marilyns Cut,25.6,sw,1,5,cca,7
+2021,June,28,Marilyns Cut,25.6,sw,1,5,macro_algae,40
+2021,June,28,Marilyns Cut,25.6,sw,1,5,turf_algae,49
+2021,June,28,Marilyns Cut,25.6,sw,1,5,sand,2
+2021,June,28,Marilyns Cut,25.6,sw,1,7,coral,1
+2021,June,28,Marilyns Cut,25.6,sw,1,7,cca,20
+2021,June,28,Marilyns Cut,25.6,sw,1,7,macro_algae,55
+2021,June,28,Marilyns Cut,25.6,sw,1,7,turf_algae,20
+2021,June,28,Marilyns Cut,25.6,sw,1,7,sand,4
+2021,June,28,Marilyns Cut,25.6,sw,1,9,coral,1
+2021,June,28,Marilyns Cut,25.6,sw,1,9,cca,40
+2021,June,28,Marilyns Cut,25.6,sw,1,9,macro_algae,30
+2021,June,28,Marilyns Cut,25.6,sw,1,9,turf_algae,25
+2021,June,28,Marilyns Cut,25.6,sw,1,9,sand,4
+2021,June,29,Snapshot,35.4,sw,1,1,coral,5
+2021,June,29,Snapshot,35.4,sw,1,1,cca,20
+2021,June,29,Snapshot,35.4,sw,1,1,macro_algae,45
+2021,June,29,Snapshot,35.4,sw,1,1,turf_algae,19
+2021,June,29,Snapshot,35.4,sw,1,1,sand,3
+2021,June,29,Snapshot,35.4,sw,1,1,other,8
+2021,June,29,Snapshot,35.4,sw,1,3,coral,15
+2021,June,29,Snapshot,35.4,sw,1,3,cca,13
+2021,June,29,Snapshot,35.4,sw,1,3,macro_algae,16
+2021,June,29,Snapshot,35.4,sw,1,3,turf_algae,18
+2021,June,29,Snapshot,35.4,sw,1,3,sand,2
+2021,June,29,Snapshot,35.4,sw,1,3,other,35
+2021,June,29,Snapshot,35.4,sw,1,5,coral,20
+2021,June,29,Snapshot,35.4,sw,1,5,cca,25
+2021,June,29,Snapshot,35.4,sw,1,5,macro_algae,25
+2021,June,29,Snapshot,35.4,sw,1,5,turf_algae,27
+2021,June,29,Snapshot,35.4,sw,1,5,sand,3
+2021,June,29,Snapshot,35.4,sw,1,7,cca,25
+2021,June,29,Snapshot,35.4,sw,1,7,macro_algae,30
+2021,June,29,Snapshot,35.4,sw,1,7,turf_algae,23
+2021,June,29,Snapshot,35.4,sw,1,7,sand,20
+2021,June,29,Snapshot,35.4,sw,1,7,sponge,2
+2021,June,29,Snapshot,35.4,sw,1,9,coral,75
+2021,June,29,Snapshot,35.4,sw,1,9,cca,5
+2021,June,29,Snapshot,35.4,sw,1,9,macro_algae,15
+2021,June,29,Snapshot,35.4,sw,1,9,turf_algae,5
+2021,June,29,Pauls Anchor,40.7,sw,1,1,coral,45
+2021,June,29,Pauls Anchor,40.7,sw,1,1,cca,15
+2021,June,29,Pauls Anchor,40.7,sw,1,1,macro_algae,15
+2021,June,29,Pauls Anchor,40.7,sw,1,1,turf_algae,24
+2021,June,29,Pauls Anchor,40.7,sw,1,1,sand,1
+2021,June,29,Pauls Anchor,40.7,sw,1,3,coral,12
+2021,June,29,Pauls Anchor,40.7,sw,1,3,cca,60
+2021,June,29,Pauls Anchor,40.7,sw,1,3,macro_algae,23
+2021,June,29,Pauls Anchor,40.7,sw,1,3,turf_algae,10
+2021,June,29,Pauls Anchor,40.7,sw,1,5,coral,15
+2021,June,29,Pauls Anchor,40.7,sw,1,5,cca,25
+2021,June,29,Pauls Anchor,40.7,sw,1,5,macro_algae,35
+2021,June,29,Pauls Anchor,40.7,sw,1,5,turf_algae,20
+2021,June,29,Pauls Anchor,40.7,sw,1,5,sand,5
+2021,June,29,Pauls Anchor,40.7,sw,1,7,coral,20
+2021,June,29,Pauls Anchor,40.7,sw,1,7,cca,10
+2021,June,29,Pauls Anchor,40.7,sw,1,7,macro_algae,45
+2021,June,29,Pauls Anchor,40.7,sw,1,7,turf_algae,20
+2021,June,29,Pauls Anchor,40.7,sw,1,7,sand,5
+2021,June,29,Pauls Anchor,40.7,sw,1,9,coral,13
+2021,June,29,Pauls Anchor,40.7,sw,1,9,cca,35
+2021,June,29,Pauls Anchor,40.7,sw,1,9,macro_algae,30
+2021,June,29,Pauls Anchor,40.7,sw,1,9,turf_algae,20
+2021,June,29,Pauls Anchor,40.7,sw,1,9,sand,2
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,5,coral,1
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,5,cca,10
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,5,macro_algae,65
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,5,turf_algae,24
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,9,coral,10
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,9,cca,6
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,9,macro_algae,60
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,9,turf_algae,10
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,9,sand,1
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,9,sponge,6
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,9,soft_coral,3
+2021,June,29,Pauls Anchor,40.7,CG_SW,2,9,other,2
+2021,June,29,Meadows,14.8,sw,1,1,coral,7
+2021,June,29,Meadows,14.8,sw,1,1,cca,7
+2021,June,29,Meadows,14.8,sw,1,1,macro_algae,45
+2021,June,29,Meadows,14.8,sw,1,1,turf_algae,41
+2021,June,29,Meadows,14.8,sw,1,3,coral,40
+2021,June,29,Meadows,14.8,sw,1,3,cca,8
+2021,June,29,Meadows,14.8,sw,1,3,macro_algae,15
+2021,June,29,Meadows,14.8,sw,1,3,turf_algae,32
+2021,June,29,Meadows,14.8,sw,1,5,coral,45
+2021,June,29,Meadows,14.8,sw,1,5,cca,5
+2021,June,29,Meadows,14.8,sw,1,5,macro_algae,35
+2021,June,29,Meadows,14.8,sw,1,5,turf_algae,13
+2021,June,29,Meadows,14.8,sw,1,5,sand,2
+2021,June,29,Meadows,14.8,sw,1,7,coral,4
+2021,June,29,Meadows,14.8,sw,1,7,cca,5
+2021,June,29,Meadows,14.8,sw,1,7,macro_algae,80
+2021,June,29,Meadows,14.8,sw,1,7,turf_algae,10
+2021,June,29,Meadows,14.8,sw,1,7,sand,1
+2021,June,29,Meadows,14.8,sw,1,9,coral,4
+2021,June,29,Meadows,14.8,sw,1,9,cca,2
+2021,June,29,Meadows,14.8,sw,1,9,macro_algae,30
+2021,June,29,Meadows,14.8,sw,1,9,turf_algae,41
+2021,June,29,Meadows,14.8,sw,1,9,sponge,20
+2021,June,29,Meadows,14.8,sw,1,9,other,3
+2021,June,30,Sailfin,15.6,sw,1,1,coral,2
+2021,June,30,Sailfin,15.6,sw,1,1,cca,50
+2021,June,30,Sailfin,15.6,sw,1,1,macro_algae,15
+2021,June,30,Sailfin,15.6,sw,1,1,turf_algae,18
+2021,June,30,Sailfin,15.6,sw,1,1,sand,15
+2021,June,30,Sailfin,15.6,sw,1,3,coral,7
+2021,June,30,Sailfin,15.6,sw,1,3,cca,15
+2021,June,30,Sailfin,15.6,sw,1,3,macro_algae,35
+2021,June,30,Sailfin,15.6,sw,1,3,turf_algae,28
+2021,June,30,Sailfin,15.6,sw,1,3,sand,15
+2021,June,30,Sailfin,15.6,sw,1,5,coral,4
+2021,June,30,Sailfin,15.6,sw,1,5,cca,65
+2021,June,30,Sailfin,15.6,sw,1,5,macro_algae,6
+2021,June,30,Sailfin,15.6,sw,1,5,turf_algae,13
+2021,June,30,Sailfin,15.6,sw,1,5,sand,12
+2021,June,30,Sailfin,15.6,sw,1,7,coral,55
+2021,June,30,Sailfin,15.6,sw,1,7,cca,7
+2021,June,30,Sailfin,15.6,sw,1,7,macro_algae,15
+2021,June,30,Sailfin,15.6,sw,1,7,turf_algae,8
+2021,June,30,Sailfin,15.6,sw,1,7,sand,15
+2021,June,30,Sailfin,15.6,sw,1,9,coral,15
+2021,June,30,Sailfin,15.6,sw,1,9,cca,40
+2021,June,30,Sailfin,15.6,sw,1,9,macro_algae,35
+2021,June,30,Sailfin,15.6,sw,1,9,turf_algae,10
+2021,June,30,Jigsaw,39.4,sw,1,1,coral,20
+2021,June,30,Jigsaw,39.4,sw,1,1,cca,20
+2021,June,30,Jigsaw,39.4,sw,1,1,macro_algae,25
+2021,June,30,Jigsaw,39.4,sw,1,1,turf_algae,20
+2021,June,30,Jigsaw,39.4,sw,1,1,sand,15
+2021,June,30,Jigsaw,39.4,sw,1,3,coral,45
+2021,June,30,Jigsaw,39.4,sw,1,3,cca,15
+2021,June,30,Jigsaw,39.4,sw,1,3,macro_algae,8
+2021,June,30,Jigsaw,39.4,sw,1,3,turf_algae,20
+2021,June,30,Jigsaw,39.4,sw,1,3,sand,12
+2021,June,30,Jigsaw,39.4,sw,1,5,cca,17
+2021,June,30,Jigsaw,39.4,sw,1,5,macro_algae,20
+2021,June,30,Jigsaw,39.4,sw,1,5,turf_algae,20
+2021,June,30,Jigsaw,39.4,sw,1,5,sand,40
+2021,June,30,Jigsaw,39.4,sw,1,5,sponge,3
+2021,June,30,Jigsaw,39.4,sw,1,7,coral,7
+2021,June,30,Jigsaw,39.4,sw,1,7,cca,13
+2021,June,30,Jigsaw,39.4,sw,1,7,macro_algae,40
+2021,June,30,Jigsaw,39.4,sw,1,7,turf_algae,15
+2021,June,30,Jigsaw,39.4,sw,1,7,sand,20
+2021,June,30,Jigsaw,39.4,sw,1,7,soft_coral,5
+2021,June,30,Jigsaw,39.4,sw,1,9,coral,20
+2021,June,30,Jigsaw,39.4,sw,1,9,cca,10
+2021,June,30,Jigsaw,39.4,sw,1,9,macro_algae,55
+2021,June,30,Jigsaw,39.4,sw,1,9,turf_algae,10
+2021,June,30,Jigsaw,39.4,sw,1,9,sand,1
+2021,June,30,Jigsaw,39.4,sw,1,9,sponge,2
+2021,June,30,Jigsaw,39.4,sw,1,9,soft_coral,2

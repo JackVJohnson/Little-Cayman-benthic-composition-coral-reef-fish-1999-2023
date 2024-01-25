@@ -1,0 +1,558 @@
+Year,Month,Date,Site,Depth,Observer,Transect,Quadrat,code,genus,species,length,width,SA
+2020,July,29,Marilyns_cut,30,GGG,1,1,PAST,Porites,astreoides,7,5,27.48893572
+2020,July,29,Marilyns_cut,30,GGG,1,1,PAST,Porites,astreoides,6,8,37.69911184
+2020,July,29,Marilyns_cut,30,GGG,1,1,PAST,Porites,astreoides,3,3,7.068583471
+2020,July,29,Marilyns_cut,30,GGG,1,1,PAST,Porites,astreoides,2,1,1.570796327
+2020,July,29,Marilyns_cut,30,GGG,1,1,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,July,29,Marilyns_cut,30,GGG,1,1,AAGA,Agaricia,agaricites,9,7,49.48008429
+2020,July,29,Marilyns_cut,30,GGG,1,1,PAST,Porites,astreoides,1,1,0.785398163
+2020,July,29,Marilyns_cut,30,GGG,1,2,MALC,Millepora,alcicornis,4,4,12.56637061
+2020,July,29,Marilyns_cut,30,GGG,1,2,SRAD,Siderastrea,radians,3,3,7.068583471
+2020,July,29,Marilyns_cut,30,GGG,1,2,PAST,Porites,astreoides,3,2,4.71238898
+2020,July,29,Marilyns_cut,30,GGG,1,2,PPOR,Porites,porites,2,1,1.570796327
+2020,July,29,Marilyns_cut,30,GGG,1,3,PAST,Porites,astreoides,2,2,3.141592654
+2020,July,29,Marilyns_cut,30,GGG,1,3,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,July,29,Marilyns_cut,30,GGG,1,3,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,July,29,Marilyns_cut,30,GGG,1,3,SRAD,Siderastrea,radians,5,4,15.70796327
+2020,July,29,Marilyns_cut,30,GGG,1,3,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,July,29,Marilyns_cut,30,GGG,1,3,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,July,29,Marilyns_cut,30,GGG,1,4,FFRA,Favia,fragum,3,2,4.71238898
+2020,July,29,Marilyns_cut,30,GGG,1,4,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,July,29,Marilyns_cut,30,GGG,1,4,PAST,Porites,astreoides,3,3,7.068583471
+2020,July,29,Marilyns_cut,30,GGG,1,4,PAST,Porites,astreoides,2,2,3.141592654
+2020,July,29,Marilyns_cut,30,GGG,1,5,PAST,Porites,astreoides,5,3,11.78097245
+2020,July,29,Marilyns_cut,31,MF,1,1,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,July,29,Marilyns_cut,31,MF,1,1,PAST,Porites,astreoides,3,3,7.068583471
+2020,July,29,Marilyns_cut,31,MF,1,1,SSID,Siderastrea,siderea,1,1,0.785398163
+2020,July,29,Marilyns_cut,31,MF,1,2,PAST,Porites,astreoides,2,2,3.141592654
+2020,July,29,Marilyns_cut,31,MF,1,2,AAGA,Agaricia,agaricites,7,5,27.48893572
+2020,July,29,Marilyns_cut,31,MF,1,2,EFAS,Eusmilia,fastigiata,9,5,35.34291735
+2020,July,29,Marilyns_cut,31,MF,1,2,PAST,Porites,astreoides,6,7,32.98672286
+2020,July,29,Marilyns_cut,31,MF,1,2,MDEC,Madracis,decactis,4,5,15.70796327
+2020,July,29,Marilyns_cut,31,MF,1,3,PAST,Porites,astreoides,2,3,4.71238898
+2020,July,29,Marilyns_cut,31,MF,1,4,AAGA,Agaricia,agaricites,4,4,12.56637061
+2020,July,29,Marilyns_cut,31,MF,1,4,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,July,29,Marilyns_cut,31,MF,1,4,PAST,Porites,astreoides,3,2,4.71238898
+2020,July,29,Marilyns_cut,31,MF,1,4,PPOR,Porites,porites,3,2,4.71238898
+2020,July,29,Marilyns_cut,31,MF,1,4,AAGA,Agaricia,agaricites,9,9,63.61725124
+2020,July,29,Marilyns_cut,31,MF,1,5,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,July,29,Marilyns_cut,31,MF,1,5,PAST,Porites,astreoides,6,6,28.27433388
+2020,July,29,Marilyns_cut,31,MF,1,5,AAGA,Agaricia,agaricites,9,6,42.41150082
+2020,July,29,Marilyns_cut,31,MF,1,5,PAST,Porites,astreoides,7,6,32.98672286
+2020,July,29,Marilyns_cut,31,MF,1,5,PAST,Porites,astreoides,3,3,7.068583471
+2020,July,29,Marilyns_cut,31,MF,1,5,PAST,Porites,astreoides,5,4,15.70796327
+2020,July,29,Marilyns_cut,23,MF,2,1,PAST,Porites,astreoides,1,1,0.785398163
+2020,July,29,Marilyns_cut,23,MF,2,1,PAST,Porites,astreoides,2,1,1.570796327
+2020,July,29,Marilyns_cut,23,MF,2,2,N/A,#N/A,#N/A,0,0,0
+2020,July,29,Marilyns_cut,23,MF,2,3,FFRA,Favia,fragum,1,1,0.785398163
+2020,July,29,Marilyns_cut,23,MF,2,3,FFRA,Favia,fragum,1,1,0.785398163
+2020,July,29,Marilyns_cut,23,MF,2,3,PAST,Porites,astreoides,1,0.5,0.392699082
+2020,July,29,Marilyns_cut,23,MF,2,4,SRAD,Siderastrea,radians,2,1,1.570796327
+2020,July,29,Marilyns_cut,23,MF,2,4,SRAD,Siderastrea,radians,2,1,1.570796327
+2020,July,29,Marilyns_cut,23,MF,2,4,AAGA,Agaricia,agaricites,1,1,0.785398163
+2020,July,29,Marilyns_cut,23,MF,2,4,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,July,29,Marilyns_cut,23,MF,2,4,PAST,Porites,astreoides,1,1,0.785398163
+2020,July,29,Marilyns_cut,23,MF,2,4,PAST,Porites,astreoides,3,1,2.35619449
+2020,July,29,Marilyns_cut,23,MF,2,4,FFRA,Favia,fragum,0.5,0.5,0.196349541
+2020,July,29,Marilyns_cut,23,MF,2,5,N/A,#N/A,#N/A,0,0,0
+2020,July,29,Marthas,43,MF,1,1,MCAV,Montastraea,cavernosa,6,6,28.27433388
+2020,July,29,Marthas,43,MF,1,1,PAST,Porites,astreoides,4,2,6.283185307
+2020,July,29,Marthas,43,MF,1,2,SSID,Siderastrea,siderea,1,1,0.785398163
+2020,July,29,Marthas,43,MF,1,2,SSID,Siderastrea,siderea,1,1,0.785398163
+2020,July,29,Marthas,43,MF,1,2,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,July,29,Marthas,43,MF,1,3,PAST,Porites,astreoides,4,4,12.56637061
+2020,July,29,Marthas,43,MF,1,4,N/A,#N/A,#N/A,0,0,0
+2020,July,29,Marthas,43,MF,1,5,PAST,Porites,astreoides,5,3,11.78097245
+2020,July,29,Marthas,43,MF,1,5,MAUR,Madracis,auretenra,4,2,6.283185307
+2020,July,29,Marthas,50,MF,2,1,SSID,Siderastrea,siderea,4,4,12.56637061
+2020,July,29,Marthas,50,MF,2,1,AAGA,Agaricia,agaricites,9,7,49.48008429
+2020,July,29,Marthas,50,MF,2,1,AAGA,Agaricia,agaricites,6,5,23.5619449
+2020,July,29,Marthas,50,MF,2,2,PAST,Porites,astreoides,9,7,49.48008429
+2020,July,29,Marthas,50,MF,2,3,N/A,#N/A,#N/A,0,0,0
+2020,July,29,Marthas,50,MF,2,4,PAST,Porites,astreoides,7,7,38.48451001
+2020,July,29,Marthas,50,MF,2,5,SSID,Siderastrea,siderea,5,5,19.63495408
+2020,July,29,Marthas,50,MF,2,5,MAUR,Madracis,auretenra,7,6,32.98672286
+2020,July,29,Marthas,50,MF,2,5,SSID,Siderastrea,siderea,3,4,9.424777961
+2020,July,27,Coral City,42,GGG,1,1,AAGA,Agaricia,agaricites,7,5,27.48893572
+2020,July,27,Coral City,42,GGG,1,2,AAGA,Agaricia,agaricites,6,4,18.84955592
+2020,July,27,Coral City,42,GGG,1,3,PPOR,Porites,porites,3,2,4.71238898
+2020,July,27,Coral City,42,GGG,1,3,SINT,Stephanocoenia ,intersepta,2,2,3.141592654
+2020,July,27,Coral City,42,GGG,1,4,PAST,Porites,astreoides,2,3,4.71238898
+2020,July,27,Coral City,42,GGG,1,4,MCAV,Montastraea,cavernosa,3,3,7.068583471
+2020,July,27,Coral City,42,GGG,1,5,AAGA,Agaricia,agaricites,2,1,1.570796327
+2020,July,27,Coral City,42,GGG,1,5,PPOR,Porites,porites,8,2,12.56637061
+2020,July,27,Coral City,42,GGG,2,1,PPOR,Porites,porites,5,2,7.853981634
+2020,July,27,Coral City,42,GGG,2,1,AAGA,Agaricia,agaricites,5,3,11.78097245
+2020,July,27,Coral City,42,GGG,2,1,SRAD,Siderastrea,radians,4,3,9.424777961
+2020,July,27,Coral City,42,GGG,2,2,CNAT,Colpophyllia,natans,5,3,11.78097245
+2020,July,27,Coral City,42,GGG,2,2,CNAT,Colpophyllia,natans,7,4,21.99114858
+2020,July,27,Coral City,42,GGG,2,2,MCAV,Montastraea,cavernosa,7,5,27.48893572
+2020,July,27,Coral City,42,GGG,2,2,PAST,Porites,astreoides,4,3,9.424777961
+2020,July,27,Coral City,42,GGG,2,2,PAST,Porites,astreoides,3,2,4.71238898
+2020,July,27,Coral City,42,GGG,2,2,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,July,27,Coral City,42,GGG,2,3,PAST,Porites,astreoides,4,5,15.70796327
+2020,July,27,Coral City,42,GGG,2,3,SINT,Stephanocoenia ,intersepta,4,2,6.283185307
+2020,July,27,Coral City,42,GGG,2,4,DLAB,Diploria,labyrinthyformis,9,5,35.34291735
+2020,July,27,Coral City,42,GGG,2,5,SINT,Stephanocoenia ,intersepta,3,3,7.068583471
+2020,July,28,Jigsaw,43,MF,1,1,AAGA,Agaricia,agaricites,2,7,10.99557429
+2020,July,28,Jigsaw,43,MF,1,1,AAGA,Agaricia,agaricites,6,5,23.5619449
+2020,July,28,Jigsaw,43,MF,1,1,AAGA,Agaricia,agaricites,9,6,42.41150082
+2020,July,28,Jigsaw,43,MF,1,1,MARE,Mancina,areolata,6,5,23.5619449
+2020,July,28,Jigsaw,43,MF,1,2,PAST,Porites,astreoides,5,5,19.63495408
+2020,July,28,Jigsaw,43,MF,1,2,AAGA,Agaricia,agaricites,5,5,19.63495408
+2020,July,28,Jigsaw,43,MF,1,3,EFAS,Eusmilia,fastigiata,2,1,1.570796327
+2020,July,28,Jigsaw,43,MF,1,3,OFAV,Orbicella,faveolata,6,6,28.27433388
+2020,July,28,Jigsaw,43,MF,1,3,MLAM,Mycetophellia,larmarckiana,7,6,32.98672286
+2020,July,28,Jigsaw,43,MF,1,4,SCUB,Scolymia,cubensis,2,1,1.570796327
+2020,July,28,Jigsaw,43,MF,1,4,AAGA,Agaricia,agaricites,2,1,1.570796327
+2020,July,28,Jigsaw,43,MF,1,4,AAGA,Agaricia,agaricites,7,5,27.48893572
+2020,July,28,Jigsaw,43,MF,1,5,SRAD,Siderastrea,radians,2,2,3.141592654
+2020,July,28,Jigsaw,43,MF,1,5,PAST,Porites,astreoides,1,1,0.785398163
+2020,July,28,Jigsaw,43,MF,1,5,AAGA,Agaricia,agaricites,2,1,1.570796327
+2020,July,28,Jigsaw,43,MF,1,5,AAGA,Agaricia,agaricites,4,4,12.56637061
+2020,July,28,Jigsaw,33,MF,2,1,AAGA,Agaricia,agaricites,1,1,0.785398163
+2020,July,28,Jigsaw,33,MF,2,1,OANN,Orbicella,annularis,1,1,0.785398163
+2020,July,28,Jigsaw,33,MF,2,1,OANN,Orbicella,annularis,4,2,6.283185307
+2020,July,28,Jigsaw,33,MF,2,1,PAST,Porites,astreoides,4,4,12.56637061
+2020,July,28,Jigsaw,33,MF,2,1,PAST,Porites,astreoides,1,1,0.785398163
+2020,July,28,Jigsaw,33,MF,2,3,PAST,Porites,astreoides,1,1,0.785398163
+2020,July,28,Jigsaw,33,MF,2,4,SCUB,Scolymia,cubensis,1,1,0.785398163
+2020,July,28,Jigsaw,33,MF,2,5,AAGA,Agaricia,agaricites,4,4,12.56637061
+2020,July,28,Jigsaw,33,MF,2,5,AAGA,Agaricia,agaricites,3,4,9.424777961
+2020,July,28,Jigsaw,33,MF,2,5,SSID,Siderastrea,siderea,2,2,3.141592654
+2020,July,27,Coral City,45,MF,1,2,SRAD,Siderastrea,radians,2,3,4.71238898
+2020,July,27,Coral City,45,MF,1,3,SRAD,Siderastrea,radians,1,1,0.785398163
+2020,July,27,Coral City,45,MF,1,5,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,July,27,Coral City,45,MF,1,5,SSID,Siderastrea,siderea,3,2,4.71238898
+2020,July,27,Coral City,45,MF,2,1,AAGA,Agaricia,agaricites,2,1,1.570796327
+2020,July,27,Coral City,45,MF,2,1,OFAV,Orbicella,faveolata,1,5,3.926990817
+2020,July,27,Coral City,45,MF,2,1,OFAV,Orbicella,faveolata,3,15,35.34291735
+2020,July,27,Coral City,45,MF,2,1,OFAV,Orbicella,faveolata,0.5,0.5,0.196349541
+2020,July,27,Coral City,45,MF,2,3,SSID,Siderastrea,siderea,1,1,0.785398163
+2020,July,27,Coral City,45,MF,2,3,SSID,Siderastrea,siderea,2,1.5,2.35619449
+2020,July,27,Coral City,45,MF,2,3,SSID,Siderastrea,siderea,0.5,1,0.392699082
+2020,July,27,Coral City,45,MF,2,4,SRAD,Siderastrea,radians,0.5,0.5,0.196349541
+2020,July,27,Coral City,45,MF,2,4,SRAD,Siderastrea,radians,2,1.5,2.35619449
+2020,July,27,Coral City,45,MF,2,4,SRAD,Siderastrea,radians,1.5,1,1.178097245
+2020,July,28,Jigsaw,41,GGG,1,1,PAST,Porites,astreoides,1,1,0.785398163
+2020,July,28,Jigsaw,41,GGG,1,2,AAGA,Agaricia,agaricites,6,6,28.27433388
+2020,July,28,Jigsaw,41,GGG,1,2,PPOR,Porites,porites,6,5,23.5619449
+2020,July,28,Jigsaw,41,GGG,1,2,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,July,28,Jigsaw,41,GGG,1,2,PAST,Porites,astreoides,6,2,9.424777961
+2020,July,28,Jigsaw,41,GGG,1,2,SSID,Siderastrea,siderea,1,0.5,0.392699082
+2020,July,28,Jigsaw,41,GGG,1,2,PPOR,Porites,porites,7,2,10.99557429
+2020,July,28,Jigsaw,41,GGG,1,3,AAGA,Agaricia,agaricites,5,3,11.78097245
+2020,July,28,Jigsaw,41,GGG,1,3,AAGA,Agaricia,agaricites,5,2,7.853981634
+2020,July,28,Jigsaw,41,GGG,1,4,PAST,Porites,astreoides,6,7,32.98672286
+2020,July,28,Jigsaw,41,GGG,1,4,PAST,Porites,astreoides,8,6,37.69911184
+2020,July,28,Jigsaw,41,GGG,1,4,PAST,Porites,astreoides,8,7,43.98229715
+2020,July,28,Jigsaw,41,GGG,1,4,MCAV,Montastraea,cavernosa,6,5,23.5619449
+2020,July,28,Jigsaw,41,GGG,1,4,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,July,28,Jigsaw,41,GGG,1,4,FFRA,Favia,fragum,2,2,3.141592654
+2020,July,28,Jigsaw,41,GGG,1,4,PPOR,Porites,porites,7,3,16.49336143
+2020,July,28,Jigsaw,41,GGG,1,4,PAST,Porites,astreoides,2,2,3.141592654
+2020,July,28,Jigsaw,41,GGG,1,5,SRAD,Siderastrea,radians,3,2,4.71238898
+2020,July,28,Jigsaw,41,GGG,1,5,SRAD,Siderastrea,radians,0.5,0.5,0.196349541
+2020,July,28,Jigsaw,41,GGG,1,5,SRAD,Siderastrea,radians,3,3,7.068583471
+2020,July,28,Jigsaw,41,GGG,1,5,SRAD,Siderastrea,radians,2,1,1.570796327
+2020,July,28,Jigsaw,35,GGG,2,1,PAST,Porites,astreoides,4,3,9.424777961
+2020,July,28,Jigsaw,35,GGG,2,1,SSID,Siderastrea,siderea,4,3,9.424777961
+2020,July,28,Jigsaw,35,GGG,2,1,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,July,28,Jigsaw,35,GGG,2,1,OFAV,Orbicella,faveolata,5,5,19.63495408
+2020,July,28,Jigsaw,35,GGG,2,2,PAST,Porites,astreoides,8,7,43.98229715
+2020,July,28,Jigsaw,35,GGG,2,2,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,July,28,Jigsaw,35,GGG,2,2,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,July,28,Jigsaw,35,GGG,2,3,PAST,Porites,astreoides,7,6,32.98672286
+2020,July,28,Jigsaw,35,GGG,2,3,PAST,Porites,astreoides,5,3,11.78097245
+2020,July,28,Jigsaw,35,GGG,2,4,PAST,Porites,astreoides,9,6,42.41150082
+2020,July,28,Jigsaw,35,GGG,2,4,MCAV,Montastraea,cavernosa,4,2,6.283185307
+2020,July,28,Jigsaw,35,GGG,2,4,PAST,Porites,astreoides,2,2,3.141592654
+2020,July,28,Jigsaw,35,GGG,2,5,AAGA,Agaricia,agaricites,6,4,18.84955592
+2020,July,28,Jigsaw,35,GGG,2,5,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,July,29,Marthas,51,GGG,1,2,PAST,Porites,astreoides,3,2,4.71238898
+2020,July,29,Marthas,51,GGG,1,2,PAST,Porites,astreoides,2.5,2,3.926990817
+2020,July,29,Marthas,51,GGG,1,2,PAST,Porites,astreoides,2,1,1.570796327
+2020,July,29,Marthas,51,GGG,1,2,PPOR,Porites,porites,5,4,15.70796327
+2020,July,29,Marthas,51,GGG,1,2,SSID,Siderastrea,siderea,4,3,9.424777961
+2020,July,29,Marthas,51,GGG,1,3,PAST,Porites,astreoides,5,4,15.70796327
+2020,July,29,Marthas,51,GGG,1,3,PAST,Porites,astreoides,5,6,23.5619449
+2020,July,29,Marthas,51,GGG,1,3,PAST,Porites,astreoides,5,4,15.70796327
+2020,July,29,Marthas,51,GGG,1,3,EFAS,Eusmilia,fastigiata,5,3,11.78097245
+2020,July,29,Marthas,51,GGG,1,3,PAST,Porites,astreoides,4,3,9.424777961
+2020,July,29,Marthas,51,GGG,1,4,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,July,29,Marthas,51,GGG,1,4,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,July,29,Marthas,51,GGG,1,4,PAST,Porites,astreoides,3,2,4.71238898
+2020,July,29,Marthas,51,GGG,1,5,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,July,29,Marthas,51,GGG,2,2,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,July,29,Marthas,51,GGG,2,3,AAGA,Agaricia,agaricites,3,4,9.424777961
+2020,July,29,Marthas,51,GGG,2,3,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,July,29,Marthas,51,GGG,2,4,AAGA,Agaricia,agaricites,9,6,42.41150082
+2020,July,29,Marthas,51,GGG,2,5,MALI,Mycetophellia,aliciae,6,5,23.5619449
+2020,July,29,Marthas,51,GGG,2,5,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,July,29,Marthas,51,GGG,2,5,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,August,2,Marilyn's Cut,29,GGG,2,1,PAST,Porites,astreoides,5,4,15.70796327
+2020,August,2,Marilyn's Cut,29,GGG,2,1,PAST,Porites,astreoides,6,4,18.84955592
+2020,August,2,Marilyn's Cut,29,GGG,2,1,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,2,Marilyn's Cut,29,GGG,2,1,PAST,Porites,astreoides,5,4,15.70796327
+2020,August,2,Marilyn's Cut,29,GGG,2,1,SSID,Siderastrea,siderea,8,5,31.41592654
+2020,August,2,Marilyn's Cut,29,GGG,2,1,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,2,Marilyn's Cut,29,GGG,2,2,MCAV,Montastraea,cavernosa,8,7,43.98229715
+2020,August,2,Marilyn's Cut,29,GGG,2,2,SSID,Siderastrea,siderea,7,6,32.98672286
+2020,August,2,Marilyn's Cut,29,GGG,2,2,PAST,Porites,astreoides,6,4,18.84955592
+2020,August,2,Marilyn's Cut,29,GGG,2,2,PAST,Porites,astreoides,2,1,1.570796327
+2020,August,2,Marilyn's Cut,29,GGG,2,2,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,2,Marilyn's Cut,29,GGG,2,2,PAST,Porites,astreoides,2,1,1.570796327
+2020,August,2,Marilyn's Cut,29,GGG,2,3,MCAV,Montastraea,cavernosa,5,5,19.63495408
+2020,August,2,Marilyn's Cut,29,GGG,2,3,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,2,Marilyn's Cut,29,GGG,2,3,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,August,2,Marilyn's Cut,29,GGG,2,3,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,2,Marilyn's Cut,29,GGG,2,3,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,2,Marilyn's Cut,29,GGG,2,3,AAGA,Agaricia,agaricites,1,1,0.785398163
+2020,August,2,Marilyn's Cut,29,GGG,2,3,PAST,Porites,astreoides,7,6,32.98672286
+2020,August,2,Marilyn's Cut,29,GGG,2,4,AAGA,Agaricia,agaricites,6,5,23.5619449
+2020,August,2,Marilyn's Cut,29,GGG,2,4,PAST,Porites,astreoides,3,3,7.068583471
+2020,August,2,Marilyn's Cut,29,GGG,2,4,SSID,Siderastrea,siderea,8,6,37.69911184
+2020,August,2,Marilyn's Cut,29,GGG,2,5,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,2,Marilyn's Cut,29,GGG,2,5,PAST,Porites,astreoides,2,2,3.141592654
+2020,August,2,Marilyn's Cut,29,GGG,2,5,PAST,Porites,astreoides,7,4,21.99114858
+2020,August,2,Meadows,36,GGG,1,3,AAGA,Agaricia,agaricites,1,1,0.785398163
+2020,August,2,Meadows,36,GGG,1,3,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,2,Meadows,36,GGG,1,3,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,August,2,Meadows,36,GGG,1,3,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,2,Meadows,36,GGG,1,3,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,August,2,Meadows,36,GGG,1,4,PAST,Porites,astreoides,9,8,56.54866776
+2020,August,2,Meadows,36,GGG,1,4,CNAT,Colpophyllia,natans,1,1,0.785398163
+2020,August,2,Meadows,36,GGG,1,4,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,August,2,Meadows,36,GGG,1,4,PPOR,Porites,porites,6,4,18.84955592
+2020,August,2,Meadows,36,GGG,1,5,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,2,Meadows,36,GGG,1,5,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,August,2,Meadows,39,GGG,2,1,PPOR,Porites,porites,3,2,4.71238898
+2020,August,2,Meadows,39,GGG,2,1,AAGA,Agaricia,agaricites,1,1,0.785398163
+2020,August,2,Meadows,39,GGG,2,2,AAGA,Agaricia,agaricites,9,8,56.54866776
+2020,August,2,Meadows,39,GGG,2,3,PAST,Porites,astreoides,5,3,11.78097245
+2020,August,2,Meadows,39,GGG,2,4,AAGA,Agaricia,agaricites,4,2,6.283185307
+2020,August,2,Meadows,39,GGG,2,4,SCUB,Scolymia,cubensis,1,1,0.785398163
+2020,August,2,Meadows,39,GGG,2,4,SCUB,Scolymia,cubensis,2,2,3.141592654
+2020,August,2,Meadows,39,GGG,2,4,SCUB,Scolymia,cubensis,2,2,3.141592654
+2020,August,2,Meadows,39,GGG,2,4,SCUB,Scolymia,cubensis,2,2,3.141592654
+2020,August,2,Meadows,39,GGG,2,5,MDEC,Madracis,decactis,1,1,0.785398163
+2020,August,2,Meadows,39,GGG,2,5,MDEC,Madracis,decactis,1,1,0.785398163
+2020,August,2,Meadows,39,GGG,2,5,MDEC,Madracis,decactis,1,1,0.785398163
+2020,August,2,Meadows,39,GGG,2,5,MDEC,Madracis,decactis,1,1,0.785398163
+2020,August,2,Meadows,39,GGG,2,5,AAGA,Agaricia,agaricites,6,4,18.84955592
+2020,August,2,Meadows,39,GGG,2,5,PAST,Porites,astreoides,2,2,3.141592654
+2020,August,2,Meadows,39,GGG,2,5,AAGA,Agaricia,agaricites,7,5,27.48893572
+2020,August,2,Paul's Anchor,44,GGG,1,1,PPOR,Porites,porites,8,7,43.98229715
+2020,August,2,Paul's Anchor,44,GGG,1,1,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,August,2,Paul's Anchor,44,GGG,1,1,AAGA,Agaricia,agaricites,6,3,14.13716694
+2020,August,2,Paul's Anchor,44,GGG,1,2,AAGA,Agaricia,agaricites,8,6,37.69911184
+2020,August,2,Paul's Anchor,44,GGG,1,2,AAGA,Agaricia,agaricites,3,1,2.35619449
+2020,August,2,Paul's Anchor,44,GGG,1,2,PPOR,Porites,porites,6,2,9.424777961
+2020,August,2,Paul's Anchor,44,GGG,1,3,PAST,Porites,astreoides,6,4,18.84955592
+2020,August,2,Paul's Anchor,44,GGG,1,3,AAGA,Agaricia,agaricites,6,6,28.27433388
+2020,August,2,Paul's Anchor,44,GGG,1,3,PAST,Porites,astreoides,3,3,7.068583471
+2020,August,2,Paul's Anchor,44,GGG,1,3,PAST,Porites,astreoides,2,1,1.570796327
+2020,August,2,Paul's Anchor,44,GGG,1,4,PAST,Porites,astreoides,2.5,1,1.963495408
+2020,August,2,Paul's Anchor,44,GGG,1,4,AAGA,Agaricia,agaricites,2,1,1.570796327
+2020,August,2,Paul's Anchor,44,GGG,1,4,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,2,Paul's Anchor,44,GGG,1,4,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,2,Paul's Anchor,44,GGG,1,5,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,2,Paul's Anchor,44,GGG,1,5,AAGA,Agaricia,agaricites,2,1,1.570796327
+2020,August,2,Paul's Anchor,44,GGG,1,5,AAGA,Agaricia,agaricites,5,5,19.63495408
+2020,August,2,Paul's Anchor,44,GGG,1,5,PAST,Porites,astreoides,0.5,1,0.392699082
+2020,August,2,Paul's Anchor,52,GGG,2,1,PAST,Porites,astreoides,4,4,12.56637061
+2020,August,2,Paul's Anchor,52,GGG,2,1,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,2,Paul's Anchor,52,GGG,2,1,AAGA,Agaricia,agaricites,7,4,21.99114858
+2020,August,2,Paul's Anchor,52,GGG,2,2,SCUB,Scolymia,cubensis,1,1,0.785398163
+2020,August,2,Paul's Anchor,52,GGG,2,2,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,August,2,Paul's Anchor,52,GGG,2,2,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,2,Paul's Anchor,52,GGG,2,2,AAGA,Agaricia,agaricites,1,1,0.785398163
+2020,August,2,Paul's Anchor,52,GGG,2,3,PAST,Porites,astreoides,7,5,27.48893572
+2020,August,2,Paul's Anchor,52,GGG,2,4,OFAV,Orbicella,faveolata,3,2,4.71238898
+2020,August,2,Paul's Anchor,52,GGG,2,4,PAST,Porites,astreoides,2,2,3.141592654
+2020,July,27,Grundys,28,MF,1,1,PAST,Porites,astreoides,3,2,4.71238898
+2020,July,27,Grundys,28,MF,1,1,OFAV,Orbicella,faveolata,8,7,43.98229715
+2020,July,27,Grundys,28,MF,1,1,SRAD,Siderastrea,radians,7,6,32.98672286
+2020,July,27,Grundys,28,MF,1,1,SRAD,Siderastrea,radians,6,4,18.84955592
+2020,July,27,Grundys,28,MF,1,1,SRAD,Siderastrea,radians,7,3,16.49336143
+2020,July,27,Grundys,28,MF,1,2,FFRA,Favia,fragum,1,1,0.785398163
+2020,July,27,Grundys,28,MF,1,2,SRAD,Siderastrea,radians,3,4,9.424777961
+2020,July,27,Grundys,28,MF,1,2,PPOR,Porites,porites,3,2,4.71238898
+2020,July,27,Grundys,28,MF,1,2,PAST,Porites,astreoides,9,4,28.27433388
+2020,July,27,Grundys,28,MF,1,3,SRAD,Siderastrea,radians,3,0.5,1.178097245
+2020,July,27,Grundys,28,MF,1,3,PAST,Porites,astreoides,4,4,12.56637061
+2020,July,27,Grundys,28,MF,1,3,SSID,Siderastrea,siderea,5,5,19.63495408
+2020,July,27,Grundys,28,MF,1,3,SSID,Siderastrea,siderea,6,5,23.5619449
+2020,July,27,Grundys,28,MF,1,4,SRAD,Siderastrea,radians,2,1,1.570796327
+2020,July,27,Grundys,28,MF,1,4,SRAD,Siderastrea,radians,3,2,4.71238898
+2020,July,27,Grundys,28,MF,1,4,PAST,Porites,astreoides,3,2,4.71238898
+2020,July,27,Grundys,28,MF,1,4,SSID,Siderastrea,siderea,5,4,15.70796327
+2020,July,27,Grundys,28,MF,1,4,SSID,Siderastrea,siderea,3,4,9.424777961
+2020,July,27,Grundys,28,MF,1,5,PAST,Porites,astreoides,2,1,1.570796327
+2020,July,27,Grundys,28,MF,1,5,SRAD,Siderastrea,radians,7,1,5.497787144
+2020,July,27,Grundys,28,MF,1,5,SRAD,Siderastrea,radians,2,3,4.71238898
+2020,July,27,Grundys,28,MF,1,5,SRAD,Siderastrea,radians,3,3,7.068583471
+2020,July,27,Grundys,28,MF,1,5,SRAD,Siderastrea,radians,5,4,15.70796327
+2020,July,27,Grundys,28,MF,1,5,PAST,Porites,astreoides,9,8,56.54866776
+2020,July,27,Grundys,28,MF,1,5,PAST,Porites,astreoides,7,6,32.98672286
+2020,July,27,Grundys,28,MF,2,1,PAST,Porites,astreoides,3,1,2.35619449
+2020,July,27,Grundys,28,MF,2,1,PFUR,Porites,furcata,5,5,19.63495408
+2020,July,27,Grundys,28,MF,2,1,AAGA,Agaricia,agaricites,8,5,31.41592654
+2020,July,27,Grundys,28,MF,2,2,AAGA,Agaricia,agaricites,5,5,19.63495408
+2020,July,27,Grundys,28,MF,2,3,PPOR,Porites,porites,5,4,15.70796327
+2020,July,27,Grundys,28,MF,2,4,AAGA,Agaricia,agaricites,8,5,31.41592654
+2020,July,27,Grundys,28,MF,2,4,MCAV,Montastraea,cavernosa,7,6,32.98672286
+2020,July,27,Grundys,28,MF,2,5,SSID,Siderastrea,siderea,4,3,9.424777961
+2020,July,27,Grundys,28,MF,2,5,SSID,Siderastrea,siderea,2,1,1.570796327
+2020,July,27,Grundys,28,MF,2,5,PAST,Porites,astreoides,7,5,27.48893572
+2020,July,27,Grundys,25,MF,1,1,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,July,27,Grundys,25,MF,1,1,AAGA,Agaricia,agaricites,8,7,43.98229715
+2020,July,27,Grundys,25,MF,1,4,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,July,27,Grundys,25,MF,1,4,PAST,Porites,astreoides,4,3,9.424777961
+2020,July,27,Grundys,25,MF,1,4,AAGA,Agaricia,agaricites,4,2,6.283185307
+2020,July,27,Grundys,28,MF,2,1,SSID,Siderastrea,siderea,6,5,23.5619449
+2020,July,27,Grundys,28,MF,2,1,SSID,Siderastrea,siderea,7,4,21.99114858
+2020,July,27,Grundys,28,MF,2,1,SSID,Siderastrea,siderea,3,2,4.71238898
+2020,July,27,Grundys,28,MF,2,1,SSID,Siderastrea,siderea,5,2,7.853981634
+2020,July,27,Grundys,28,MF,2,1,SSID,Siderastrea,siderea,6,3,14.13716694
+2020,July,27,Grundys,28,MF,2,1,SRAD,Siderastrea,radians,3,2,4.71238898
+2020,July,27,Grundys,28,MF,2,1,SRAD,Siderastrea,radians,6,5,23.5619449
+2020,July,27,Grundys,28,MF,2,2,AAGA,Agaricia,agaricites,7,4,21.99114858
+2020,July,27,Grundys,28,MF,2,3,SRAD,Siderastrea,radians,2,2,3.141592654
+2020,July,27,Grundys,28,MF,2,4,SRAD,Siderastrea,radians,3,2,4.71238898
+2020,July,27,Grundys,28,MF,2,4,SRAD,Siderastrea,radians,7,5,27.48893572
+2020,July,27,Grundys,28,MF,2,4,SRAD,Siderastrea,radians,2,2,3.141592654
+2020,July,27,Grundys,28,MF,2,4,SRAD,Siderastrea,radians,2,1,1.570796327
+2020,July,27,Grundys,28,MF,2,4,SRAD,Siderastrea,radians,4,2,6.283185307
+2020,July,27,Grundys,28,MF,2,4,SRAD,Siderastrea,radians,2,2,3.141592654
+2020,July,27,Grundys,28,MF,2,4,SRAD,Siderastrea,radians,1,1,0.785398163
+2020,July,27,Grundys,28,MF,2,4,MALC,Millepora,alcicornis,7,3,16.49336143
+2020,August,3,Sailfin,30,GGG,1,1,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,1,1,PAST,Porites,astreoides,2,2,3.141592654
+2020,August,3,Sailfin,30,GGG,1,1,SRAD,Siderastrea,radians,6,4,18.84955592
+2020,August,3,Sailfin,30,GGG,1,1,PAST,Porites,astreoides,5,3,11.78097245
+2020,August,3,Sailfin,30,GGG,1,1,PAST,Porites,astreoides,4,2,6.283185307
+2020,August,3,Sailfin,30,GGG,1,1,SSID,Siderastrea,siderea,4,3,9.424777961
+2020,August,3,Sailfin,30,GGG,1,1,PAST,Porites,astreoides,3,3,7.068583471
+2020,August,3,Sailfin,30,GGG,1,2,PAST,Porites,astreoides,5,4,15.70796327
+2020,August,3,Sailfin,30,GGG,1,2,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,3,Sailfin,30,GGG,1,2,FFRA,Favia,fragum,4,3,9.424777961
+2020,August,3,Sailfin,30,GGG,1,2,AAGA,Agaricia,agaricites,1,1,0.785398163
+2020,August,3,Sailfin,30,GGG,1,2,AAGA,Agaricia,agaricites,8,5,31.41592654
+2020,August,3,Sailfin,30,GGG,1,3,FFRA,Favia,fragum,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,1,3,PPOR,Porites,porites,6,5,23.5619449
+2020,August,3,Sailfin,30,GGG,1,3,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,1,3,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,3,Sailfin,30,GGG,1,3,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,August,3,Sailfin,30,GGG,1,4,FFRA,Favia,fragum,0.5,0.5,0.196349541
+2020,August,3,Sailfin,30,GGG,1,4,AAGA,Agaricia,agaricites,9,5,35.34291735
+2020,August,3,Sailfin,30,GGG,1,4,PPOR,Porites,porites,1,1,0.785398163
+2020,August,3,Sailfin,30,GGG,1,4,PAST,Porites,astreoides,3.5,3,8.246680716
+2020,August,3,Sailfin,30,GGG,1,4,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,3,Sailfin,30,GGG,1,4,PAST,Porites,astreoides,3,3,7.068583471
+2020,August,3,Sailfin,30,GGG,1,4,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,1,4,OANN,Orbicella,annularis,9,7,49.48008429
+2020,August,3,Sailfin,30,GGG,1,5,PAST,Porites,astreoides,4,4,12.56637061
+2020,August,3,Sailfin,30,GGG,1,5,PAST,Porites,astreoides,4,4,12.56637061
+2020,August,3,Sailfin,30,GGG,1,5,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,August,3,Sailfin,30,GGG,1,5,PPOR,Porites,porites,7,6,32.98672286
+2020,August,3,Sailfin,30,GGG,1,5,PAST,Porites,astreoides,2,2,3.141592654
+2020,August,3,Sailfin,30,GGG,1,5,PAST,Porites,astreoides,0.5,0.5,0.196349541
+2020,August,3,Sailfin,30,GGG,1,5,PAST,Porites,astreoides,7,6,32.98672286
+2020,August,3,Sailfin,30,GGG,1,5,AAGA,Agaricia,agaricites,1,1,0.785398163
+2020,August,3,Sailfin,30,GGG,1,5,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,3,Sailfin,30,GGG,1,5,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,August,3,Sailfin,30,GGG,1,5,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,3,Sailfin,30,GGG,1,5,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,2,1,FFRA,Favia,fragum,2,1,1.570796327
+2020,August,3,Sailfin,30,GGG,2,1,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,3,Sailfin,30,GGG,2,1,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,3,Sailfin,30,GGG,2,1,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,2,1,MALC,Millepora,alcicornis,6,3,14.13716694
+2020,August,3,Sailfin,30,GGG,2,2,PAST,Porites,astreoides,5,4,15.70796327
+2020,August,3,Sailfin,30,GGG,2,2,PAST,Porites,astreoides,6,4,18.84955592
+2020,August,3,Sailfin,30,GGG,2,2,PAST,Porites,astreoides,5,5,19.63495408
+2020,August,3,Sailfin,30,GGG,2,2,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,3,Sailfin,30,GGG,2,2,PPOR,Porites,porites,4,4,12.56637061
+2020,August,3,Sailfin,30,GGG,2,2,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,2,2,AAGA,Agaricia,agaricites,5,3,11.78097245
+2020,August,3,Sailfin,30,GGG,2,2,AAGA,Agaricia,agaricites,4,4,12.56637061
+2020,August,3,Sailfin,30,GGG,2,3,SRAD,Siderastrea,radians,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,2,3,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,3,Sailfin,30,GGG,2,3,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,3,Sailfin,30,GGG,2,3,PAST,Porites,astreoides,3,3,7.068583471
+2020,August,3,Sailfin,30,GGG,2,3,PPOR,Porites,porites,5,4,15.70796327
+2020,August,3,Sailfin,30,GGG,2,4,PPOR,Porites,porites,5,3,11.78097245
+2020,August,3,Sailfin,30,GGG,2,4,PPOR,Porites,porites,4,4,12.56637061
+2020,August,3,Sailfin,30,GGG,2,4,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,August,3,Sailfin,30,GGG,2,4,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,2,4,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,August,3,Sailfin,30,GGG,2,4,AAGA,Agaricia,agaricites,4,5,15.70796327
+2020,August,3,Sailfin,30,GGG,2,4,AAGA,Agaricia,agaricites,3,2,4.71238898
+2020,August,3,Sailfin,30,GGG,2,4,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,August,3,Sailfin,30,GGG,2,4,AAGA,Agaricia,agaricites,2,1,1.570796327
+2020,August,3,Sailfin,30,GGG,2,5,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,3,Sailfin,30,GGG,2,5,PAST,Porites,astreoides,5,4,15.70796327
+2020,August,3,Sailfin,30,GGG,2,5,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,3,Sailfin,30,GGG,2,5,AAGA,Agaricia,agaricites,0.5,0.5,0.196349541
+2020,August,3,Sailfin,30,GGG,2,5,AAGA,Agaricia,agaricites,8,6,37.69911184
+2020,August,3,Sailfin,28,GGG,3,1,PAST,Porites,astreoides,7,5,27.48893572
+2020,August,3,Sailfin,28,GGG,3,1,FFRA,Favia,fragum,4,3,9.424777961
+2020,August,3,Sailfin,28,GGG,3,1,PPOR,Porites,porites,8,5,31.41592654
+2020,August,3,Sailfin,28,GGG,3,2,PAST,Porites,astreoides,2,1,1.570796327
+2020,August,3,Sailfin,28,GGG,3,2,PAST,Porites,astreoides,0.5,0.5,0.196349541
+2020,August,3,Sailfin,28,GGG,3,3,AAGA,Agaricia,agaricites,6,5,23.5619449
+2020,August,3,Sailfin,28,GGG,3,3,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,August,3,Sailfin,28,GGG,3,3,AAGA,Agaricia,agaricites,2,1,1.570796327
+2020,August,3,Sailfin,28,GGG,3,3,PAST,Porites,astreoides,2,2,3.141592654
+2020,August,3,Sailfin,28,GGG,3,3,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,3,Sailfin,28,GGG,3,3,AAGA,Agaricia,agaricites,2,1,1.570796327
+2020,August,3,Sailfin,28,GGG,3,3,PAST,Porites,astreoides,0.5,0.5,0.196349541
+2020,August,3,Sailfin,28,GGG,3,3,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,3,Sailfin,28,GGG,3,3,FFRA,Favia,fragum,0.5,0.5,0.196349541
+2020,August,3,Sailfin,28,GGG,3,3,FFRA,Favia,fragum,1,1,0.785398163
+2020,August,3,Sailfin,28,GGG,3,4,SSID,Siderastrea,siderea,2,2,3.141592654
+2020,August,3,Sailfin,28,GGG,3,4,SSID,Siderastrea,siderea,1,1,0.785398163
+2020,August,3,Sailfin,28,GGG,3,4,SSID,Siderastrea,siderea,2,1,1.570796327
+2020,August,3,Sailfin,28,GGG,3,4,FFRA,Favia,fragum,1.5,1.5,1.767145868
+2020,August,3,Sailfin,28,GGG,3,4,PAST,Porites,astreoides,3,3,7.068583471
+2020,August,3,Sailfin,28,GGG,3,4,PAST,Porites,astreoides,4,4,12.56637061
+2020,August,3,Sailfin,28,GGG,3,4,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,3,Sailfin,28,GGG,3,4,SSID,Siderastrea,siderea,6,5,23.5619449
+2020,August,3,Sailfin,28,GGG,3,4,AAGA,Agaricia,agaricites,8,7,43.98229715
+2020,August,3,Sailfin,28,GGG,3,4,FFRA,Favia,fragum,1,1,0.785398163
+2020,August,3,Sailfin,28,GGG,3,5,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,3,Sailfin,28,GGG,3,5,SSID,Siderastrea,siderea,3,2,4.71238898
+2020,August,3,Sailfin,28,GGG,3,5,SRAD,Siderastrea,radians,5,3,11.78097245
+2020,August,3,Sailfin,28,GGG,3,5,SRAD,Siderastrea,radians,3,3,7.068583471
+2020,August,3,Sailfin,28,GGG,3,5,PAST,Porites,astreoides,0.5,0.5,0.196349541
+2020,August,3,Sailfin,35,GGG,4,1,MALC,Millepora,alcicornis,5,5,19.63495408
+2020,August,3,Sailfin,35,GGG,4,2,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,3,Sailfin,35,GGG,4,2,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,August,3,Sailfin,35,GGG,4,2,PAST,Porites,astreoides,3,3,7.068583471
+2020,August,3,Sailfin,35,GGG,4,2,PPOR,Porites,porites,3,3,7.068583471
+2020,August,3,Sailfin,35,GGG,4,3,SSID,Siderastrea,siderea,9,5,35.34291735
+2020,August,3,Sailfin,35,GGG,4,3,FFRA,Favia,fragum,4,3,9.424777961
+2020,August,3,Sailfin,35,GGG,4,3,SRAD,Siderastrea,radians,1,1,0.785398163
+2020,August,3,Sailfin,35,GGG,4,3,SRAD,Siderastrea,radians,0.5,0.5,0.196349541
+2020,August,3,Sailfin,35,GGG,4,3,SRAD,Siderastrea,radians,0.5,0.5,0.196349541
+2020,August,3,Sailfin,35,GGG,4,3,SRAD,Siderastrea,radians,0.5,0.5,0.196349541
+2020,August,3,Sailfin,35,GGG,4,3,PAST,Porites,astreoides,2,2,3.141592654
+2020,August,3,Sailfin,35,GGG,4,4,PPOR,Porites,porites,4,4,12.56637061
+2020,August,3,Sailfin,35,GGG,4,4,PPOR,Porites,porites,4,2,6.283185307
+2020,August,3,Sailfin,35,GGG,4,4,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,3,Sailfin,35,GGG,4,5,FFRA,Favia,fragum,2,2,3.141592654
+2020,August,3,Sailfin,35,GGG,4,5,MARE,Mancina,areolata,3,2,4.71238898
+2020,August,3,Sailfin,35,GGG,4,5,PAST,Porites,astreoides,7,4,21.99114858
+2020,August,3,Sailfin,35,GGG,4,5,SINT,Stephanocoenia ,intersepta,6,4,18.84955592
+2020,August,3,Sailfin,35,GGG,4,5,AAGA,Agaricia,agaricites,9,5,35.34291735
+2020,August,3,Sailfin,35,GGG,4,5,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,3,Sailfin,35,GGG,4,5,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,5,Snapshot,33,GGG,1,1,FFRA,Favia,fragum,4,4,12.56637061
+2020,August,5,Snapshot,33,GGG,1,1,AAGA,Agaricia,agaricites,6,5,23.5619449
+2020,August,5,Snapshot,33,GGG,1,1,FFRA,Favia,fragum,3,3,7.068583471
+2020,August,5,Snapshot,33,GGG,1,1,FFRA,Favia,fragum,3,2,4.71238898
+2020,August,5,Snapshot,33,GGG,1,1,FFRA,Favia,fragum,1,1,0.785398163
+2020,August,5,Snapshot,33,GGG,1,1,AAGA,Agaricia,agaricites,5,5,19.63495408
+2020,August,5,Snapshot,33,GGG,1,1,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,5,Snapshot,33,GGG,1,1,AAGA,Agaricia,agaricites,7,3,16.49336143
+2020,August,5,Snapshot,33,GGG,1,2,FFRA,Favia,fragum,3,2,4.71238898
+2020,August,5,Snapshot,33,GGG,1,3,SRAD,Siderastrea,radians,2,2,3.141592654
+2020,August,5,Snapshot,33,GGG,1,3,SRAD,Siderastrea,radians,4,4,12.56637061
+2020,August,5,Snapshot,33,GGG,1,3,PAST,Porites,astreoides,2,2,3.141592654
+2020,August,5,Snapshot,33,GGG,1,4,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,5,Snapshot,33,GGG,1,4,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,August,5,Snapshot,33,GGG,1,4,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,5,Snapshot,33,GGG,1,4,AAGA,Agaricia,agaricites,4,3,9.424777961
+2020,August,5,Snapshot,33,GGG,1,4,AAGA,Agaricia,agaricites,6,4,18.84955592
+2020,August,5,Snapshot,33,GGG,1,4,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,August,5,Snapshot,33,GGG,1,5,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,5,Snapshot,33,GGG,1,5,PAST,Porites,astreoides,4,2,6.283185307
+2020,August,5,Snapshot,33,GGG,1,5,PAST,Porites,astreoides,2,2,3.141592654
+2020,August,5,Snapshot,33,GGG,1,5,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,5,Snapshot,33,GGG,1,5,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,5,Snapshot,33,GGG,1,5,AAGA,Agaricia,agaricites,7,3,16.49336143
+2020,August,5,Snapshot,32,GGG,2,1,AAGA,Agaricia,agaricites,4,2,6.283185307
+2020,August,5,Snapshot,32,GGG,2,1,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,5,Snapshot,32,GGG,2,1,MALI,Mycetophellia,aliciae,1.5,1.5,1.767145868
+2020,August,5,Snapshot,32,GGG,2,2,AAGA,Agaricia,agaricites,6,4,18.84955592
+2020,August,5,Snapshot,32,GGG,2,2,AAGA,Agaricia,agaricites,7,5,27.48893572
+2020,August,5,Snapshot,32,GGG,2,2,OFAV,Orbicella,faveolata,8,6,37.69911184
+2020,August,5,Snapshot,32,GGG,2,2,SSID,Siderastrea,siderea,3,1,2.35619449
+2020,August,5,Snapshot,32,GGG,2,3,PAST,Porites,astreoides,5,4,15.70796327
+2020,August,5,Snapshot,32,GGG,2,4,AAGA,Agaricia,agaricites,6,4,18.84955592
+2020,August,5,Snapshot,32,GGG,2,5,SRAD,Siderastrea,radians,3,2,4.71238898
+2020,August,5,Snapshot,32,GGG,2,5,PAST,Porites,astreoides,6,5,23.5619449
+2020,August,5,Snapshot,32,GGG,2,5,PAST,Porites,astreoides,7,4,21.99114858
+2020,August,5,Snapshot,32,GGG,2,5,PAST,Porites,astreoides,3,3,7.068583471
+2020,August,5,Snapshot,32,GGG,2,5,SRAD,Siderastrea,radians,3,2,4.71238898
+2020,August,5,Snapshot,41,GGG,3,1,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,August,5,Snapshot,41,GGG,3,1,AAGA,Agaricia,agaricites,3,4,9.424777961
+2020,August,5,Snapshot,41,GGG,3,2,PAST,Porites,astreoides,4,4,12.56637061
+2020,August,5,Snapshot,41,GGG,3,2,PAST,Porites,astreoides,7,4,21.99114858
+2020,August,5,Snapshot,41,GGG,3,2,PAST,Porites,astreoides,1,1,0.785398163
+2020,August,5,Snapshot,41,GGG,3,2,AAGA,Agaricia,agaricites,1,1,0.785398163
+2020,August,5,Snapshot,41,GGG,3,3,PAST,Porites,astreoides,3,2,4.71238898
+2020,August,5,Snapshot,41,GGG,3,4,SSID,Siderastrea,siderea,3,3,7.068583471
+2020,August,5,Snapshot,41,GGG,3,4,SSID,Siderastrea,siderea,5,3,11.78097245
+2020,August,5,Snapshot,41,GGG,3,4,AAGA,Agaricia,agaricites,3,3,7.068583471
+2020,August,5,Snapshot,41,GGG,3,4,PAST,Porites,astreoides,4,2,6.283185307
+2020,August,5,Snapshot,41,GGG,3,5,AAGA,Agaricia,agaricites,8,4,25.13274123
+2020,August,5,Snapshot,41,GGG,3,5,AAGA,Agaricia,agaricites,5,4,15.70796327
+2020,August,5,Snapshot,41,GGG,3,5,PAST,Porites,astreoides,2,2,3.141592654
+2020,August,5,Snapshot,41,GGG,3,5,AAGA,Agaricia,agaricites,2,2,3.141592654
+2020,August,5,Snapshot,41,GGG,3,5,PAST,Porites,astreoides,4,2,6.283185307
+2020,August,5,Snapshot,40,GGG,4,3,SRAD,Siderastrea,radians,8,4,25.13274123
+2020,August,5,Snapshot,40,GGG,4,3,SINT,Stephanocoenia ,intersepta,6,6,28.27433388
+2020,August,5,Snapshot,40,GGG,4,3,PAST,Porites,astreoides,6,5,23.5619449
+2020,August,5,Snapshot,40,GGG,4,3,PAST,Porites,astreoides,3,3,7.068583471
+2020,August,5,Snapshot,40,GGG,4,4,AAGA,Agaricia,agaricites,8,7,43.98229715
+2020,August,5,Snapshot,40,GGG,4,4,PAST,Porites,astreoides,4,3,9.424777961
+2020,August,5,Snapshot,40,GGG,4,4,AAGA,Agaricia,agaricites,6,6,28.27433388
+2020,August,5,Snapshot,40,GGG,4,4,PAST,Porites,astreoides,5,3,11.78097245
+2020,August,5,Snapshot,40,GGG,4,4,SRAD,Siderastrea,radians,3,3,7.068583471
+2020,August,5,Snapshot,40,GGG,4,4,SRAD,Siderastrea,radians,3,4,9.424777961
+2020,August,5,Snapshot,40,GGG,4,5,SCUB,Scolymia,cubensis,4,4,12.56637061
+2020,August,5,Snapshot,40,GGG,4,5,MALI,Mycetophellia,aliciae,1.5,1.5,1.767145868
+2020,July,28,WestPoint,52,GGG,1,1,OFAV,Orbicella,faveolata,4,5,15.70796327
+2020,July,28,WestPoint,52,GGG,1,4,MCAV,Montastraea,cavernosa,5,6,23.5619449
+2020,July,28,WestPoint,52,GGG,1,4,SSID,Siderastrea,siderea,4,3,9.424777961
+2020,July,28,WestPoint,52,GGG,1,4,OFAV,Orbicella,faveolata,8,6,37.69911184
+2020,July,28,WestPoint,52,GGG,1,5,MDEC,Madracis,decactis,4,3,9.424777961
+2020,July,28,WestPoint,52,GGG,1,5,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,July,28,WestPoint,43,GGG,2,1,PAST,Porites,astreoides,2,2,3.141592654
+2020,July,28,WestPoint,43,GGG,2,1,SSID,Siderastrea,siderea,6,6,28.27433388
+2020,July,28,WestPoint,43,GGG,2,1,PAST,Porites,astreoides,4,2.5,7.853981634
+2020,July,28,WestPoint,43,GGG,2,1,PAST,Porites,astreoides,2,1,1.570796327
+2020,July,28,WestPoint,43,GGG,2,1,SRAD,Siderastrea,radians,2,2,3.141592654
+2020,July,28,WestPoint,43,GGG,2,2,AAGA,Agaricia,agaricites,5,5,19.63495408
+2020,July,28,WestPoint,43,GGG,2,2,PAST,Porites,astreoides,3,2,4.71238898
+2020,July,28,WestPoint,43,GGG,2,2,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,July,28,WestPoint,43,GGG,2,3,MCAV,Montastraea,cavernosa,2,2,3.141592654
+2020,July,28,WestPoint,43,GGG,2,3,SRAD,Siderastrea,radians,4,3,9.424777961
+2020,July,28,WestPoint,43,GGG,2,3,PAST,Porites,astreoides,7,7,38.48451001
+2020,July,28,WestPoint,43,GGG,2,3,SSID,Siderastrea,siderea,3,2,4.71238898
+2020,July,28,WestPoint,43,GGG,2,3,SSID,Siderastrea,siderea,2,2,3.141592654
+2020,July,28,WestPoint,43,GGG,2,3,AAGA,Agaricia,agaricites,7,6,32.98672286
+2020,July,28,WestPoint,43,GGG,2,3,SRAD,Siderastrea,radians,1,1,0.785398163
+2020,July,28,WestPoint,43,GGG,2,4,PAST,Porites,astreoides,3,2,4.71238898
+2020,July,28,WestPoint,43,GGG,2,5,PAST,Porites,astreoides,5,2,7.853981634
+2020,July,28,WestPoint,54,MF,3,1,AAGA,Agaricia,agaricites,8,8,50.26548246
+2020,July,28,WestPoint,54,MF,3,2,PAST,Porites,astreoides,1,1,0.785398163
+2020,July,28,WestPoint,54,MF,3,2,AAGA,Agaricia,agaricites,6,5,23.5619449
+2020,July,28,WestPoint,54,MF,3,2,SSID,Siderastrea,siderea,5,5,19.63495408
+2020,July,28,WestPoint,54,MF,3,3,SSID,Siderastrea,siderea,2,1,1.570796327
+2020,July,28,WestPoint,54,MF,3,3,MCAV,Montastraea,cavernosa,7,6,32.98672286
+2020,July,28,WestPoint,54,MF,3,4,AAGA,Agaricia,agaricites,3,7,16.49336143
+2020,July,28,WestPoint,54,MF,3,4,PAST,Porites,astreoides,4,3,9.424777961
+2020,July,28,WestPoint,54,MF,3,4,SSID,Siderastrea,siderea,9,9,63.61725124
+2020,July,28,WestPoint,54,MF,3,5,AAGA,Agaricia,agaricites,5,6,23.5619449
+2020,July,28,WestPoint,44,MF,4,1,PAST,Porites,astreoides,7,6,32.98672286
+2020,July,28,WestPoint,44,MF,4,2,AAGA,Agaricia,agaricites,8,6,37.69911184
+2020,July,28,WestPoint,44,MF,4,2,SINT,Stephanocoenia ,intersepta,7,1,5.497787144
+2020,July,28,WestPoint,44,MF,4,2,SSID,Siderastrea,siderea,7,4,21.99114858
+2020,July,28,WestPoint,44,MF,4,3,AAGA,Agaricia,agaricites,4,2,6.283185307
+2020,July,28,WestPoint,44,MF,4,3,DSTO,Dichocoenia,stokesii,9,7,49.48008429
+2020,July,28,WestPoint,44,MF,4,4,SSID,Siderastrea,siderea,6,5,23.5619449
+2020,July,28,WestPoint,44,MF,4,5,PAST,Porites,astreoides,8,5,31.41592654
+2020,July,28,WestPoint,44,MF,4,5,PAST,Porites,astreoides,7,6,32.98672286

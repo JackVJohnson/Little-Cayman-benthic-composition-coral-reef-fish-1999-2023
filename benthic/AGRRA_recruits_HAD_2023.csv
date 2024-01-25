@@ -1,0 +1,31 @@
+Year,Month,Date,Site,Depth,Observer,Transect,Quadrat,code,genus,species,length,width,SA
+2023,jul,3,Coral City,10,Haley Davis,1,2,AAGA,Agaricia,agaricites,3,2,4.71238898
+2023,jul,3,Coral City,10,Haley Davis,1,2,MCAV,Montastraea,cavernosa,2,2,3.141592654
+2023,jul,3,Westpoint,12.12,Haley Davis,1,1,SRAD,Siderastrea,radians,6,6,28.27433388
+2023,jul,3,Westpoint,12.12,Haley Davis,1,2,SSID,Siderastrea,siderea,2,1,1.570796327
+2023,jul,3,Westpoint,12.12,Haley Davis,1,2,AAGA,Agaricia,agaricites,2,2,3.141592654
+2023,jul,3,Westpoint,12.12,Haley Davis,1,2,SINT,Stephanocoenia ,intersepta,3,3,7.068583471
+2023,jul,3,Westpoint,12.12,Haley Davis,1,3,SSID,Siderastrea,siderea,5,5,19.63495408
+2023,jul,4,Marthas,10.91,Haley Davis,1,3,PAST,Porites,astreoides,3,3,7.068583471
+2023,jul,4,Marilyns Cut,8.79,Haley Davis,12,1,FFRA,Favia,fragum,1.5,1.5,1.767145868
+2023,jul,4,Marilyns Cut,8.79,Haley Davis,1,1,AAGA,Agaricia,agaricites,3,4,9.424777961
+2023,jul,4,Marilyns Cut,8.79,Haley Davis,1,2,PORITES,Porites,#N/A,4,4,12.56637061
+2023,jul,4,Marilyns Cut,8.79,Haley Davis,1,2,FFRA,Favia,fragum,4,3,9.424777961
+2023,jul,4,Marilyns Cut,8.79,Haley Davis,1,2,AAGA,Agaricia,agaricites,4,4,12.56637061
+2023,jul,4,Meadows,7.88,Haley Davis,1,1,MCAV,Montastraea,cavernosa,5,3,11.78097245
+2023,jul,4,Meadows,7.88,Haley Davis,1,1,MADRACIS,Madracis,#N/A,1,1,0.785398163
+2023,jul,4,Meadows,7.88,Haley Davis,1,2,PORITES,Porites,#N/A,3,4,9.424777961
+2023,jul,4,Meadows,7.88,Haley Davis,1,3,AAGA,Agaricia,agaricites,3,2,4.71238898
+2023,jul,4,Meadows,7.88,Haley Davis,1,4,PORITES,Porites,#N/A,4,3,9.424777961
+2023,jul,4,Meadows,7.88,Haley Davis,1,4,PORITES,Porites,#N/A,2,3,4.71238898
+2023,jul,4,Meadows,7.88,Haley Davis,1,4,AAGA,Agaricia,agaricites,2,2,3.141592654
+2023,jul,4,Meadows,7.88,Haley Davis,1,4,AAGA,Agaricia,agaricites,1,1,0.785398163
+2023,jul,4,Meadows,7.88,Haley Davis,1,4,AAGA,Agaricia,agaricites,5,5,19.63495408
+2023,jul,5,Sailfin,10.61,Haley Davis,1,1,AAGA,Agaricia,agaricites,4,3,9.424777961
+2023,jul,5,Sailfin,10.61,Haley Davis,1,2,SSID,Siderastrea,siderea,3,3,7.068583471
+2023,jul,5,Sailfin,10.61,Haley Davis,1,2,AAGA,Agaricia,agaricites,3,4,9.424777961
+2023,jul,5,Sailfin,10.61,Haley Davis,1,3,PAST,Porites,astreoides,3,4,9.424777961
+2023,jul,5,Sailfin,10.61,Haley Davis,1,3,MADRACIS,Madracis,#N/A,1,1,0.785398163
+2023,jul,5,Sailfin,10.61,Haley Davis,1,3,FFRA,Favia,fragum,1,2,1.570796327
+2023,jul,5,Snapshot,8.79,Haley Davis,1,1,AAGA,Agaricia,agaricites,5,3,11.78097245
+2023,jul,5,Snapshot,8.79,Haley Davis,1,5,SRAD,Siderastrea,radians,5,4,15.70796327

@@ -1,0 +1,220 @@
+Year,Month,Date,Site,Depth,Observer,Transect,Quadrat,code,genus,species,length,width,SA
+2021,June,28,Marthas,38,GGG,1,1,SSID,Siderastrea,siderea,3,2.5,5.890486225
+2021,June,28,Marthas,38,GGG,1,2,AAGA,Agaricia,agaricites,3,2.5,5.890486225
+2021,June,28,Marthas,38,GGG,1,2,AAGA,Agaricia,agaricites,4,2,6.283185307
+2021,June,28,Marthas,38,GGG,1,3,EFAS,Eusmilia,fastigiata,3.5,1.5,4.123340358
+2021,June,28,Marthas,38,GGG,1,4,AAGA,Agaricia,agaricites,4,4,12.56637061
+2021,June,28,Marilyns Cut,33,GGG,1,1,PAST,Porites,astreoides,1.5,1.5,1.767145868
+2021,June,28,Marilyns Cut,33,GGG,1,2,SSID,Siderastrea,siderea,2.5,2.5,4.908738521
+2021,June,28,Marilyns Cut,33,GGG,1,2,SSID,Siderastrea,siderea,1.5,1.5,1.767145868
+2021,June,28,Marilyns Cut,33,GGG,1,4,PAST,Porites,astreoides,3,2,4.71238898
+2021,June,25,Coral City,40,CG,1,1,AAGA,Agaricia,agaricites,2,2,3.141592654
+2021,June,25,Coral City,40,CG,1,7,SRAD,Siderastrea,radians,2,2,3.141592654
+2021,June,25,Coral City,35,CG,2,3,MARE,Mancina,areolata,3,3,7.068583471
+2021,June,25,Coral City,35,CG,2,5,SINT,Stephanocoenia ,intersepta,2,2,3.141592654
+2021,June,25,Coral City,35,CG,2,5,PPOR,Porites,porites,3,3,7.068583471
+2021,June,25,Westpoint,40,CG,1,1,SSID,Siderastrea,siderea,2,2,3.141592654
+2021,June,25,Westpoint,40,CG,1,9,SRAD,Siderastrea,radians,2,1,1.570796327
+2021,June,25,Coral City,38,GGG,1,1,EFAS,Eusmilia,fastigiata,2.5,2,3.926990817
+2021,June,25,Coral City,38,GGG,1,3,AAGA,Agaricia,agaricites,1,1,0.785398163
+2021,June,25,Coral City,38,GGG,1,5,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June,25,Coral City,38,GGG,1,7,PPOR,Porites,porites,2,1.5,2.35619449
+2021,June,25,Coral City,38,GGG,1,9,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June,25,Coral City,38,GGG,1,9,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June,25,Coral City,40,GGG,2,7,AAGA,Agaricia,agaricites,2.5,1.5,2.945243113
+2021,June,25,Coral City,40,GGG,2,7,AAGA,Agaricia,agaricites,2,1.5,2.35619449
+2021,June,25,Coral City,40,GGG,2,9,AFRA,Agaricia,fragilis,4,3,9.424777961
+2021,June,25,Coral City,40,GGG,2,9,AFRA,Agaricia,fragilis,2,1,1.570796327
+2021,June,25,Westpoint,43,GGG,1,3,AAGA,Agaricia,agaricites,2,2,3.141592654
+2021,June,25,Westpoint,43,GGG,1,3,AAGA,Agaricia,agaricites,2.5,3,5.890486225
+2021,June,25,Westpoint,43,GGG,1,3,AAGA,Agaricia,agaricites,2.5,1,1.963495408
+2021,June,25,Westpoint,43,GGG,1,3,AAGA,Agaricia,agaricites,2,1,1.570796327
+2021,June,25,Westpoint,43,GGG,1,5,PPOR,Porites,porites,4,2,6.283185307
+2021,June,25,Westpoint,40,GGG,2,5,PAST,Porites,astreoides,4,4,12.56637061
+2021,June,25,Westpoint,40,GGG,2,5,PAST,Porites,astreoides,2,1,1.570796327
+2021,June,25,Westpoint,40,GGG,2,5,AAGA,Agaricia,agaricites,0.5,1,0.392699082
+2021,June,25,Westpoint,40,GGG,2,7,SSID,Siderastrea,siderea,4,4,12.56637061
+2021,June,25,Westpoint,40,GGG,2,7,SSID,Siderastrea,siderea,4,4,12.56637061
+2021,June,25,Westpoint,40,GGG,2,9,AAGA,Agaricia,agaricites,1.5,1.5,1.767145868
+2021,June,25,Westpoint,40,GGG,2,9,PPOR,Porites,porites,1,3,2.35619449
+2021,June,25,Westpoint,33,CG,2,1,AAGA,Agaricia,agaricites,2,2,3.141592654
+2021,June,25,Westpoint,33,CG,2,1,SSID,Siderastrea,siderea,3,2,4.71238898
+2021,June,25,Westpoint,33,CG,2,5,MARE,Mancina,areolata,2,3,4.71238898
+2021,June,25,Westpoint,33,CG,2,7,SSID,Siderastrea,siderea,2,2,3.141592654
+2021,June,25,Westpoint,33,CG,2,7,SSID,Siderastrea,siderea,2,2,3.141592654
+2021,June,25,Marilyns Cut,30,CG,1,1,SSID,Siderastrea,siderea,3,4,9.424777961
+2021,June,25,Marilyns Cut,30,CG,1,1,SSID,Siderastrea,siderea,3,3,7.068583471
+2021,June,25,Marilyns Cut,30,CG,1,1,MDEC,Madracis,decactis,3,3,7.068583471
+2021,June,25,Marilyns Cut,30,CG,1,1,PAST,Porites,astreoides,2,3,4.71238898
+2021,June,25,Marilyns Cut,30,CG,1,7,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,25,Marilyns Cut,30,CG,1,7,PAST,Porites,astreoides,2,2,3.141592654
+2021,June,25,Marilyns Cut,30,CG,1,7,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June,25,Marilyns Cut,30,CG,1,9,PPOR,Porites,porites,3,3,7.068583471
+2021,June,25,Marilyns Cut,30,CG,2,1,PPOR,Porites,porites,3,3,7.068583471
+2021,June,25,Marilyns Cut,30,CG,2,3,AAGA,Agaricia,agaricites,2,2,3.141592654
+2021,June,25,Marilyns Cut,30,CG,2,5,AAGA,Agaricia,agaricites,4,3,9.424777961
+2021,June,28,Marthas,35,CG,1,1,OANN,Orbicella,annularis,4,2,6.283185307
+2021,June,28,Marthas,35,CG,1,3,AAGA,Agaricia,agaricites,4,4,12.56637061
+2021,June,28,Marthas,35,CG,1,9,PAST,Porites,astreoides,3,4,9.424777961
+2021,June,28,Grundys,43,CG,1,3,AHUM,Agaricia,humilis,2,3,4.71238898
+2021,June,28,Grundys,43,CG,1,3,AAGA,Agaricia,agaricites,3,3,7.068583471
+2021,June,28,Grundys,43,CG,2,5,AHUM,Agaricia,humilis,3,2,4.71238898
+2021,June,29,Pauls Anchor,38,CG,1,1,PAST,Porites,astreoides,4,3,9.424777961
+2021,June,29,Pauls Anchor,38,CG,1,5,MALC,Millepora,alcicornis,4,3,9.424777961
+2021,June,29,Pauls Anchor,38,CG,1,7,AAGA,Agaricia,agaricites,3,3,7.068583471
+2021,June,29,Pauls Anchor,38,CG,1,9,PPOR,Porites,porites,3,2,4.71238898
+2021,June,29,Pauls Anchor,38,CG_SW,2,1,DSTO,Dichocoenia,stokesii,2,2,3.141592654
+2021,June,29,Pauls Anchor,38,CG_SW,2,7,PPOR,Porites,porites,4,2,6.283185307
+2021,June,29,Pauls Anchor,38,CG_SW,2,7,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,29,Pauls Anchor,38,CG_SW,2,7,EFAS,Eusmilia,fastigiata,3,2,4.71238898
+2021,June,29,Pauls Anchor,38,CG_SW,2,7,AAGA,Agaricia,agaricites,4,3,9.424777961
+2021,June,29,Snapshot,33,CG,1,5,AAGA,Agaricia,agaricites,3,3,7.068583471
+2021,June,29,Snapshot,33,CG,1,9,SSID,Siderastrea,siderea,2,2,3.141592654
+2021,June,29,Snapshot,33,CG,1,9,SSID,Siderastrea,siderea,3,3,7.068583471
+2021,June,29,Snapshot,33,CG,2,9,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,30,Sailfin,30,CG,1,5,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,30,Sailfin,30,CG,1,7,SRAD,Siderastrea,radians,2,2,3.141592654
+2021,June,30,Sailfin,30,CG,1,7,SRAD,Siderastrea,radians,4,3,9.424777961
+2021,June,30,Sailfin,30,CG,2,1,PAST,Porites,astreoides,1,2,1.570796327
+2021,June,30,Jigsaw,35,CG,1,1,AAGA,Agaricia,agaricites,4,4,12.56637061
+2021,June,30,Jigsaw,35,CG,1,7,AAGA,Agaricia,agaricites,4,3,9.424777961
+2021,June,30,Jigsaw,35,CG,1,9,AAGA,Agaricia,agaricites,2,2,3.141592654
+2021,June,30,Jigsaw,35,CG,2,1,AAGA,Agaricia,agaricites,2,2,3.141592654
+2021,June,30,Jigsaw,35,CG,2,9,SSID,Siderastrea,siderea,2,1,1.570796327
+2021,June,28,Grundys,45,GGG,1,3,MAUR,Madracis,auretenra,2,1,1.570796327
+2021,June,28,Grundys,45,GGG,1,3,AFRA,Agaricia,fragilis,2,2,3.141592654
+2021,June,28,Grundys,45,GGG,1,3,AAGA,Agaricia,agaricites,2.5,2,3.926990817
+2021,June,28,Grundys,45,GGG,1,9,SSID,Siderastrea,siderea,3,2.5,5.890486225
+2021,June,28,Grundys,45,GGG,1,9,PAST,Porites,astreoides,1,1.5,1.178097245
+2021,June,29,Snapshot,32,GGG,1,3,AAGA,Agaricia,agaricites,4,4,12.56637061
+2021,June,29,Snapshot,32,GGG,1,9,PAST,Porites,astreoides,1.5,1,1.178097245
+2021,June ,29,Pauls Anchor,38,GGG,1,1,AAGA,Agaricia,agaricites,1,1,0.785398163
+2021,June ,29,Pauls Anchor,38,GGG,1,3,PAST,Porites,astreoides,4,3,9.424777961
+2021,June ,29,Pauls Anchor,38,GGG,1,3,DLAB,Diploria,labyrinthyformis,4,3,9.424777961
+2021,June ,29,Pauls Anchor,38,GGG,1,3,PAST,Porites,astreoides,1.5,1.5,1.767145868
+2021,June ,29,Pauls Anchor,38,GGG,1,5,PAST,Porites,astreoides,1.5,2,2.35619449
+2021,June ,29,Pauls Anchor,38,GGG,1,5,PAST,Porites,astreoides,2.5,4,7.853981634
+2021,June ,29,Pauls Anchor,38,GGG,1,7,PPOR,Porites,porites,2,1,1.570796327
+2021,June ,29,Meadows,18,GGG,1,3,AAGA,Agaricia,agaricites,1.5,1,1.178097245
+2021,June ,29,Meadows,18,GGG,1,7,PAST,Porites,astreoides,3,1.5,3.534291735
+2021,June ,29,Meadows,18,GGG,1,7,SSID,Siderastrea,siderea,4,4,12.56637061
+2021,June ,29,Meadows,18,GGG,1,9,PPOR,Porites,porites,3,2,4.71238898
+2021,June ,29,Meadows,18,GGG,1,9,OFAV,Orbicella,faveolata,3,4,9.424777961
+2021,June ,30,Sailfin,25,GGG,1,3,PAST,Porites,astreoides,3,2,4.71238898
+2021,June ,30,Sailfin,25,GGG,1,3,SINT,Stephanocoenia ,intersepta,2.5,2.5,4.908738521
+2021,June ,30,Sailfin,25,GGG,1,7,PAST,Porites,astreoides,4,3,9.424777961
+2021,June ,30,Sailfin,25,GGG,1,7,MLAM,Mycetophellia,larmarckiana,2,2,3.141592654
+2021,June ,30,Sailfin,25,GGG,1,7,PAST,Porites,astreoides,2,2,3.141592654
+2021,June ,30,Sailfin,25,GGG,1,7,AAGA,Agaricia,agaricites,2.5,3,5.890486225
+2021,June ,30,Sailfin,25,GGG,1,9,MAUR,Madracis,auretenra,1,1,0.785398163
+2021,June ,30,Sailfin,25,GGG,1,9,MAUR,Madracis,auretenra,2,1,1.570796327
+2021,June ,30,Jigsaw,38,GGG,1,5,AAGA,Agaricia,agaricites,4,4,12.56637061
+2021,June ,30,Jigsaw,38,GGG,1,7,PAST,Porites,astreoides,4,3,9.424777961
+2021,June ,30,Jigsaw,38,GGG,1,7,AAGA,Agaricia,agaricites,4,4,12.56637061
+2021,June ,30,Jigsaw,38,GGG,1,7,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June ,30,Jigsaw,38,GGG,1,7,PAST,Porites,astreoides,1,1,0.785398163
+2021,June,25,Coral City,33,GEC,1,1,PAST,Porites,astreoides,8,4,25.13274123
+2021,June,25,Coral City,33,GEC,1,1,AAGA,Agaricia,agaricites,5,4,15.70796327
+2021,June,25,Coral City,33,GEC,1,1,AFRA,Agaricia,fragilis,3,4,9.424777961
+2021,June,25,Coral City,33,GEC,2,2,PAST,Porites,astreoides,2,2,3.141592654
+2021,June,25,Coral City,33,GEC,2,2,PAST,Porites,astreoides,5,6,23.5619449
+2021,June,25,Coral City,33,GEC,2,2,PAST,Porites,astreoides,5,6,23.5619449
+2021,June,25,Coral City,33,GEC,2,3,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,25,Coral City,33,GEC,2,7,AAGA,Agaricia,agaricites,5,2,7.853981634
+2021,June,25,Westpoint,44,GEC,1,1,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,25,Westpoint,44,GEC,1,1,SSID,Siderastrea,siderea,7,3,16.49336143
+2021,June,25,Westpoint,44,GEC,1,3,SINT,Stephanocoenia ,intersepta,3,2,4.71238898
+2021,June,25,Westpoint,44,GEC,1,3,PAST,Porites,astreoides,2,2,3.141592654
+2021,June,25,Westpoint,44,GEC,1,9,SRAD,Siderastrea,radians,4,4,12.56637061
+2021,June,25,Westpoint,44,GEC,1,9,PAST,Porites,astreoides,2,3,4.71238898
+2021,June,25,Westpoint,41,GEC,2,1,PAST,Porites,astreoides,8,6,37.69911184
+2021,June,25,Westpoint,41,GEC,2,9,SSID,Siderastrea,siderea,3,3,7.068583471
+2021,June,25,Westpoint,41,GEC,2,9,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June,25,Westpoint,41,GEC,2,9,SSID,Siderastrea,siderea,3,2,4.71238898
+2021,June,25,Westpoint,41,GEC,2,9,SSID,Siderastrea,siderea,4,2,6.283185307
+2021,June,25,Westpoint,41,GEC,2,9,PDIV,Porites,divaricata,1,1,0.785398163
+2021,June,25,Westpoint,41,GEC,2,9,PDIV,Porites,divaricata,2,1,1.570796327
+2021,June,25,Westpoint,41,GEC,2,9,SSID,Siderastrea,siderea,3,1,2.35619449
+2021,June,28,Grundys,40,GEC,1,1,AAGA,Agaricia,agaricites,2,1,1.570796327
+2021,June,28,Grundys,40,GEC,1,3,AAGA,Agaricia,agaricites,5,3,11.78097245
+2021,June,28,Grundys,40,GEC,1,9,AAGA,Agaricia,agaricites,7,5,27.48893572
+2021,June,28,Grundys,40,GEC,2,3,AAGA,Agaricia,agaricites,5,3,11.78097245
+2021,June,28,Grundys,40,GEC,2,3,AAGA,Agaricia,agaricites,4,3,9.424777961
+2021,June,28,Grundys,40,GEC,2,3,AAGA,Agaricia,agaricites,2,1,1.570796327
+2021,June,28,Grundys,40,GEC,2,3,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June,28,Grundys,40,GEC,2,3,AAGA,Agaricia,agaricites,4,3,9.424777961
+2021,June,28,Grundys,40,GEC,2,5,PDIV,Porites,divaricata,4,3,9.424777961
+2021,June,28,Grundys,40,GEC,2,5,PDIV,Porites,divaricata,6,2,9.424777961
+2021,June,28,Grundys,40,GEC,2,7,AAGA,Agaricia,agaricites,6,4,18.84955592
+2021,June,28,Marthas,47,GEC,1,9,PAST,Porites,astreoides,8,3,18.84955592
+2021,June,28,Marthas,47,GEC,1,9,PAST,Porites,astreoides,4,3,9.424777961
+2021,June,28,Marilyns Cut,35,GEC,1,5,PAST,Porites,astreoides,3,2,4.71238898
+2021,June,28,Marilyns Cut,35,GEC,1,9,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June,28,Marilyns Cut,35,GEC,1,9,SSID,Siderastrea,siderea,3,2,4.71238898
+2021,June,28,Marilyns Cut,35,GEC,1,9,SSID,Siderastrea,siderea,1,1,0.785398163
+2021,June,28,Marilyns Cut,35,GEC,1,9,SSID,Siderastrea,siderea,2,1,1.570796327
+2021,June,28,Marilyns Cut,35,GEC,1,9,SSID,Siderastrea,siderea,3,2,4.71238898
+2021,June,28,Snapshot,51,GEC,1,1,SSID,Siderastrea,siderea,2,2,3.141592654
+2021,June,28,Snapshot,51,GEC,1,1,PAST,Porites,astreoides,2,2,3.141592654
+2021,June,28,Snapshot,51,GEC,1,3,AAGA,Agaricia,agaricites,4,2,6.283185307
+2021,June,28,Snapshot,51,GEC,1,5,SSID,Siderastrea,siderea,3,2,4.71238898
+2021,June,28,Snapshot,51,GEC,1,9,SRAD,Siderastrea,radians,4,1,3.141592654
+2021,June,29,Pauls Anchor,42,GEC,1,5,PAST,Porites,astreoides,3,2,4.71238898
+2021,June,29,Pauls Anchor,42,GEC,1,7,PAST,Porites,astreoides,4,4,12.56637061
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,4,2,6.283185307
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,6,2,9.424777961
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,3,2,4.71238898
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,4,2,6.283185307
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,4,2,6.283185307
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,4,2,6.283185307
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,4,2,6.283185307
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,4,2,6.283185307
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,6,2,9.424777961
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,6,2,9.424777961
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,6,2,9.424777961
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,6,2,9.424777961
+2021,June,29,Pauls Anchor,42,GEC,1,7,PDIV,Porites,divaricata,6,2,9.424777961
+2021,June,30,Jigsaw,45,GEC,1,1,AAGA,Agaricia,agaricites,4,3,9.424777961
+2021,June,30,Jigsaw,45,GEC,1,3,SRAD,Siderastrea,radians,2,2,3.141592654
+2021,June,30,Jigsaw,45,GEC,1,5,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,30,Jigsaw,45,GEC,1,5,PAST,Porites,astreoides,3,1,2.35619449
+2021,June,30,Jigsaw,45,GEC,1,9,PAST,Porites,astreoides,3,2,4.71238898
+2021,June,30,Sailfin,30,GEC,1,1,AAGA,Agaricia,agaricites,5,3,11.78097245
+2021,June,30,Sailfin,30,GEC,1,1,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,30,Sailfin,30,GEC,1,1,PAST,Porites,astreoides,5,3,11.78097245
+2021,June,30,Sailfin,30,GEC,1,3,AAGA,Agaricia,agaricites,5,4,15.70796327
+2021,June,30,Sailfin,30,GEC,1,5,PAST,Porites,astreoides,2,1,1.570796327
+2021,June,30,Sailfin,30,GEC,1,5,PDIV,Porites,divaricata,1,1,0.785398163
+2021,June,30,Sailfin,30,GEC,1,7,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June,30,Sailfin,30,GEC,1,7,AAGA,Agaricia,agaricites,2,2,3.141592654
+2021,June,28,Marthas,45.3,sw,1,1,PPOR,Porites,porites,2,2,3.141592654
+2021,June,28,Marthas,45.3,sw,1,3,FFRA,Favia,fragum,3,2,4.71238898
+2021,June,28,Marthas,45.3,sw,1,5,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,28,Marilyns Cut,25.6,sw,1,1,PAST,Porites,astreoides,1,1,0.785398163
+2021,June,28,Marilyns Cut,25.6,sw,1,5,PAST,Porites,astreoides,2,2,3.141592654
+2021,June,28,Marilyns Cut,25.6,sw,1,9,PAST,Porites,astreoides,1,0.5,0.392699082
+2021,June,28,Marilyns Cut,25.6,sw,1,9,PAST,Porites,astreoides,0.5,0.5,0.196349541
+2021,June,29,Snapshot,35.4,sw,1,1,AAGA,Agaricia,agaricites,3,3,7.068583471
+2021,June,29,Snapshot,35.4,sw,1,3,PFUR,Porites,furcata,2,1,1.570796327
+2021,June,29,Pauls Anchor,40.7,sw,1,3,AAGA,Agaricia,agaricites,3,2,4.71238898
+2021,June,29,Pauls Anchor,40.7,sw,1,5,SSID,Siderastrea,siderea,3,3,7.068583471
+2021,June,29,Pauls Anchor,40.7,sw,1,5,AAGA,Agaricia,agaricites,2,1,1.570796327
+2021,June,29,Pauls Anchor,40.7,sw,1,5,AAGA,Agaricia,agaricites,2,2,3.141592654
+2021,June,29,Pauls Anchor,40.7,sw,1,7,PAST,Porites,astreoides,2,2,3.141592654
+2021,June,29,Pauls Anchor,40.7,sw,1,7,PFUR,Porites,furcata,1,1,0.785398163
+2021,June,29,Meadows,14.8,sw,1,7,DLAB,Diploria,labyrinthyformis,3,3,7.068583471
+2021,June,29,Meadows,14.8,sw,1,7,AAGA,Agaricia,agaricites,3,1,2.35619449
+2021,June,29,Meadows,14.8,sw,1,9,AAGA,Agaricia,agaricites,3,3,7.068583471
+2021,June,29,Meadows,14.8,sw,1,9,PAST,Porites,astreoides,3,2,4.71238898
+2021,June,30,Sailfin,15.6,sw,1,1,PFUR,Porites,furcata,3,1,2.35619449
+2021,June,30,Sailfin,15.6,sw,1,3,PAST,Porites,astreoides,1,1,0.785398163
+2021,June,30,Sailfin,15.6,sw,1,3,FFRA,Favia,fragum,3,2,4.71238898
+2021,June,30,Sailfin,15.6,sw,1,3,PAST,Porites,astreoides,1,1,0.785398163
+2021,June,30,Sailfin,15.6,sw,1,5,PAST,Porites,astreoides,3,3,7.068583471
+2021,June,30,Sailfin,15.6,sw,1,5,FFRA,Favia,fragum,2,1,1.570796327
+2021,June,30,Sailfin,15.6,sw,1,5,PAST,Porites,astreoides,0.5,0.5,0.196349541
+2021,June,30,Sailfin,15.6,sw,1,5,PAST,Porites,astreoides,1,0.5,0.392699082
+2021,June,30,Sailfin,15.6,sw,1,7,SRAD,Siderastrea,radians,3,2,4.71238898
+2021,June,30,Sailfin,15.6,sw,1,9,AAGA,Agaricia,agaricites,2,2,3.141592654
+2021,June,30,Jigsaw,39.4,sw,1,1,SRAD,Siderastrea,radians,2,3,4.71238898
+2021,June,30,Jigsaw,39.4,sw,1,1,SRAD,Siderastrea,radians,2,1,1.570796327

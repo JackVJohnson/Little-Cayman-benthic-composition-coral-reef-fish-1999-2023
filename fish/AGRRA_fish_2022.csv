@@ -1,0 +1,1424 @@
+﻿date,year,month,day,site,mpa,observer,transect,common_name,sizeclass,count,fish_spp,common_family,foodweb,a,b,biomass,density
+19579,2022,September,3,Coral City,Outside,ADC,1,,10,3,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,108.7269266,0.05
+19591,2022,September,3,Coral City,Outside,ADC,1,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19580,2022,September,3,Coral City,Outside,ADC,1,,5,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,4.532603504,0.033333333
+19581,2022,September,3,Coral City,Outside,ADC,1,,10,7,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,130.4809053,0.116666667
+19582,2022,September,3,Coral City,Outside,ADC,1,,5,10,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,18.61835794,0.166666667
+19583,2022,September,3,Coral City,Outside,ADC,1,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+19584,2022,September,3,Coral City,Outside,ADC,1,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+19585,2022,September,3,Coral City,Outside,ADC,1,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+19586,2022,September,3,Coral City,Outside,ADC,1,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+19587,2022,September,3,Coral City,Outside,ADC,1,,10,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,43.74849516,0.033333333
+19588,2022,September,3,Coral City,Outside,ADC,1,,5,7,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,14.27724921,0.116666667
+19589,2022,September,3,Coral City,Outside,ADC,1,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+19590,2022,September,3,Coral City,Outside,ADC,1,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+19592,2022,September,3,Coral City,Outside,ADC,1,,5,5,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,18.6842869,0.083333333
+19593,2022,September,3,Coral City,Outside,ADC,1,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+19594,2022,September,3,Coral City,Outside,ADC,1,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+19595,2022,September,3,Coral City,Outside,ADC,1,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+19596,2022,September,3,Coral City,Outside,ADC,1,,5,13,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,20.35678388,0.216666667
+19597,2022,September,3,Coral City,Outside,ADC,1,,10,5,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,69.01921323,0.083333333
+19598,2022,September,3,Coral City,Outside,ADC,1,,60,1,Lachnolaimus_maximus,Wrasse,Carnivore,0.0224,2.97,4279.147257,0.016666667
+19599,2022,September,3,Coral City,Outside,ADC,2,,20,2,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,480.6793928,0.033333333
+19617,2022,September,3,Coral City,Outside,ADC,2,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+19608,2022,September,3,Coral City,Outside,ADC,2,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19616,2022,September,3,Coral City,Outside,ADC,2,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+19600,2022,September,3,Coral City,Outside,ADC,2,,20,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,459.9401928,0.05
+19601,2022,September,3,Coral City,Outside,ADC,2,,5,5,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,9.30917897,0.083333333
+19602,2022,September,3,Coral City,Outside,ADC,2,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+19603,2022,September,3,Coral City,Outside,ADC,2,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+19604,2022,September,3,Coral City,Outside,ADC,2,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+19605,2022,September,3,Coral City,Outside,ADC,2,,40,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1270.483116,0.016666667
+19606,2022,September,3,Coral City,Outside,ADC,2,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+19607,2022,September,3,Coral City,Outside,ADC,2,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+19609,2022,September,3,Coral City,Outside,ADC,2,,40,2,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,1740.200894,0.033333333
+19618,2022,September,3,Coral City,Outside,ADC,2,,40,1,Lutjanus_analis,Snapper,Carnivore,0.0151,3.03,1079.490242,0.016666667
+19610,2022,September,3,Coral City,Outside,ADC,2,,5,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,14.94742952,0.066666667
+19611,2022,September,3,Coral City,Outside,ADC,2,,10,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,86.62959119,0.05
+19612,2022,September,3,Coral City,Outside,ADC,2,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+19613,2022,September,3,Coral City,Outside,ADC,2,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+19614,2022,September,3,Coral City,Outside,ADC,2,,5,8,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,12.52725162,0.133333333
+19615,2022,September,3,Coral City,Outside,ADC,2,,10,7,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,96.62689852,0.116666667
+19619,2022,September,3,Coral City,Outside,ADC,3,,5,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,3.971276915,0.016666667
+19620,2022,September,3,Coral City,Outside,ADC,3,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+19644,2022,September,3,Coral City,Outside,ADC,3,,10,13,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,253.4842927,0.216666667
+19634,2022,September,3,Coral City,Outside,ADC,3,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19635,2022,September,3,Coral City,Outside,ADC,3,,30,3,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,1295.272193,0.05
+19621,2022,September,3,Coral City,Outside,ADC,3,,20,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,144.4084582,0.016666667
+19622,2022,September,3,Coral City,Outside,ADC,3,,30,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,485.4063974,0.016666667
+19643,2022,September,3,Coral City,Outside,ADC,3,,10,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,15.44034809,0.016666667
+19623,2022,September,3,Coral City,Outside,ADC,3,,5,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,6.798905257,0.05
+19624,2022,September,3,Coral City,Outside,ADC,3,,5,7,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,13.03285056,0.116666667
+19625,2022,September,3,Coral City,Outside,ADC,3,,10,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,49.58006782,0.05
+19626,2022,September,3,Coral City,Outside,ADC,3,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+19627,2022,September,3,Coral City,Outside,ADC,3,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+19628,2022,September,3,Coral City,Outside,ADC,3,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+19629,2022,September,3,Coral City,Outside,ADC,3,,30,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1093.776014,0.033333333
+19630,2022,September,3,Coral City,Outside,ADC,3,,40,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,3811.449348,0.05
+19631,2022,September,3,Coral City,Outside,ADC,3,,5,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,4.079214059,0.033333333
+19632,2022,September,3,Coral City,Outside,ADC,3,,10,7,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,115.8124174,0.116666667
+19633,2022,September,3,Coral City,Outside,ADC,3,,20,6,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,805.2281041,0.1
+19636,2022,September,3,Coral City,Outside,ADC,3,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+19637,2022,September,3,Coral City,Outside,ADC,3,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+19638,2022,September,3,Coral City,Outside,ADC,3,,20,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,669.4293543,0.05
+19639,2022,September,3,Coral City,Outside,ADC,3,,10,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,40.82847126,0.033333333
+19640,2022,September,3,Coral City,Outside,ADC,3,,20,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,304.7544855,0.033333333
+19641,2022,September,3,Coral City,Outside,ADC,3,,6,6,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,16.65505904,0.1
+19642,2022,September,3,Coral City,Outside,ADC,3,,10,8,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,110.4307412,0.133333333
+20259,2022,September,3,Coral City,Outside,JLR,1,,10,1,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,28.8186559,0.016666667
+20278,2022,September,3,Coral City,Outside,JLR,1,,10,2,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,47.97943007,0.033333333
+20265,2022,September,3,Coral City,Outside,JLR,1,,5,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,1.641305401,0.016666667
+20280,2022,September,3,Coral City,Outside,JLR,1,,20,1,Epinephelus_guttatus,Grouper,Carnivore,0.0132,3.05,122.6635185,0.016666667
+20260,2022,September,3,Coral City,Outside,JLR,1,,10,3,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,54.52983693,0.05
+20261,2022,September,3,Coral City,Outside,JLR,1,,20,3,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,433.2253747,0.05
+20277,2022,September,3,Coral City,Outside,JLR,1,,10,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,15.44034809,0.016666667
+20262,2022,September,3,Coral City,Outside,JLR,1,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20263,2022,September,3,Coral City,Outside,JLR,1,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20264,2022,September,3,Coral City,Outside,JLR,1,,5,12,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,18.98662573,0.2
+20266,2022,September,3,Coral City,Outside,JLR,1,,20,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,145.6,0.016666667
+20267,2022,September,3,Coral City,Outside,JLR,1,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20269,2022,September,3,Coral City,Outside,JLR,1,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+20270,2022,September,3,Coral City,Outside,JLR,1,,10,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,115.5061216,0.066666667
+20271,2022,September,3,Coral City,Outside,JLR,1,,5,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,2.734929501,0.016666667
+20272,2022,September,3,Coral City,Outside,JLR,1,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+20268,2022,September,3,Coral City,Outside,JLR,1,,10,2,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,44.76752852,0.033333333
+20273,2022,September,3,Coral City,Outside,JLR,1,,10,1,Halichoeres_bivittatus,Wrasse,Carnivore,0.0112,3.05,12.56660669,0.016666667
+20274,2022,September,3,Coral City,Outside,JLR,1,,10,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,19.95758961,0.016666667
+20275,2022,September,3,Coral City,Outside,JLR,1,,5,14,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,21.92269033,0.233333333
+20276,2022,September,3,Coral City,Outside,JLR,1,,10,5,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,69.01921323,0.083333333
+20279,2022,September,3,Coral City,Outside,JLR,1,,20,1,Lachnolaimus_maximus,Wrasse,Carnivore,0.0224,2.97,163.7974383,0.016666667
+20281,2022,September,3,Coral City,Outside,JLR,2,,10,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,36.24230888,0.016666667
+20301,2022,September,3,Coral City,Outside,JLR,2,,20,1,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,120.7813761,0.016666667
+20296,2022,September,3,Coral City,Outside,JLR,2,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+20297,2022,September,3,Coral City,Outside,JLR,2,,5,1,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,2.957430192,0.016666667
+20298,2022,September,3,Coral City,Outside,JLR,2,,10,1,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,23.98971504,0.016666667
+20300,2022,September,3,Coral City,Outside,JLR,2,,10,1,Cantherhines_pullus,Filefish,Omnivore,0.02239,2.87,16.5979363,0.016666667
+20288,2022,September,3,Coral City,Outside,JLR,2,,10,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,28.34149014,0.033333333
+20282,2022,September,3,Coral City,Outside,JLR,2,,10,4,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,72.70644924,0.066666667
+20283,2022,September,3,Coral City,Outside,JLR,2,,10,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,55.920388,0.05
+20284,2022,September,3,Coral City,Outside,JLR,2,,10,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,66.10675709,0.066666667
+20285,2022,September,3,Coral City,Outside,JLR,2,,10,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,87.49699033,0.066666667
+20286,2022,September,3,Coral City,Outside,JLR,2,,20,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,333.4118308,0.033333333
+20287,2022,September,3,Coral City,Outside,JLR,2,,5,8,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,12.65775049,0.133333333
+20289,2022,September,3,Coral City,Outside,JLR,2,,5,2,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,4.55,0.033333333
+20290,2022,September,3,Coral City,Outside,JLR,2,,10,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,18.2,0.016666667
+20299,2022,September,3,Coral City,Outside,JLR,2,,20,10,Lutjanus_mahogoni,Snapper,Carnivore,0.0617,2.65,1729.874722,0.166666667
+20292,2022,September,3,Coral City,Outside,JLR,2,,5,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,14.94742952,0.066666667
+20293,2022,September,3,Coral City,Outside,JLR,2,,10,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,86.62959119,0.05
+20291,2022,September,3,Coral City,Outside,JLR,2,,10,4,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,89.53505705,0.066666667
+20294,2022,September,3,Coral City,Outside,JLR,2,,10,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,19.95758961,0.016666667
+20295,2022,September,3,Coral City,Outside,JLR,2,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+20313,2022,September,3,Coral City,Outside,JLR,3,,5,1,Holacanthus_tricolor,Angelfish,Omnivore,0.0331,2.95,3.817591953,0.016666667
+20314,2022,September,3,Coral City,Outside,JLR,3,,10,3,Holacanthus_tricolor,Angelfish,Omnivore,0.0331,2.95,88.50121816,0.05
+20311,2022,September,3,Coral City,Outside,JLR,3,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+20312,2022,September,3,Coral City,Outside,JLR,3,,10,4,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,77.99516698,0.066666667
+20307,2022,September,3,Coral City,Outside,JLR,3,,10,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,28.34149014,0.033333333
+20302,2022,September,3,Coral City,Outside,JLR,3,,10,5,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,90.88306155,0.083333333
+20315,2022,September,3,Coral City,Outside,JLR,3,,10,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,15.44034809,0.016666667
+20303,2022,September,3,Coral City,Outside,JLR,3,,10,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,49.58006782,0.05
+20304,2022,September,3,Coral City,Outside,JLR,3,,10,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,87.49699033,0.066666667
+20305,2022,September,3,Coral City,Outside,JLR,3,,10,6,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,99.26778636,0.1
+20306,2022,September,3,Coral City,Outside,JLR,3,,5,11,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,17.40440692,0.183333333
+20308,2022,September,3,Coral City,Outside,JLR,3,,20,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,145.6,0.016666667
+20309,2022,September,3,Coral City,Outside,JLR,3,,10,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,86.62959119,0.05
+20310,2022,September,3,Coral City,Outside,JLR,3,,5,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,1.565906452,0.016666667
+20574,2022,September,3,Coral City,Outside,VEM,1,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+20562,2022,September,3,Coral City,Outside,VEM,1,,10,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,36.35322462,0.033333333
+20563,2022,September,3,Coral City,Outside,VEM,1,,20,4,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,577.6338329,0.066666667
+20564,2022,September,3,Coral City,Outside,VEM,1,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20565,2022,September,3,Coral City,Outside,VEM,1,,10,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,33.08926212,0.033333333
+20566,2022,September,3,Coral City,Outside,VEM,1,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20567,2022,September,3,Coral City,Outside,VEM,1,,5,4,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,6.328875243,0.066666667
+20568,2022,September,3,Coral City,Outside,VEM,1,,30,2,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,779.8665847,0.033333333
+20569,2022,September,3,Coral City,Outside,VEM,1,,5,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,14.94742952,0.066666667
+20570,2022,September,3,Coral City,Outside,VEM,1,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20571,2022,September,3,Coral City,Outside,VEM,1,,5,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,5.469859002,0.033333333
+20572,2022,September,3,Coral City,Outside,VEM,1,,10,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,40.82847126,0.033333333
+20573,2022,September,3,Coral City,Outside,VEM,1,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20575,2022,September,3,Coral City,Outside,VEM,2,,5,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,3.971276915,0.016666667
+20576,2022,September,3,Coral City,Outside,VEM,2,,10,1,Chaetodon_ocellatus,Butterflyfish,Corallivore,0.0257,3.02,26.91120368,0.016666667
+20585,2022,September,3,Coral City,Outside,VEM,2,,5,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,5.011744349,0.033333333
+20586,2022,September,3,Coral City,Outside,VEM,2,,10,1,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,23.98971504,0.016666667
+20580,2022,September,3,Coral City,Outside,VEM,2,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+20577,2022,September,3,Coral City,Outside,VEM,2,,10,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,18.17661231,0.016666667
+20578,2022,September,3,Coral City,Outside,VEM,2,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+20579,2022,September,3,Coral City,Outside,VEM,2,,5,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,4.079214059,0.033333333
+20581,2022,September,3,Coral City,Outside,VEM,2,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20582,2022,September,3,Coral City,Outside,VEM,2,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20583,2022,September,3,Coral City,Outside,VEM,2,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+20584,2022,September,3,Coral City,Outside,VEM,2,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20594,2022,September,3,Coral City,Outside,VEM,3,,20,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,244.6954914,0.033333333
+20606,2022,September,3,Coral City,Outside,VEM,3,,30,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,412.3344666,0.016666667
+20587,2022,September,3,Coral City,Outside,VEM,3,,10,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,74.56051734,0.066666667
+20588,2022,September,3,Coral City,Outside,VEM,3,,10,5,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,82.63344636,0.083333333
+20589,2022,September,3,Coral City,Outside,VEM,3,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+20590,2022,September,3,Coral City,Outside,VEM,3,,5,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,6.118821088,0.05
+20591,2022,September,3,Coral City,Outside,VEM,3,,10,9,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,148.9016795,0.15
+20592,2022,September,3,Coral City,Outside,VEM,3,,20,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,268.409368,0.033333333
+20593,2022,September,3,Coral City,Outside,VEM,3,,5,2,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,3.164437621,0.033333333
+20595,2022,September,3,Coral City,Outside,VEM,3,,10,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,18.2,0.016666667
+20596,2022,September,3,Coral City,Outside,VEM,3,,20,2,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,291.2,0.033333333
+20597,2022,September,3,Coral City,Outside,VEM,3,,30,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,491.4,0.016666667
+20598,2022,September,3,Coral City,Outside,VEM,3,,30,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,389.9332923,0.016666667
+20599,2022,September,3,Coral City,Outside,VEM,3,,5,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,11.21057214,0.05
+20600,2022,September,3,Coral City,Outside,VEM,3,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+20601,2022,September,3,Coral City,Outside,VEM,3,,20,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,669.4293543,0.05
+20602,2022,September,3,Coral City,Outside,VEM,3,,10,4,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,81.65694253,0.066666667
+20603,2022,September,3,Coral City,Outside,VEM,3,,20,8,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,1219.017942,0.133333333
+20604,2022,September,3,Coral City,Outside,VEM,3,,10,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,41.41152794,0.05
+20605,2022,September,3,Coral City,Outside,VEM,3,,20,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,121.6841986,0.016666667
+19700,2022,September,3,Grundys,Inside,ADC,1,,20,2,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,480.6793928,0.033333333
+19711,2022,September,3,Grundys,Inside,ADC,1,,20,9,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,1104.025955,0.15
+19701,2022,September,3,Grundys,Inside,ADC,1,,5,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,5.585507382,0.05
+19702,2022,September,3,Grundys,Inside,ADC,1,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+19705,2022,September,3,Grundys,Inside,ADC,1,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+19706,2022,September,3,Grundys,Inside,ADC,1,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+19707,2022,September,3,Grundys,Inside,ADC,1,,30,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,737.9937972,0.016666667
+19708,2022,September,3,Grundys,Inside,ADC,1,,5,27,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,73.84309653,0.45
+19709,2022,September,3,Grundys,Inside,ADC,1,,10,6,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,122.4854138,0.1
+19703,2022,September,3,Grundys,Inside,ADC,1,,10,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,22.38376426,0.016666667
+19704,2022,September,3,Grundys,Inside,ADC,1,,20,2,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,343.5510706,0.033333333
+19710,2022,September,3,Grundys,Inside,ADC,1,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+19712,2022,September,3,Grundys,Inside,ADC,1,,10,4,Halichoeres_bivittatus,Wrasse,Carnivore,0.0112,3.05,50.26642675,0.066666667
+19727,2022,September,3,Grundys,Inside,ADC,2,,20,1,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,194.5967918,0.016666667
+19719,2022,September,3,Grundys,Inside,ADC,2,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19713,2022,September,3,Grundys,Inside,ADC,2,,40,2,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,2000.968351,0.033333333
+19726,2022,September,3,Grundys,Inside,ADC,2,,20,9,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,1104.025955,0.15
+19714,2022,September,3,Grundys,Inside,ADC,2,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+19715,2022,September,3,Grundys,Inside,ADC,2,,5,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,8.610660986,0.05
+19716,2022,September,3,Grundys,Inside,ADC,2,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+19717,2022,September,3,Grundys,Inside,ADC,2,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+19718,2022,September,3,Grundys,Inside,ADC,2,,10,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,66.17852424,0.066666667
+19728,2022,September,3,Grundys,Inside,ADC,2,,30,1,Pterois_volitans,Scorpionfish,Carnivore,0.0049,3.26,320.3401469,0.016666667
+19720,2022,September,3,Grundys,Inside,ADC,2,,5,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,14.94742952,0.066666667
+19721,2022,September,3,Grundys,Inside,ADC,2,,10,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,86.62959119,0.05
+19722,2022,September,3,Grundys,Inside,ADC,2,,5,4,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,10.939718,0.066666667
+19723,2022,September,3,Grundys,Inside,ADC,2,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+19724,2022,September,3,Grundys,Inside,ADC,2,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+19725,2022,September,3,Grundys,Inside,ADC,2,,10,5,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,69.01921323,0.083333333
+19729,2022,September,3,Grundys,Inside,ADC,3,,20,1,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,240.3396964,0.016666667
+19737,2022,September,3,Grundys,Inside,ADC,3,,30,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,431.7573976,0.016666667
+19744,2022,September,3,Grundys,Inside,ADC,3,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+19745,2022,September,3,Grundys,Inside,ADC,3,,30,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,412.3344666,0.016666667
+19730,2022,September,3,Grundys,Inside,ADC,3,,20,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,306.6267952,0.033333333
+19731,2022,September,3,Grundys,Inside,ADC,3,,5,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,5.585507382,0.05
+19732,2022,September,3,Grundys,Inside,ADC,3,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+19733,2022,September,3,Grundys,Inside,ADC,3,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+19734,2022,September,3,Grundys,Inside,ADC,3,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+19735,2022,September,3,Grundys,Inside,ADC,3,,10,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,49.63389318,0.05
+19736,2022,September,3,Grundys,Inside,ADC,3,,20,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,536.8187361,0.066666667
+19738,2022,September,3,Grundys,Inside,ADC,3,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+19739,2022,September,3,Grundys,Inside,ADC,3,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+19740,2022,September,3,Grundys,Inside,ADC,3,,5,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,2.734929501,0.016666667
+19741,2022,September,3,Grundys,Inside,ADC,3,,10,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,61.2427069,0.05
+19742,2022,September,3,Grundys,Inside,ADC,3,,20,5,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,761.8862137,0.083333333
+19743,2022,September,3,Grundys,Inside,ADC,3,,5,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,6.263625809,0.066666667
+19746,2022,September,3,Grundys,Inside,ADC,3,,20,2,Halichoeres_bivittatus,Wrasse,Carnivore,0.0112,3.05,208.1562739,0.033333333
+19747,2022,September,3,Grundys,Inside,ADC,3,,10,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,19.95758961,0.016666667
+19748,2022,September,3,Grundys,Inside,ADC,3,,20,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,168.7642582,0.016666667
+20364,2022,September,3,Grundys,Inside,JLR,1,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+20373,2022,September,3,Grundys,Inside,JLR,1,,5,10,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,19.43468026,0.166666667
+20374,2022,September,3,Grundys,Inside,JLR,1,,10,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,15.44034809,0.016666667
+20375,2022,September,3,Grundys,Inside,JLR,1,,20,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,245.3391011,0.033333333
+20376,2022,September,3,Grundys,Inside,JLR,1,,40,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,974.5776804,0.016666667
+20365,2022,September,3,Grundys,Inside,JLR,1,,30,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,442.2273269,0.016666667
+20366,2022,September,3,Grundys,Inside,JLR,1,,10,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,49.58006782,0.05
+20367,2022,September,3,Grundys,Inside,JLR,1,,10,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,65.62274275,0.05
+20368,2022,September,3,Grundys,Inside,JLR,1,,10,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,49.63389318,0.05
+20369,2022,September,3,Grundys,Inside,JLR,1,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20370,2022,September,3,Grundys,Inside,JLR,1,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20371,2022,September,3,Grundys,Inside,JLR,1,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+20372,2022,September,3,Grundys,Inside,JLR,1,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20377,2022,September,3,Grundys,Inside,JLR,2,,10,4,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,144.9692355,0.066666667
+20400,2022,September,3,Grundys,Inside,JLR,2,,30,1,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,412.6259034,0.016666667
+20398,2022,September,3,Grundys,Inside,JLR,2,,10,2,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,47.97943007,0.033333333
+20390,2022,September,3,Grundys,Inside,JLR,2,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20378,2022,September,3,Grundys,Inside,JLR,2,,10,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,15.85078772,0.016666667
+20379,2022,September,3,Grundys,Inside,JLR,2,,20,5,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,629.6519334,0.083333333
+20395,2022,September,3,Grundys,Inside,JLR,2,,10,3,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,46.32104427,0.05
+20396,2022,September,3,Grundys,Inside,JLR,2,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+20397,2022,September,3,Grundys,Inside,JLR,2,,30,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,824.6689333,0.033333333
+20380,2022,September,3,Grundys,Inside,JLR,2,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+20381,2022,September,3,Grundys,Inside,JLR,2,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20382,2022,September,3,Grundys,Inside,JLR,2,,10,3,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,47.54331157,0.05
+20383,2022,September,3,Grundys,Inside,JLR,2,,20,3,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,388.3383809,0.05
+20384,2022,September,3,Grundys,Inside,JLR,2,,10,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,49.58006782,0.05
+20385,2022,September,3,Grundys,Inside,JLR,2,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20386,2022,September,3,Grundys,Inside,JLR,2,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+20387,2022,September,3,Grundys,Inside,JLR,2,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20388,2022,September,3,Grundys,Inside,JLR,2,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20389,2022,September,3,Grundys,Inside,JLR,2,,5,8,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.31685623,0.133333333
+20399,2022,September,3,Grundys,Inside,JLR,2,,30,1,Diodon_hystrix,Porcupinefish,Carnivore,0.0871,2.76,1039.615673,0.016666667
+20391,2022,September,3,Grundys,Inside,JLR,2,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20392,2022,September,3,Grundys,Inside,JLR,2,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+20393,2022,September,3,Grundys,Inside,JLR,2,,20,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,446.2862362,0.033333333
+20394,2022,September,3,Grundys,Inside,JLR,2,,10,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,19.95758961,0.016666667
+20401,2022,September,3,Grundys,Inside,JLR,3,,10,1,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,28.8186559,0.016666667
+20410,2022,September,3,Grundys,Inside,JLR,3,,5,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,3.282610802,0.033333333
+20415,2022,September,3,Grundys,Inside,JLR,3,,10,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,15.44034809,0.016666667
+20402,2022,September,3,Grundys,Inside,JLR,3,,10,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,55.920388,0.05
+20403,2022,September,3,Grundys,Inside,JLR,3,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20404,2022,September,3,Grundys,Inside,JLR,3,,10,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,49.58006782,0.05
+20405,2022,September,3,Grundys,Inside,JLR,3,,5,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,11.48088131,0.066666667
+20406,2022,September,3,Grundys,Inside,JLR,3,,10,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,65.62274275,0.05
+20407,2022,September,3,Grundys,Inside,JLR,3,,5,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,6.118821088,0.05
+20408,2022,September,3,Grundys,Inside,JLR,3,,10,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,49.63389318,0.05
+20409,2022,September,3,Grundys,Inside,JLR,3,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20411,2022,September,3,Grundys,Inside,JLR,3,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20412,2022,September,3,Grundys,Inside,JLR,3,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20413,2022,September,3,Grundys,Inside,JLR,3,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20414,2022,September,3,Grundys,Inside,JLR,3,,10,1,Halichoeres_bivittatus,Wrasse,Carnivore,0.0112,3.05,12.56660669,0.016666667
+20672,2022,September,3,Grundys,Inside,VEM,1,,5,2,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,5.914860385,0.033333333
+20673,2022,September,3,Grundys,Inside,VEM,1,,10,2,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,47.97943007,0.033333333
+20670,2022,September,3,Grundys,Inside,VEM,1,,10,3,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,46.32104427,0.05
+20671,2022,September,3,Grundys,Inside,VEM,1,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+20654,2022,September,3,Grundys,Inside,VEM,1,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20655,2022,September,3,Grundys,Inside,VEM,1,,10,1,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,16.24013781,0.016666667
+20656,2022,September,3,Grundys,Inside,VEM,1,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20657,2022,September,3,Grundys,Inside,VEM,1,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+20658,2022,September,3,Grundys,Inside,VEM,1,,20,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,500.1177462,0.05
+20659,2022,September,3,Grundys,Inside,VEM,1,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20660,2022,September,3,Grundys,Inside,VEM,1,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+20661,2022,September,3,Grundys,Inside,VEM,1,,10,6,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,99.26778636,0.1
+20662,2022,September,3,Grundys,Inside,VEM,1,,20,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,402.6140521,0.05
+20663,2022,September,3,Grundys,Inside,VEM,1,,20,3,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,436.8,0.05
+20664,2022,September,3,Grundys,Inside,VEM,1,,5,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,14.94742952,0.066666667
+20665,2022,September,3,Grundys,Inside,VEM,1,,10,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,86.62959119,0.05
+20666,2022,September,3,Grundys,Inside,VEM,1,,10,3,Acanthurus_chirurgus,Surgeonfish,Herbivore,0.0209,2.93,53.366355,0.05
+20667,2022,September,3,Grundys,Inside,VEM,1,,10,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,61.2427069,0.05
+20668,2022,September,3,Grundys,Inside,VEM,1,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+20669,2022,September,3,Grundys,Inside,VEM,1,,20,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,243.3683973,0.033333333
+20703,2022,September,3,Grundys,Inside,VEM,2,,30,3,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,1237.87771,0.05
+20701,2022,September,3,Grundys,Inside,VEM,2,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+20691,2022,September,3,Grundys,Inside,VEM,2,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20692,2022,September,3,Grundys,Inside,VEM,2,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+20674,2022,September,3,Grundys,Inside,VEM,2,,30,1,Anisotremus_surinamensis,Grunt,Carnivore,0.0245,2.87,425.1127058,0.016666667
+20675,2022,September,3,Grundys,Inside,VEM,2,,40,1,Anisotremus_surinamensis,Grunt,Carnivore,0.0245,2.87,970.684868,0.016666667
+20676,2022,September,3,Grundys,Inside,VEM,2,,10,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,15.85078772,0.016666667
+20677,2022,September,3,Grundys,Inside,VEM,2,,20,4,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,503.7215467,0.066666667
+20678,2022,September,3,Grundys,Inside,VEM,2,,20,3,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,433.2253747,0.05
+20700,2022,September,3,Grundys,Inside,VEM,2,,10,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,15.44034809,0.016666667
+20679,2022,September,3,Grundys,Inside,VEM,2,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20680,2022,September,3,Grundys,Inside,VEM,2,,20,3,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,388.3383809,0.05
+20681,2022,September,3,Grundys,Inside,VEM,2,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+20682,2022,September,3,Grundys,Inside,VEM,2,,10,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,66.10675709,0.066666667
+20683,2022,September,3,Grundys,Inside,VEM,2,,20,5,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,733.5003956,0.083333333
+20684,2022,September,3,Grundys,Inside,VEM,2,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20685,2022,September,3,Grundys,Inside,VEM,2,,20,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,333.4118308,0.033333333
+20686,2022,September,3,Grundys,Inside,VEM,2,,30,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1640.664021,0.05
+20687,2022,September,3,Grundys,Inside,VEM,2,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+20688,2022,September,3,Grundys,Inside,VEM,2,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20689,2022,September,3,Grundys,Inside,VEM,2,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20690,2022,September,3,Grundys,Inside,VEM,2,,5,1,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,1.582218811,0.016666667
+20694,2022,September,3,Grundys,Inside,VEM,2,,5,10,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,37.3685738,0.166666667
+20695,2022,September,3,Grundys,Inside,VEM,2,,10,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,115.5061216,0.066666667
+20696,2022,September,3,Grundys,Inside,VEM,2,,20,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,892.5724724,0.066666667
+20697,2022,September,3,Grundys,Inside,VEM,2,,10,1,Acanthurus_chirurgus,Surgeonfish,Herbivore,0.0209,2.93,17.788785,0.016666667
+20698,2022,September,3,Grundys,Inside,VEM,2,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+20693,2022,September,3,Grundys,Inside,VEM,2,,10,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,22.38376426,0.016666667
+20699,2022,September,3,Grundys,Inside,VEM,2,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20702,2022,September,3,Grundys,Inside,VEM,2,,20,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,121.6841986,0.016666667
+20704,2022,September,3,Grundys,Inside,VEM,3,,10,1,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,28.8186559,0.016666667
+20713,2022,September,3,Grundys,Inside,VEM,3,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+20705,2022,September,3,Grundys,Inside,VEM,3,,10,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,15.85078772,0.016666667
+20706,2022,September,3,Grundys,Inside,VEM,3,,20,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,144.4084582,0.016666667
+20707,2022,September,3,Grundys,Inside,VEM,3,,20,2,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,258.8922539,0.033333333
+20708,2022,September,3,Grundys,Inside,VEM,3,,10,1,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,16.24013781,0.016666667
+20709,2022,September,3,Grundys,Inside,VEM,3,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+20710,2022,September,3,Grundys,Inside,VEM,3,,10,6,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,99.26778636,0.1
+20711,2022,September,3,Grundys,Inside,VEM,3,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20712,2022,September,3,Grundys,Inside,VEM,3,,30,1,Sparisoma_rubripinne,Parrotfish,Herbivore,0.0178,3.02,514.4298865,0.016666667
+20714,2022,September,3,Grundys,Inside,VEM,3,,30,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,491.4,0.016666667
+20715,2022,September,3,Grundys,Inside,VEM,3,,5,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,11.21057214,0.05
+20716,2022,September,3,Grundys,Inside,VEM,3,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+20717,2022,September,3,Grundys,Inside,VEM,3,,20,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,892.5724724,0.066666667
+20718,2022,September,3,Grundys,Inside,VEM,3,,5,3,Acanthurus_chirurgus,Surgeonfish,Herbivore,0.0209,2.93,7.002444148,0.05
+20719,2022,September,3,Grundys,Inside,VEM,3,,10,1,Acanthurus_chirurgus,Surgeonfish,Herbivore,0.0209,2.93,17.788785,0.016666667
+20720,2022,September,3,Grundys,Inside,VEM,3,,5,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,2.734929501,0.016666667
+20721,2022,September,3,Grundys,Inside,VEM,3,,10,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,61.2427069,0.05
+20722,2022,September,3,Grundys,Inside,VEM,3,,10,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,41.41152794,0.05
+20723,2022,September,3,Grundys,Inside,VEM,3,,20,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,243.3683973,0.033333333
+20010,2022,September,5,Jigsaw,Outside,ADC,1,,5,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,3.971276915,0.016666667
+20011,2022,September,5,Jigsaw,Outside,ADC,1,,10,5,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,181.2115444,0.083333333
+20030,2022,September,5,Jigsaw,Outside,ADC,1,,5,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,5.011744349,0.033333333
+20031,2022,September,5,Jigsaw,Outside,ADC,1,,10,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,38.99758349,0.033333333
+20023,2022,September,5,Jigsaw,Outside,ADC,1,,20,3,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,367.043237,0.05
+20012,2022,September,5,Jigsaw,Outside,ADC,1,,30,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,970.8127949,0.033333333
+20028,2022,September,5,Jigsaw,Outside,ADC,1,,20,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,245.3391011,0.033333333
+20029,2022,September,5,Jigsaw,Outside,ADC,1,,30,5,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,2061.672333,0.083333333
+20013,2022,September,5,Jigsaw,Outside,ADC,1,,5,11,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,24.92931927,0.183333333
+20014,2022,September,5,Jigsaw,Outside,ADC,1,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+20015,2022,September,5,Jigsaw,Outside,ADC,1,,20,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,306.6267952,0.033333333
+20016,2022,September,5,Jigsaw,Outside,ADC,1,,5,7,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,13.03285056,0.116666667
+20017,2022,September,5,Jigsaw,Outside,ADC,1,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+20018,2022,September,5,Jigsaw,Outside,ADC,1,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20019,2022,September,5,Jigsaw,Outside,ADC,1,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+20020,2022,September,5,Jigsaw,Outside,ADC,1,,5,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,11.48088131,0.066666667
+20021,2022,September,5,Jigsaw,Outside,ADC,1,,40,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1270.483116,0.016666667
+20022,2022,September,5,Jigsaw,Outside,ADC,1,,30,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,1369.886327,0.05
+20024,2022,September,5,Jigsaw,Outside,ADC,1,,30,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,737.9937972,0.016666667
+20025,2022,September,5,Jigsaw,Outside,ADC,1,,5,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,6.263625809,0.066666667
+20026,2022,September,5,Jigsaw,Outside,ADC,1,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+20027,2022,September,5,Jigsaw,Outside,ADC,1,,20,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,121.6841986,0.016666667
+20032,2022,September,5,Jigsaw,Outside,ADC,1,,10,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,19.95758961,0.016666667
+20066,2022,September,5,Jigsaw,Outside,ADC,2,,5,1,Holacanthus_tricolor,Angelfish,Omnivore,0.0331,2.95,3.817591953,0.016666667
+20033,2022,September,5,Jigsaw,Outside,ADC,2,,10,1,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,28.8186559,0.016666667
+20034,2022,September,5,Jigsaw,Outside,ADC,2,,5,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,3.971276915,0.016666667
+20035,2022,September,5,Jigsaw,Outside,ADC,2,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+20065,2022,September,5,Jigsaw,Outside,ADC,2,,10,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,38.99758349,0.033333333
+20036,2022,September,5,Jigsaw,Outside,ADC,2,,30,1,Haemulon_sciurus,Grunt,Carnivore,0.0245,2.92,503.9183208,0.016666667
+20037,2022,September,5,Jigsaw,Outside,ADC,2,,30,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,485.4063974,0.016666667
+20064,2022,September,5,Jigsaw,Outside,ADC,2,,20,3,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,368.0086516,0.05
+20038,2022,September,5,Jigsaw,Outside,ADC,2,,5,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,9.065207009,0.066666667
+20039,2022,September,5,Jigsaw,Outside,ADC,2,,10,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,55.920388,0.05
+20040,2022,September,5,Jigsaw,Outside,ADC,2,,20,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,459.9401928,0.05
+20041,2022,September,5,Jigsaw,Outside,ADC,2,,40,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2521.977982,0.033333333
+20042,2022,September,5,Jigsaw,Outside,ADC,2,,5,11,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,20.48019373,0.183333333
+20043,2022,September,5,Jigsaw,Outside,ADC,2,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20044,2022,September,5,Jigsaw,Outside,ADC,2,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+20045,2022,September,5,Jigsaw,Outside,ADC,2,,30,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1052.319964,0.033333333
+20046,2022,September,5,Jigsaw,Outside,ADC,2,,5,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,5.740440657,0.033333333
+20047,2022,September,5,Jigsaw,Outside,ADC,2,,10,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,43.74849516,0.033333333
+20048,2022,September,5,Jigsaw,Outside,ADC,2,,40,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1270.483116,0.016666667
+20049,2022,September,5,Jigsaw,Outside,ADC,2,,5,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,8.158428117,0.066666667
+20050,2022,September,5,Jigsaw,Outside,ADC,2,,20,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,536.8187361,0.066666667
+20051,2022,September,5,Jigsaw,Outside,ADC,2,,30,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,456.6287756,0.016666667
+20052,2022,September,5,Jigsaw,Outside,ADC,2,,5,3,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,4.746656432,0.05
+20053,2022,September,5,Jigsaw,Outside,ADC,2,,40,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,1164.8,0.016666667
+20054,2022,September,5,Jigsaw,Outside,ADC,2,,40,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,870.100447,0.016666667
+20055,2022,September,5,Jigsaw,Outside,ADC,2,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20056,2022,September,5,Jigsaw,Outside,ADC,2,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20057,2022,September,5,Jigsaw,Outside,ADC,2,,30,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,1475.987594,0.033333333
+20058,2022,September,5,Jigsaw,Outside,ADC,2,,5,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,2.734929501,0.016666667
+20059,2022,September,5,Jigsaw,Outside,ADC,2,,10,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,40.82847126,0.033333333
+20060,2022,September,5,Jigsaw,Outside,ADC,2,,20,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,304.7544855,0.033333333
+20061,2022,September,5,Jigsaw,Outside,ADC,2,,5,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,4.697719357,0.05
+20062,2022,September,5,Jigsaw,Outside,ADC,2,,10,7,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,96.62689852,0.116666667
+20063,2022,September,5,Jigsaw,Outside,ADC,2,,20,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,365.0525959,0.05
+20087,2022,September,5,Jigsaw,Outside,ADC,3,,5,4,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,10.0234887,0.066666667
+20088,2022,September,5,Jigsaw,Outside,ADC,3,,10,4,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,77.99516698,0.066666667
+20081,2022,September,5,Jigsaw,Outside,ADC,3,,10,3,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,42.51223521,0.05
+20082,2022,September,5,Jigsaw,Outside,ADC,3,,20,4,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,489.3909827,0.066666667
+20067,2022,September,5,Jigsaw,Outside,ADC,3,,30,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,423.2952563,0.016666667
+20068,2022,September,5,Jigsaw,Outside,ADC,3,,30,3,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,1456.219192,0.05
+20090,2022,September,5,Jigsaw,Outside,ADC,3,,40,1,Haemulon_parra,Grunt,Carnivore,0.0174,3.04,1290.65932,0.016666667
+20069,2022,September,5,Jigsaw,Outside,ADC,3,,5,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2.266301752,0.016666667
+20070,2022,September,5,Jigsaw,Outside,ADC,3,,20,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,613.2535904,0.066666667
+20071,2022,September,5,Jigsaw,Outside,ADC,3,,5,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,5.585507382,0.05
+20072,2022,September,5,Jigsaw,Outside,ADC,3,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+20073,2022,September,5,Jigsaw,Outside,ADC,3,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+20074,2022,September,5,Jigsaw,Outside,ADC,3,,30,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,2104.639929,0.066666667
+20075,2022,September,5,Jigsaw,Outside,ADC,3,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20076,2022,September,5,Jigsaw,Outside,ADC,3,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+20077,2022,September,5,Jigsaw,Outside,ADC,3,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20078,2022,September,5,Jigsaw,Outside,ADC,3,,40,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1270.483116,0.016666667
+20079,2022,September,5,Jigsaw,Outside,ADC,3,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+20080,2022,September,5,Jigsaw,Outside,ADC,3,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20083,2022,September,5,Jigsaw,Outside,ADC,3,,40,2,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,1740.200894,0.033333333
+20089,2022,September,5,Jigsaw,Outside,ADC,3,,30,1,Lutjanus_mahogoni,Snapper,Carnivore,0.0617,2.65,506.5898558,0.016666667
+20084,2022,September,5,Jigsaw,Outside,ADC,3,,20,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,304.7544855,0.033333333
+20085,2022,September,5,Jigsaw,Outside,ADC,3,,5,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,3.131812905,0.033333333
+20086,2022,September,5,Jigsaw,Outside,ADC,3,,10,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,55.21537058,0.066666667
+20114,2022,September,5,Jigsaw,Outside,ADC,4,,40,1,Pomacanthus_paru,Angelfish,Omnivore,0.049,2.96,2705.787302,0.016666667
+20091,2022,September,5,Jigsaw,Outside,ADC,4,,10,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,36.24230888,0.016666667
+20112,2022,September,5,Jigsaw,Outside,ADC,4,,5,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,5.011744349,0.033333333
+20113,2022,September,5,Jigsaw,Outside,ADC,4,,10,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,38.99758349,0.033333333
+20104,2022,September,5,Jigsaw,Outside,ADC,4,,10,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,28.34149014,0.033333333
+20105,2022,September,5,Jigsaw,Outside,ADC,4,,20,4,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,489.3909827,0.066666667
+20092,2022,September,5,Jigsaw,Outside,ADC,4,,30,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,970.8127949,0.033333333
+20111,2022,September,5,Jigsaw,Outside,ADC,4,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+20093,2022,September,5,Jigsaw,Outside,ADC,4,,5,7,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,15.86411227,0.116666667
+20094,2022,September,5,Jigsaw,Outside,ADC,4,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+20095,2022,September,5,Jigsaw,Outside,ADC,4,,5,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,5.585507382,0.05
+20096,2022,September,5,Jigsaw,Outside,ADC,4,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+20097,2022,September,5,Jigsaw,Outside,ADC,4,,20,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,440.1002374,0.05
+20098,2022,September,5,Jigsaw,Outside,ADC,4,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+20099,2022,September,5,Jigsaw,Outside,ADC,4,,5,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,5.740440657,0.033333333
+20100,2022,September,5,Jigsaw,Outside,ADC,4,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+20101,2022,September,5,Jigsaw,Outside,ADC,4,,10,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,66.17852424,0.066666667
+20102,2022,September,5,Jigsaw,Outside,ADC,4,,20,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,402.6140521,0.05
+20103,2022,September,5,Jigsaw,Outside,ADC,4,,30,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,456.6287756,0.016666667
+20106,2022,September,5,Jigsaw,Outside,ADC,4,,30,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,389.9332923,0.016666667
+20107,2022,September,5,Jigsaw,Outside,ADC,4,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+20108,2022,September,5,Jigsaw,Outside,ADC,4,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+20109,2022,September,5,Jigsaw,Outside,ADC,4,,5,6,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,9.395438714,0.1
+20110,2022,September,5,Jigsaw,Outside,ADC,4,,10,7,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,96.62689852,0.116666667
+20138,2022,September,5,Jigsaw,Outside,ADC,5,,40,1,Sphyraena_barracuda,Barracuda,Carnivore,0.0115,2.94,589.8671556,0.016666667
+20115,2022,September,5,Jigsaw,Outside,ADC,5,,10,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,36.24230888,0.016666667
+20136,2022,September,5,Jigsaw,Outside,ADC,5,,5,4,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,10.0234887,0.066666667
+20137,2022,September,5,Jigsaw,Outside,ADC,5,,10,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,19.49879175,0.016666667
+20128,2022,September,5,Jigsaw,Outside,ADC,5,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20129,2022,September,5,Jigsaw,Outside,ADC,5,,20,4,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,489.3909827,0.066666667
+20116,2022,September,5,Jigsaw,Outside,ADC,5,,30,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,485.4063974,0.016666667
+20135,2022,September,5,Jigsaw,Outside,ADC,5,,30,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,412.3344666,0.016666667
+20117,2022,September,5,Jigsaw,Outside,ADC,5,,5,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,4.532603504,0.033333333
+20118,2022,September,5,Jigsaw,Outside,ADC,5,,30,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1051.786353,0.033333333
+20119,2022,September,5,Jigsaw,Outside,ADC,5,,5,10,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,18.61835794,0.166666667
+20120,2022,September,5,Jigsaw,Outside,ADC,5,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20121,2022,September,5,Jigsaw,Outside,ADC,5,,20,6,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,880.2004748,0.1
+20122,2022,September,5,Jigsaw,Outside,ADC,5,,30,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1052.319964,0.033333333
+20123,2022,September,5,Jigsaw,Outside,ADC,5,,5,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,5.740440657,0.033333333
+20124,2022,September,5,Jigsaw,Outside,ADC,5,,5,6,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,12.23764218,0.1
+20125,2022,September,5,Jigsaw,Outside,ADC,5,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20126,2022,September,5,Jigsaw,Outside,ADC,5,,20,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,268.409368,0.033333333
+20127,2022,September,5,Jigsaw,Outside,ADC,5,,30,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,456.6287756,0.016666667
+20130,2022,September,5,Jigsaw,Outside,ADC,5,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20131,2022,September,5,Jigsaw,Outside,ADC,5,,20,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,892.5724724,0.066666667
+20132,2022,September,5,Jigsaw,Outside,ADC,5,,20,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,457.1317282,0.05
+20133,2022,September,5,Jigsaw,Outside,ADC,5,,5,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,1.565906452,0.016666667
+20134,2022,September,5,Jigsaw,Outside,ADC,5,,10,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,55.21537058,0.066666667
+20968,2022,September,5,Jigsaw,Outside,VEM,1,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20957,2022,September,5,Jigsaw,Outside,VEM,1,,20,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,288.8169164,0.033333333
+20974,2022,September,5,Jigsaw,Outside,VEM,1,,20,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,245.3391011,0.033333333
+20958,2022,September,5,Jigsaw,Outside,VEM,1,,10,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,74.56051734,0.066666667
+20959,2022,September,5,Jigsaw,Outside,VEM,1,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20960,2022,September,5,Jigsaw,Outside,VEM,1,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20961,2022,September,5,Jigsaw,Outside,VEM,1,,5,5,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,14.35110164,0.083333333
+20962,2022,September,5,Jigsaw,Outside,VEM,1,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20963,2022,September,5,Jigsaw,Outside,VEM,1,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20964,2022,September,5,Jigsaw,Outside,VEM,1,,5,7,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,14.27724921,0.116666667
+20965,2022,September,5,Jigsaw,Outside,VEM,1,,10,5,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,82.7231553,0.083333333
+20966,2022,September,5,Jigsaw,Outside,VEM,1,,20,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,268.409368,0.033333333
+20967,2022,September,5,Jigsaw,Outside,VEM,1,,5,2,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,3.164437621,0.033333333
+20975,2022,September,5,Jigsaw,Outside,VEM,1,,20,1,Lutjanus_mahogoni,Snapper,Carnivore,0.0617,2.65,172.9874722,0.016666667
+20969,2022,September,5,Jigsaw,Outside,VEM,1,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+20970,2022,September,5,Jigsaw,Outside,VEM,1,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+20971,2022,September,5,Jigsaw,Outside,VEM,1,,5,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,4.697719357,0.05
+20972,2022,September,5,Jigsaw,Outside,VEM,1,,10,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,55.21537058,0.066666667
+20973,2022,September,5,Jigsaw,Outside,VEM,1,,20,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,365.0525959,0.05
+19896,2022,September,4,Marilyns Cut,Inside,ADC,1,,10,4,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,144.9692355,0.066666667
+19916,2022,September,4,Marilyns Cut,Inside,ADC,1,,40,4,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,3946.215985,0.066666667
+19903,2022,September,4,Marilyns Cut,Inside,ADC,1,,20,4,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,489.3909827,0.066666667
+19904,2022,September,4,Marilyns Cut,Inside,ADC,1,,30,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,863.5147951,0.033333333
+19913,2022,September,4,Marilyns Cut,Inside,ADC,1,,60,1,Epinephelus_striatus,Grouper,Carnivore,0.0091,3.16,3784.420127,0.016666667
+19914,2022,September,4,Marilyns Cut,Inside,ADC,1,,50,1,Epinephelus_striatus,Grouper,Carnivore,0.0091,3.16,2127.093625,0.016666667
+19915,2022,September,4,Marilyns Cut,Inside,ADC,1,,50,1,Mycteroperca_tigris,Grouper,Carnivore,0.0135,3.12,2698.486079,0.016666667
+19897,2022,September,4,Marilyns Cut,Inside,ADC,1,,5,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,6.798905257,0.05
+19898,2022,September,4,Marilyns Cut,Inside,ADC,1,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+19899,2022,September,4,Marilyns Cut,Inside,ADC,1,,20,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,306.6267952,0.033333333
+19900,2022,September,4,Marilyns Cut,Inside,ADC,1,,5,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,5.585507382,0.05
+19901,2022,September,4,Marilyns Cut,Inside,ADC,1,,5,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,11.48088131,0.066666667
+19902,2022,September,4,Marilyns Cut,Inside,ADC,1,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+19905,2022,September,4,Marilyns Cut,Inside,ADC,1,,40,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,870.100447,0.016666667
+19907,2022,September,4,Marilyns Cut,Inside,ADC,1,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+19908,2022,September,4,Marilyns Cut,Inside,ADC,1,,30,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,1475.987594,0.033333333
+19909,2022,September,4,Marilyns Cut,Inside,ADC,1,,30,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,493.8382921,0.016666667
+19906,2022,September,4,Marilyns Cut,Inside,ADC,1,,40,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,1318.224861,0.016666667
+19910,2022,September,4,Marilyns Cut,Inside,ADC,1,,5,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,3.131812905,0.033333333
+19911,2022,September,4,Marilyns Cut,Inside,ADC,1,,10,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,41.41152794,0.05
+19912,2022,September,4,Marilyns Cut,Inside,ADC,1,,20,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,121.6841986,0.016666667
+19935,2022,September,4,Marilyns Cut,Inside,ADC,2,,40,10,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,9865.539963,0.166666667
+19934,2022,September,4,Marilyns Cut,Inside,ADC,2,,5,3,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,7.517616524,0.05
+19925,2022,September,4,Marilyns Cut,Inside,ADC,2,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19926,2022,September,4,Marilyns Cut,Inside,ADC,2,,30,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,863.5147951,0.033333333
+19932,2022,September,4,Marilyns Cut,Inside,ADC,2,,30,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,412.3344666,0.016666667
+19933,2022,September,4,Marilyns Cut,Inside,ADC,2,,40,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,1949.155361,0.033333333
+19917,2022,September,4,Marilyns Cut,Inside,ADC,2,,5,8,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.13041402,0.133333333
+19918,2022,September,4,Marilyns Cut,Inside,ADC,2,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+19919,2022,September,4,Marilyns Cut,Inside,ADC,2,,20,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,306.6267952,0.033333333
+19920,2022,September,4,Marilyns Cut,Inside,ADC,2,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+19921,2022,September,4,Marilyns Cut,Inside,ADC,2,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+19922,2022,September,4,Marilyns Cut,Inside,ADC,2,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+19923,2022,September,4,Marilyns Cut,Inside,ADC,2,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+19924,2022,September,4,Marilyns Cut,Inside,ADC,2,,40,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1270.483116,0.016666667
+19929,2022,September,4,Marilyns Cut,Inside,ADC,2,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+19927,2022,September,4,Marilyns Cut,Inside,ADC,2,,30,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,565.8086886,0.016666667
+19928,2022,September,4,Marilyns Cut,Inside,ADC,2,,40,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,1318.224861,0.016666667
+19930,2022,September,4,Marilyns Cut,Inside,ADC,2,,5,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,3.131812905,0.033333333
+19931,2022,September,4,Marilyns Cut,Inside,ADC,2,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+19944,2022,September,4,Marilyns Cut,Inside,ADC,3,,10,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,28.34149014,0.033333333
+19945,2022,September,4,Marilyns Cut,Inside,ADC,3,,20,3,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,367.043237,0.05
+19936,2022,September,4,Marilyns Cut,Inside,ADC,3,,5,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,4.532603504,0.033333333
+19937,2022,September,4,Marilyns Cut,Inside,ADC,3,,30,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1051.786353,0.033333333
+19938,2022,September,4,Marilyns Cut,Inside,ADC,3,,5,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,7.447343176,0.066666667
+19939,2022,September,4,Marilyns Cut,Inside,ADC,3,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+19940,2022,September,4,Marilyns Cut,Inside,ADC,3,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+19941,2022,September,4,Marilyns Cut,Inside,ADC,3,,5,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,5.740440657,0.033333333
+19942,2022,September,4,Marilyns Cut,Inside,ADC,3,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+19943,2022,September,4,Marilyns Cut,Inside,ADC,3,,40,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2540.966232,0.033333333
+19946,2022,September,4,Marilyns Cut,Inside,ADC,3,,40,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,1164.8,0.016666667
+19947,2022,September,4,Marilyns Cut,Inside,ADC,3,,40,7,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,6090.703129,0.116666667
+19949,2022,September,4,Marilyns Cut,Inside,ADC,3,,20,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,446.2862362,0.033333333
+19948,2022,September,4,Marilyns Cut,Inside,ADC,3,,30,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,565.8086886,0.016666667
+20534,2022,September,4,Marilyns Cut,Inside,JLR,1,,10,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,28.34149014,0.033333333
+20535,2022,September,4,Marilyns Cut,Inside,JLR,1,,40,1,Epinephelus_striatus,Grouper,Carnivore,0.0091,3.16,1050.874769,0.016666667
+20530,2022,September,4,Marilyns Cut,Inside,JLR,1,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20531,2022,September,4,Marilyns Cut,Inside,JLR,1,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20532,2022,September,4,Marilyns Cut,Inside,JLR,1,,20,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,333.4118308,0.033333333
+20533,2022,September,4,Marilyns Cut,Inside,JLR,1,,10,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,33.08926212,0.033333333
+20536,2022,September,4,Marilyns Cut,Inside,JLR,1,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20538,2022,September,4,Marilyns Cut,Inside,JLR,1,,10,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,115.5061216,0.066666667
+20537,2022,September,4,Marilyns Cut,Inside,JLR,1,,20,7,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,1202.428747,0.116666667
+20540,2022,September,4,Marilyns Cut,Inside,JLR,2,,20,1,Holacanthus_ciliaris,Angelfish,Omnivore,0.03311,2.88,184.8951708,0.016666667
+20539,2022,September,4,Marilyns Cut,Inside,JLR,2,,5,2,Chaetodon_ocellatus,Butterflyfish,Corallivore,0.0257,3.02,6.635177298,0.033333333
+20543,2022,September,4,Marilyns Cut,Inside,JLR,2,,5,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,1.641305401,0.016666667
+20549,2022,September,4,Marilyns Cut,Inside,JLR,2,,20,3,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,368.0086516,0.05
+20541,2022,September,4,Marilyns Cut,Inside,JLR,2,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+20542,2022,September,4,Marilyns Cut,Inside,JLR,2,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20544,2022,September,4,Marilyns Cut,Inside,JLR,2,,20,11,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,1383.847996,0.183333333
+20546,2022,September,4,Marilyns Cut,Inside,JLR,2,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20547,2022,September,4,Marilyns Cut,Inside,JLR,2,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+20545,2022,September,4,Marilyns Cut,Inside,JLR,2,,10,8,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,179.0701141,0.133333333
+20548,2022,September,4,Marilyns Cut,Inside,JLR,2,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20550,2022,September,4,Marilyns Cut,Inside,JLR,3,,5,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,7.94255383,0.033333333
+20561,2022,September,4,Marilyns Cut,Inside,JLR,3,,20,1,Cephalopholis_fulva,Grouper,Carnivore,0.0148,3.04,133.4728403,0.016666667
+20560,2022,September,4,Marilyns Cut,Inside,JLR,3,,5,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,1.943468026,0.016666667
+20551,2022,September,4,Marilyns Cut,Inside,JLR,3,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+20552,2022,September,4,Marilyns Cut,Inside,JLR,3,,10,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,15.84777052,0.016666667
+20553,2022,September,4,Marilyns Cut,Inside,JLR,3,,20,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,129.446127,0.016666667
+20554,2022,September,4,Marilyns Cut,Inside,JLR,3,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20555,2022,September,4,Marilyns Cut,Inside,JLR,3,,10,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,33.08926212,0.033333333
+20556,2022,September,4,Marilyns Cut,Inside,JLR,3,,20,4,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,503.2174529,0.066666667
+20559,2022,September,4,Marilyns Cut,Inside,JLR,3,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20557,2022,September,4,Marilyns Cut,Inside,JLR,3,,5,3,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,8.750365441,0.05
+20558,2022,September,4,Marilyns Cut,Inside,JLR,3,,10,5,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,111.9188213,0.083333333
+20778,2022,September,4,Marilyns Cut,Inside,VEM,1,,10,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,36.24230888,0.016666667
+20785,2022,September,4,Marilyns Cut,Inside,VEM,1,,10,6,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,85.02447041,0.1
+20786,2022,September,4,Marilyns Cut,Inside,VEM,1,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+20791,2022,September,4,Marilyns Cut,Inside,VEM,1,,10,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,15.44034809,0.016666667
+20792,2022,September,4,Marilyns Cut,Inside,VEM,1,,20,3,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,368.0086516,0.05
+20779,2022,September,4,Marilyns Cut,Inside,VEM,1,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20780,2022,September,4,Marilyns Cut,Inside,VEM,1,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+20781,2022,September,4,Marilyns Cut,Inside,VEM,1,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20782,2022,September,4,Marilyns Cut,Inside,VEM,1,,30,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1093.776014,0.033333333
+20783,2022,September,4,Marilyns Cut,Inside,VEM,1,,10,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,66.17852424,0.066666667
+20784,2022,September,4,Marilyns Cut,Inside,VEM,1,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20787,2022,September,4,Marilyns Cut,Inside,VEM,1,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20788,2022,September,4,Marilyns Cut,Inside,VEM,1,,30,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,389.9332923,0.016666667
+20789,2022,September,4,Marilyns Cut,Inside,VEM,1,,20,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,171.7755353,0.016666667
+20790,2022,September,4,Marilyns Cut,Inside,VEM,1,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+20793,2022,September,4,Marilyns Cut,Inside,VEM,2,,10,4,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,144.9692355,0.066666667
+20794,2022,September,4,Marilyns Cut,Inside,VEM,2,,10,1,Chaetodon_ocellatus,Butterflyfish,Corallivore,0.0257,3.02,26.91120368,0.016666667
+20801,2022,September,4,Marilyns Cut,Inside,VEM,2,,10,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,28.34149014,0.033333333
+20807,2022,September,4,Marilyns Cut,Inside,VEM,2,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+20795,2022,September,4,Marilyns Cut,Inside,VEM,2,,5,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2.266301752,0.016666667
+20796,2022,September,4,Marilyns Cut,Inside,VEM,2,,10,8,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,149.1210347,0.133333333
+20797,2022,September,4,Marilyns Cut,Inside,VEM,2,,20,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,613.2535904,0.066666667
+20798,2022,September,4,Marilyns Cut,Inside,VEM,2,,20,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,500.1177462,0.05
+20799,2022,September,4,Marilyns Cut,Inside,VEM,2,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20800,2022,September,4,Marilyns Cut,Inside,VEM,2,,5,2,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,3.164437621,0.033333333
+20802,2022,September,4,Marilyns Cut,Inside,VEM,2,,30,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,389.9332923,0.016666667
+20804,2022,September,4,Marilyns Cut,Inside,VEM,2,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20805,2022,September,4,Marilyns Cut,Inside,VEM,2,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20806,2022,September,4,Marilyns Cut,Inside,VEM,2,,20,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,669.4293543,0.05
+20803,2022,September,4,Marilyns Cut,Inside,VEM,2,,20,2,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,343.5510706,0.033333333
+20808,2022,September,4,Marilyns Cut,Inside,VEM,3,,10,2,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,57.6373118,0.033333333
+20809,2022,September,4,Marilyns Cut,Inside,VEM,3,,10,8,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,289.9384711,0.133333333
+20828,2022,September,4,Marilyns Cut,Inside,VEM,3,,30,1,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,412.6259034,0.016666667
+20820,2022,September,4,Marilyns Cut,Inside,VEM,3,,20,3,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,367.043237,0.05
+20810,2022,September,4,Marilyns Cut,Inside,VEM,3,,5,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,6.798905257,0.05
+20811,2022,September,4,Marilyns Cut,Inside,VEM,3,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+20812,2022,September,4,Marilyns Cut,Inside,VEM,3,,20,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,459.9401928,0.05
+20813,2022,September,4,Marilyns Cut,Inside,VEM,3,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20814,2022,September,4,Marilyns Cut,Inside,VEM,3,,20,1,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,139.2459899,0.016666667
+20815,2022,September,4,Marilyns Cut,Inside,VEM,3,,5,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,8.610660986,0.05
+20816,2022,September,4,Marilyns Cut,Inside,VEM,3,,20,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,500.1177462,0.05
+20817,2022,September,4,Marilyns Cut,Inside,VEM,3,,30,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2187.552028,0.066666667
+20818,2022,September,4,Marilyns Cut,Inside,VEM,3,,10,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,66.17852424,0.066666667
+20819,2022,September,4,Marilyns Cut,Inside,VEM,3,,20,5,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,671.0234201,0.083333333
+20824,2022,September,4,Marilyns Cut,Inside,VEM,3,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20825,2022,September,4,Marilyns Cut,Inside,VEM,3,,10,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,86.62959119,0.05
+20826,2022,September,4,Marilyns Cut,Inside,VEM,3,,20,5,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,1115.71559,0.083333333
+20821,2022,September,4,Marilyns Cut,Inside,VEM,3,,10,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,22.38376426,0.016666667
+20822,2022,September,4,Marilyns Cut,Inside,VEM,3,,20,7,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,1202.428747,0.116666667
+20823,2022,September,4,Marilyns Cut,Inside,VEM,3,,30,2,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,1131.617377,0.033333333
+20827,2022,September,4,Marilyns Cut,Inside,VEM,3,,10,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,19.95758961,0.016666667
+19968,2022,September,5,Marthas,Outside,ADC,1,,10,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,38.99758349,0.033333333
+19962,2022,September,5,Marthas,Outside,ADC,1,,20,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,244.6954914,0.033333333
+19950,2022,September,5,Marthas,Outside,ADC,1,,30,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,485.4063974,0.016666667
+19969,2022,September,5,Marthas,Outside,ADC,1,,40,4,Haemulon_parra,Grunt,Carnivore,0.0174,3.04,5162.637281,0.066666667
+19966,2022,September,5,Marthas,Outside,ADC,1,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+19967,2022,September,5,Marthas,Outside,ADC,1,,30,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,824.6689333,0.033333333
+19951,2022,September,5,Marthas,Outside,ADC,1,,5,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,4.532603504,0.033333333
+19952,2022,September,5,Marthas,Outside,ADC,1,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+19953,2022,September,5,Marthas,Outside,ADC,1,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+19954,2022,September,5,Marthas,Outside,ADC,1,,5,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,5.585507382,0.05
+19955,2022,September,5,Marthas,Outside,ADC,1,,10,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,49.58006782,0.05
+19956,2022,September,5,Marthas,Outside,ADC,1,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+19957,2022,September,5,Marthas,Outside,ADC,1,,30,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1052.319964,0.033333333
+19958,2022,September,5,Marthas,Outside,ADC,1,,5,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,11.48088131,0.066666667
+19959,2022,September,5,Marthas,Outside,ADC,1,,40,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1270.483116,0.016666667
+19960,2022,September,5,Marthas,Outside,ADC,1,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+19961,2022,September,5,Marthas,Outside,ADC,1,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+19964,2022,September,5,Marthas,Outside,ADC,1,,30,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,2213.981392,0.05
+19965,2022,September,5,Marthas,Outside,ADC,1,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+19963,2022,September,5,Marthas,Outside,ADC,1,,30,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,565.8086886,0.016666667
+19980,2022,September,5,Marthas,Outside,ADC,2,,20,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,244.6954914,0.033333333
+19970,2022,September,5,Marthas,Outside,ADC,2,,5,10,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,22.66301752,0.166666667
+19971,2022,September,5,Marthas,Outside,ADC,2,,10,7,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,130.4809053,0.116666667
+19972,2022,September,5,Marthas,Outside,ADC,2,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+19973,2022,September,5,Marthas,Outside,ADC,2,,30,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1051.786353,0.033333333
+19974,2022,September,5,Marthas,Outside,ADC,2,,5,11,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,20.48019373,0.183333333
+19975,2022,September,5,Marthas,Outside,ADC,2,,10,5,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,82.63344636,0.083333333
+19976,2022,September,5,Marthas,Outside,ADC,2,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+19977,2022,September,5,Marthas,Outside,ADC,2,,30,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1052.319964,0.033333333
+19978,2022,September,5,Marthas,Outside,ADC,2,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+19979,2022,September,5,Marthas,Outside,ADC,2,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+19981,2022,September,5,Marthas,Outside,ADC,2,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+19982,2022,September,5,Marthas,Outside,ADC,2,,20,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,457.1317282,0.05
+19983,2022,September,5,Marthas,Outside,ADC,2,,30,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,493.8382921,0.016666667
+19984,2022,September,5,Marthas,Outside,ADC,2,,5,8,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,12.52725162,0.133333333
+19985,2022,September,5,Marthas,Outside,ADC,2,,10,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,55.21537058,0.066666667
+19986,2022,September,5,Marthas,Outside,ADC,2,,20,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,121.6841986,0.016666667
+19987,2022,September,5,Marthas,Outside,ADC,3,,10,3,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,108.7269266,0.05
+20008,2022,September,5,Marthas,Outside,ADC,3,,30,1,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,662.1117247,0.016666667
+19999,2022,September,5,Marthas,Outside,ADC,3,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19988,2022,September,5,Marthas,Outside,ADC,3,,30,3,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,1456.219192,0.05
+19989,2022,September,5,Marthas,Outside,ADC,3,,40,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,2294.575298,0.033333333
+20009,2022,September,5,Marthas,Outside,ADC,3,,40,1,Haemulon_plumierii,Grunt,Carnivore,0.02,2.96,1104.40298,0.016666667
+19990,2022,September,5,Marthas,Outside,ADC,3,,5,18,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,40.79343154,0.3
+19991,2022,September,5,Marthas,Outside,ADC,3,,10,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,55.920388,0.05
+19992,2022,September,5,Marthas,Outside,ADC,3,,20,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,613.2535904,0.066666667
+19993,2022,September,5,Marthas,Outside,ADC,3,,5,7,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,13.03285056,0.116666667
+19994,2022,September,5,Marthas,Outside,ADC,3,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+19995,2022,September,5,Marthas,Outside,ADC,3,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+19996,2022,September,5,Marthas,Outside,ADC,3,,5,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,8.610660986,0.05
+19997,2022,September,5,Marthas,Outside,ADC,3,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+19998,2022,September,5,Marthas,Outside,ADC,3,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20000,2022,September,5,Marthas,Outside,ADC,3,,40,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,1164.8,0.016666667
+20001,2022,September,5,Marthas,Outside,ADC,3,,30,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,389.9332923,0.016666667
+20002,2022,September,5,Marthas,Outside,ADC,3,,40,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,870.100447,0.016666667
+20003,2022,September,5,Marthas,Outside,ADC,3,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+20004,2022,September,5,Marthas,Outside,ADC,3,,30,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,2951.975189,0.066666667
+20005,2022,September,5,Marthas,Outside,ADC,3,,5,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,6.263625809,0.066666667
+20006,2022,September,5,Marthas,Outside,ADC,3,,10,5,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,69.01921323,0.083333333
+20007,2022,September,5,Marthas,Outside,ADC,3,,20,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,121.6841986,0.016666667
+20956,2022,September,5,Marthas,Outside,VEM,1,,30,20,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,8252.518068,0.333333333
+20943,2022,September,5,Marthas,Outside,VEM,1,,20,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,144.4084582,0.016666667
+20954,2022,September,5,Marthas,Outside,VEM,1,,10,14,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,216.1648733,0.233333333
+20955,2022,September,5,Marthas,Outside,VEM,1,,30,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,824.6689333,0.033333333
+20944,2022,September,5,Marthas,Outside,VEM,1,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+20945,2022,September,5,Marthas,Outside,VEM,1,,10,1,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,16.24013781,0.016666667
+20946,2022,September,5,Marthas,Outside,VEM,1,,20,1,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,139.2459899,0.016666667
+20947,2022,September,5,Marthas,Outside,VEM,1,,10,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,33.08926212,0.033333333
+20948,2022,September,5,Marthas,Outside,VEM,1,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20949,2022,September,5,Marthas,Outside,VEM,1,,20,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,145.6,0.016666667
+20950,2022,September,5,Marthas,Outside,VEM,1,,20,2,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,251.6087265,0.033333333
+20951,2022,September,5,Marthas,Outside,VEM,1,,10,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,22.38376426,0.016666667
+20952,2022,September,5,Marthas,Outside,VEM,1,,20,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,171.7755353,0.016666667
+20953,2022,September,5,Marthas,Outside,VEM,1,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20899,2022,September,5,Marthas,Outside,VEM,2,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+20900,2022,September,5,Marthas,Outside,VEM,2,,20,5,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,629.6519334,0.083333333
+20901,2022,September,5,Marthas,Outside,VEM,2,,30,2,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,846.5905125,0.033333333
+20902,2022,September,5,Marthas,Outside,VEM,2,,40,2,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,2000.968351,0.033333333
+20916,2022,September,5,Marthas,Outside,VEM,2,,20,1,Haemulon_parra,Grunt,Carnivore,0.0174,3.04,156.9207717,0.016666667
+20914,2022,September,5,Marthas,Outside,VEM,2,,10,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,30.88069618,0.033333333
+20915,2022,September,5,Marthas,Outside,VEM,2,,20,7,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,858.6868537,0.116666667
+20903,2022,September,5,Marthas,Outside,VEM,2,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20904,2022,September,5,Marthas,Outside,VEM,2,,5,2,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,3.880407031,0.033333333
+20905,2022,September,5,Marthas,Outside,VEM,2,,10,4,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,63.3910821,0.066666667
+20906,2022,September,5,Marthas,Outside,VEM,2,,20,2,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,258.8922539,0.033333333
+20907,2022,September,5,Marthas,Outside,VEM,2,,20,3,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,417.7379696,0.05
+20908,2022,September,5,Marthas,Outside,VEM,2,,20,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,666.8236616,0.066666667
+20909,2022,September,5,Marthas,Outside,VEM,2,,10,43,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,711.4191355,0.716666667
+20910,2022,September,5,Marthas,Outside,VEM,2,,5,2,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,3.164437621,0.033333333
+20917,2022,September,5,Marthas,Outside,VEM,2,,20,1,Lutjanus_mahogoni,Snapper,Carnivore,0.0617,2.65,172.9874722,0.016666667
+20911,2022,September,5,Marthas,Outside,VEM,2,,20,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,892.5724724,0.066666667
+20912,2022,September,5,Marthas,Outside,VEM,2,,30,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,737.9937972,0.016666667
+20913,2022,September,5,Marthas,Outside,VEM,2,,20,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,121.6841986,0.016666667
+20918,2022,September,5,Marthas,Outside,VEM,3,,5,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,3.971276915,0.016666667
+20919,2022,September,5,Marthas,Outside,VEM,3,,10,3,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,108.7269266,0.05
+20941,2022,September,5,Marthas,Outside,VEM,3,,30,6,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,2475.755421,0.1
+20942,2022,September,5,Marthas,Outside,VEM,3,,40,1,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,986.5539963,0.016666667
+20932,2022,September,5,Marthas,Outside,VEM,3,,10,3,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,42.51223521,0.05
+20920,2022,September,5,Marthas,Outside,VEM,3,,20,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,144.4084582,0.016666667
+20921,2022,September,5,Marthas,Outside,VEM,3,,10,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,74.56051734,0.066666667
+20922,2022,September,5,Marthas,Outside,VEM,3,,20,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,306.6267952,0.033333333
+20923,2022,September,5,Marthas,Outside,VEM,3,,20,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,129.446127,0.016666667
+20924,2022,September,5,Marthas,Outside,VEM,3,,20,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,586.8003165,0.066666667
+20925,2022,September,5,Marthas,Outside,VEM,3,,20,3,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,417.7379696,0.05
+20926,2022,September,5,Marthas,Outside,VEM,3,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20927,2022,September,5,Marthas,Outside,VEM,3,,10,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,43.74849516,0.033333333
+20928,2022,September,5,Marthas,Outside,VEM,3,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20929,2022,September,5,Marthas,Outside,VEM,3,,5,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,4.079214059,0.033333333
+20930,2022,September,5,Marthas,Outside,VEM,3,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20931,2022,September,5,Marthas,Outside,VEM,3,,20,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,268.409368,0.033333333
+20933,2022,September,5,Marthas,Outside,VEM,3,,30,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,491.4,0.016666667
+20934,2022,September,5,Marthas,Outside,VEM,3,,20,4,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,503.2174529,0.066666667
+20935,2022,September,5,Marthas,Outside,VEM,3,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20936,2022,September,5,Marthas,Outside,VEM,3,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+20937,2022,September,5,Marthas,Outside,VEM,3,,30,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,737.9937972,0.016666667
+20938,2022,September,5,Marthas,Outside,VEM,3,,10,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,19.95758961,0.016666667
+20939,2022,September,5,Marthas,Outside,VEM,3,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20940,2022,September,5,Marthas,Outside,VEM,3,,20,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,365.0525959,0.05
+20139,2022,September,6,Meadows,Inside,ADC,1,,10,3,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,108.7269266,0.05
+20161,2022,September,6,Meadows,Inside,ADC,1,,40,1,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,986.5539963,0.016666667
+20158,2022,September,6,Meadows,Inside,ADC,1,,10,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,38.99758349,0.033333333
+20153,2022,September,6,Meadows,Inside,ADC,1,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20140,2022,September,6,Meadows,Inside,ADC,1,,30,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,423.2952563,0.016666667
+20141,2022,September,6,Meadows,Inside,ADC,1,,40,5,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,5002.420878,0.083333333
+20159,2022,September,6,Meadows,Inside,ADC,1,,40,3,Haemulon_parra,Grunt,Carnivore,0.0174,3.04,3871.977961,0.05
+20157,2022,September,6,Meadows,Inside,ADC,1,,30,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,412.3344666,0.016666667
+20142,2022,September,6,Meadows,Inside,ADC,1,,5,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,4.532603504,0.033333333
+20143,2022,September,6,Meadows,Inside,ADC,1,,20,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,306.6267952,0.033333333
+20144,2022,September,6,Meadows,Inside,ADC,1,,30,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,442.2273269,0.016666667
+20145,2022,September,6,Meadows,Inside,ADC,1,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+20146,2022,September,6,Meadows,Inside,ADC,1,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20147,2022,September,6,Meadows,Inside,ADC,1,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+20148,2022,September,6,Meadows,Inside,ADC,1,,5,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,11.48088131,0.066666667
+20149,2022,September,6,Meadows,Inside,ADC,1,,20,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,500.1177462,0.05
+20150,2022,September,6,Meadows,Inside,ADC,1,,30,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2187.552028,0.066666667
+20151,2022,September,6,Meadows,Inside,ADC,1,,40,5,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,6352.41558,0.083333333
+20152,2022,September,6,Meadows,Inside,ADC,1,,20,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,268.409368,0.033333333
+20160,2022,September,6,Meadows,Inside,ADC,1,,75,1,Scarus_guacamaia,Parrotfish,Herbivore,0.0191,3.01,8413.327022,0.016666667
+20154,2022,September,6,Meadows,Inside,ADC,1,,20,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,669.4293543,0.05
+20155,2022,September,6,Meadows,Inside,ADC,1,,30,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,737.9937972,0.016666667
+20156,2022,September,6,Meadows,Inside,ADC,1,,20,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,243.3683973,0.033333333
+20162,2022,September,6,Meadows,Inside,ADC,2,,10,1,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,28.8186559,0.016666667
+20163,2022,September,6,Meadows,Inside,ADC,2,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+20183,2022,September,6,Meadows,Inside,ADC,2,,40,12,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,11838.64796,0.2
+20182,2022,September,6,Meadows,Inside,ADC,2,,5,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,5.011744349,0.033333333
+20181,2022,September,6,Meadows,Inside,ADC,2,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+20164,2022,September,6,Meadows,Inside,ADC,2,,5,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,6.798905257,0.05
+20165,2022,September,6,Meadows,Inside,ADC,2,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+20166,2022,September,6,Meadows,Inside,ADC,2,,30,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2103.572705,0.066666667
+20167,2022,September,6,Meadows,Inside,ADC,2,,5,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,5.585507382,0.05
+20168,2022,September,6,Meadows,Inside,ADC,2,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20169,2022,September,6,Meadows,Inside,ADC,2,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+20170,2022,September,6,Meadows,Inside,ADC,2,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+20171,2022,September,6,Meadows,Inside,ADC,2,,5,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,5.740440657,0.033333333
+20172,2022,September,6,Meadows,Inside,ADC,2,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20173,2022,September,6,Meadows,Inside,ADC,2,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20174,2022,September,6,Meadows,Inside,ADC,2,,40,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1270.483116,0.016666667
+20175,2022,September,6,Meadows,Inside,ADC,2,,5,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,4.079214059,0.033333333
+20176,2022,September,6,Meadows,Inside,ADC,2,,10,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,33.08926212,0.033333333
+20177,2022,September,6,Meadows,Inside,ADC,2,,5,1,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,1.582218811,0.016666667
+20178,2022,September,6,Meadows,Inside,ADC,2,,30,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,491.4,0.016666667
+20179,2022,September,6,Meadows,Inside,ADC,2,,20,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,669.4293543,0.05
+20180,2022,September,6,Meadows,Inside,ADC,2,,5,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,3.131812905,0.033333333
+20184,2022,September,6,Meadows,Inside,ADC,3,,10,1,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,28.8186559,0.016666667
+20185,2022,September,6,Meadows,Inside,ADC,3,,10,3,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,108.7269266,0.05
+20209,2022,September,6,Meadows,Inside,ADC,3,,5,3,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,7.517616524,0.05
+20203,2022,September,6,Meadows,Inside,ADC,3,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20204,2022,September,6,Meadows,Inside,ADC,3,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+20186,2022,September,6,Meadows,Inside,ADC,3,,5,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,9.065207009,0.066666667
+20187,2022,September,6,Meadows,Inside,ADC,3,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+20188,2022,September,6,Meadows,Inside,ADC,3,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20189,2022,September,6,Meadows,Inside,ADC,3,,30,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1051.786353,0.033333333
+20190,2022,September,6,Meadows,Inside,ADC,3,,30,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,442.2273269,0.016666667
+20191,2022,September,6,Meadows,Inside,ADC,3,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+20192,2022,September,6,Meadows,Inside,ADC,3,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20193,2022,September,6,Meadows,Inside,ADC,3,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+20194,2022,September,6,Meadows,Inside,ADC,3,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+20195,2022,September,6,Meadows,Inside,ADC,3,,30,1,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,489.4018424,0.016666667
+20196,2022,September,6,Meadows,Inside,ADC,3,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20197,2022,September,6,Meadows,Inside,ADC,3,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20198,2022,September,6,Meadows,Inside,ADC,3,,40,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2540.966232,0.033333333
+20199,2022,September,6,Meadows,Inside,ADC,3,,5,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,4.079214059,0.033333333
+20200,2022,September,6,Meadows,Inside,ADC,3,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20201,2022,September,6,Meadows,Inside,ADC,3,,20,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,402.6140521,0.05
+20202,2022,September,6,Meadows,Inside,ADC,3,,30,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,456.6287756,0.016666667
+20205,2022,September,6,Meadows,Inside,ADC,3,,40,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,870.100447,0.016666667
+20206,2022,September,6,Meadows,Inside,ADC,3,,5,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,3.131812905,0.033333333
+20207,2022,September,6,Meadows,Inside,ADC,3,,10,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,41.41152794,0.05
+20208,2022,September,6,Meadows,Inside,ADC,3,,20,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,121.6841986,0.016666667
+20210,2022,September,6,Meadows,Inside,ADC,4,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+20229,2022,September,6,Meadows,Inside,ADC,4,,5,5,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,12.52936087,0.083333333
+20230,2022,September,6,Meadows,Inside,ADC,4,,10,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,19.49879175,0.016666667
+20231,2022,September,6,Meadows,Inside,ADC,4,,50,1,Epinephelus_striatus,Grouper,Carnivore,0.0091,3.16,2127.093625,0.016666667
+20211,2022,September,6,Meadows,Inside,ADC,4,,40,3,Haemulon_sciurus,Grunt,Carnivore,0.0245,2.92,3501.89011,0.05
+20212,2022,September,6,Meadows,Inside,ADC,4,,30,2,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,846.5905125,0.033333333
+20232,2022,September,6,Meadows,Inside,ADC,4,,30,4,Haemulon_parra,Grunt,Carnivore,0.0174,3.04,2153.068534,0.066666667
+20233,2022,September,6,Meadows,Inside,ADC,4,,40,1,Haemulon_parra,Grunt,Carnivore,0.0174,3.04,1290.65932,0.016666667
+20228,2022,September,6,Meadows,Inside,ADC,4,,30,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,412.3344666,0.016666667
+20213,2022,September,6,Meadows,Inside,ADC,4,,5,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2.266301752,0.016666667
+20214,2022,September,6,Meadows,Inside,ADC,4,,30,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,525.8931764,0.016666667
+20215,2022,September,6,Meadows,Inside,ADC,4,,40,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1260.988991,0.016666667
+20216,2022,September,6,Meadows,Inside,ADC,4,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+20217,2022,September,6,Meadows,Inside,ADC,4,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20218,2022,September,6,Meadows,Inside,ADC,4,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20219,2022,September,6,Meadows,Inside,ADC,4,,50,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2442.9537,0.016666667
+20220,2022,September,6,Meadows,Inside,ADC,4,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20221,2022,September,6,Meadows,Inside,ADC,4,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20222,2022,September,6,Meadows,Inside,ADC,4,,30,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,456.6287756,0.016666667
+20223,2022,September,6,Meadows,Inside,ADC,4,,30,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,491.4,0.016666667
+20224,2022,September,6,Meadows,Inside,ADC,4,,40,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,1164.8,0.016666667
+20225,2022,September,6,Meadows,Inside,ADC,4,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20226,2022,September,6,Meadows,Inside,ADC,4,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+20227,2022,September,6,Meadows,Inside,ADC,4,,30,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,737.9937972,0.016666667
+20234,2022,September,6,Meadows,Inside,ADC,5,,10,4,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,144.9692355,0.066666667
+20256,2022,September,6,Meadows,Inside,ADC,5,,5,5,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,12.52936087,0.083333333
+20257,2022,September,6,Meadows,Inside,ADC,5,,10,4,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,77.99516698,0.066666667
+20235,2022,September,6,Meadows,Inside,ADC,5,,30,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,423.2952563,0.016666667
+20236,2022,September,6,Meadows,Inside,ADC,5,,20,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,144.4084582,0.016666667
+20237,2022,September,6,Meadows,Inside,ADC,5,,30,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,970.8127949,0.033333333
+20258,2022,September,6,Meadows,Inside,ADC,5,,30,5,Haemulon_parra,Grunt,Carnivore,0.0174,3.04,2691.335667,0.083333333
+20238,2022,September,6,Meadows,Inside,ADC,5,,5,8,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.13041402,0.133333333
+20239,2022,September,6,Meadows,Inside,ADC,5,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+20240,2022,September,6,Meadows,Inside,ADC,5,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20241,2022,September,6,Meadows,Inside,ADC,5,,30,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1051.786353,0.033333333
+20242,2022,September,6,Meadows,Inside,ADC,5,,20,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,129.446127,0.016666667
+20243,2022,September,6,Meadows,Inside,ADC,5,,5,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,5.585507382,0.05
+20244,2022,September,6,Meadows,Inside,ADC,5,,10,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,49.58006782,0.05
+20245,2022,September,6,Meadows,Inside,ADC,5,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+20246,2022,September,6,Meadows,Inside,ADC,5,,30,2,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,978.8036847,0.033333333
+20247,2022,September,6,Meadows,Inside,ADC,5,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20248,2022,September,6,Meadows,Inside,ADC,5,,30,5,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2734.440035,0.083333333
+20249,2022,September,6,Meadows,Inside,ADC,5,,40,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2540.966232,0.033333333
+20250,2022,September,6,Meadows,Inside,ADC,5,,5,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,6.118821088,0.05
+20251,2022,September,6,Meadows,Inside,ADC,5,,10,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,49.63389318,0.05
+20252,2022,September,6,Meadows,Inside,ADC,5,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20253,2022,September,6,Meadows,Inside,ADC,5,,20,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,892.5724724,0.066666667
+20254,2022,September,6,Meadows,Inside,ADC,5,,30,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,2213.981392,0.05
+20255,2022,September,6,Meadows,Inside,ADC,5,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+20976,2022,September,6,Meadows,Inside,VEM,1,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+21000,2022,September,6,Meadows,Inside,VEM,1,,10,1,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,23.98971504,0.016666667
+20992,2022,September,6,Meadows,Inside,VEM,1,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20977,2022,September,6,Meadows,Inside,VEM,1,,20,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,125.9303867,0.016666667
+20978,2022,September,6,Meadows,Inside,VEM,1,,30,2,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,846.5905125,0.033333333
+20979,2022,September,6,Meadows,Inside,VEM,1,,20,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,144.4084582,0.016666667
+21001,2022,September,6,Meadows,Inside,VEM,1,,10,1,Haemulon_parra,Grunt,Carnivore,0.0174,3.04,19.07872061,0.016666667
+20999,2022,September,6,Meadows,Inside,VEM,1,,10,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,30.88069618,0.033333333
+20980,2022,September,6,Meadows,Inside,VEM,1,,5,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,6.798905257,0.05
+20981,2022,September,6,Meadows,Inside,VEM,1,,10,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,55.920388,0.05
+20982,2022,September,6,Meadows,Inside,VEM,1,,20,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,306.6267952,0.033333333
+20983,2022,September,6,Meadows,Inside,VEM,1,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+20984,2022,September,6,Meadows,Inside,VEM,1,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20985,2022,September,6,Meadows,Inside,VEM,1,,10,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,43.74849516,0.033333333
+20986,2022,September,6,Meadows,Inside,VEM,1,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20987,2022,September,6,Meadows,Inside,VEM,1,,30,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1093.776014,0.033333333
+20988,2022,September,6,Meadows,Inside,VEM,1,,5,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,4.079214059,0.033333333
+20989,2022,September,6,Meadows,Inside,VEM,1,,10,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,33.08926212,0.033333333
+20990,2022,September,6,Meadows,Inside,VEM,1,,30,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,456.6287756,0.016666667
+20991,2022,September,6,Meadows,Inside,VEM,1,,30,1,Sparisoma_rubripinne,Parrotfish,Herbivore,0.0178,3.02,514.4298865,0.016666667
+20993,2022,September,6,Meadows,Inside,VEM,1,,20,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,145.6,0.016666667
+20994,2022,September,6,Meadows,Inside,VEM,1,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20995,2022,September,6,Meadows,Inside,VEM,1,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20996,2022,September,6,Meadows,Inside,VEM,1,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20997,2022,September,6,Meadows,Inside,VEM,1,,20,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,669.4293543,0.05
+20998,2022,September,6,Meadows,Inside,VEM,1,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+19773,2022,September,4,Sailfin,Outside,ADC,1,,30,1,Holacanthus_ciliaris,Angelfish,Omnivore,0.03311,2.88,594.3857574,0.016666667
+19749,2022,September,4,Sailfin,Outside,ADC,1,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+19771,2022,September,4,Sailfin,Outside,ADC,1,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+19772,2022,September,4,Sailfin,Outside,ADC,1,,20,1,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,194.5967918,0.016666667
+19764,2022,September,4,Sailfin,Outside,ADC,1,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19750,2022,September,4,Sailfin,Outside,ADC,1,,30,3,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,1456.219192,0.05
+19751,2022,September,4,Sailfin,Outside,ADC,1,,5,9,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,20.39671577,0.15
+19752,2022,September,4,Sailfin,Outside,ADC,1,,10,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,55.920388,0.05
+19753,2022,September,4,Sailfin,Outside,ADC,1,,20,6,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,919.8803856,0.1
+19754,2022,September,4,Sailfin,Outside,ADC,1,,30,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,525.8931764,0.016666667
+19755,2022,September,4,Sailfin,Outside,ADC,1,,40,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1260.988991,0.016666667
+19756,2022,September,4,Sailfin,Outside,ADC,1,,5,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,7.447343176,0.066666667
+19757,2022,September,4,Sailfin,Outside,ADC,1,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+19758,2022,September,4,Sailfin,Outside,ADC,1,,30,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1052.319964,0.033333333
+19759,2022,September,4,Sailfin,Outside,ADC,1,,5,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,11.48088131,0.066666667
+19760,2022,September,4,Sailfin,Outside,ADC,1,,5,12,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,24.47528435,0.2
+19761,2022,September,4,Sailfin,Outside,ADC,1,,10,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,66.17852424,0.066666667
+19762,2022,September,4,Sailfin,Outside,ADC,1,,20,6,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,805.2281041,0.1
+19763,2022,September,4,Sailfin,Outside,ADC,1,,30,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,913.2575513,0.033333333
+19765,2022,September,4,Sailfin,Outside,ADC,1,,30,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,491.4,0.016666667
+19766,2022,September,4,Sailfin,Outside,ADC,1,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+19767,2022,September,4,Sailfin,Outside,ADC,1,,10,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,40.82847126,0.033333333
+19768,2022,September,4,Sailfin,Outside,ADC,1,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+19769,2022,September,4,Sailfin,Outside,ADC,1,,5,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,6.263625809,0.066666667
+19770,2022,September,4,Sailfin,Outside,ADC,1,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+19798,2022,September,4,Sailfin,Outside,ADC,2,,40,3,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,2959.661989,0.05
+19788,2022,September,4,Sailfin,Outside,ADC,2,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19774,2022,September,4,Sailfin,Outside,ADC,2,,40,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,1000.484176,0.016666667
+19775,2022,September,4,Sailfin,Outside,ADC,2,,30,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,970.8127949,0.033333333
+19797,2022,September,4,Sailfin,Outside,ADC,2,,40,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,974.5776804,0.016666667
+19776,2022,September,4,Sailfin,Outside,ADC,2,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+19777,2022,September,4,Sailfin,Outside,ADC,2,,20,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,613.2535904,0.066666667
+19778,2022,September,4,Sailfin,Outside,ADC,2,,30,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1577.679529,0.05
+19779,2022,September,4,Sailfin,Outside,ADC,2,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+19780,2022,September,4,Sailfin,Outside,ADC,2,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+19781,2022,September,4,Sailfin,Outside,ADC,2,,20,5,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,733.5003956,0.083333333
+19782,2022,September,4,Sailfin,Outside,ADC,2,,30,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1052.319964,0.033333333
+19783,2022,September,4,Sailfin,Outside,ADC,2,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+19784,2022,September,4,Sailfin,Outside,ADC,2,,10,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,66.17852424,0.066666667
+19785,2022,September,4,Sailfin,Outside,ADC,2,,20,5,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,671.0234201,0.083333333
+19786,2022,September,4,Sailfin,Outside,ADC,2,,30,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,1369.886327,0.05
+19787,2022,September,4,Sailfin,Outside,ADC,2,,30,1,Sparisoma_rubripinne,Parrotfish,Herbivore,0.0178,3.02,514.4298865,0.016666667
+19789,2022,September,4,Sailfin,Outside,ADC,2,,30,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,491.4,0.016666667
+19790,2022,September,4,Sailfin,Outside,ADC,2,,40,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,1164.8,0.016666667
+19792,2022,September,4,Sailfin,Outside,ADC,2,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+19793,2022,September,4,Sailfin,Outside,ADC,2,,20,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,669.4293543,0.05
+19794,2022,September,4,Sailfin,Outside,ADC,2,,30,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,1481.514876,0.05
+19791,2022,September,4,Sailfin,Outside,ADC,2,,30,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,565.8086886,0.016666667
+19795,2022,September,4,Sailfin,Outside,ADC,2,,5,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,3.131812905,0.033333333
+19796,2022,September,4,Sailfin,Outside,ADC,2,,10,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,41.41152794,0.05
+19818,2022,September,4,Sailfin,Outside,ADC,3,,30,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,431.7573976,0.016666667
+19799,2022,September,4,Sailfin,Outside,ADC,3,,20,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,144.4084582,0.016666667
+19800,2022,September,4,Sailfin,Outside,ADC,3,,30,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,485.4063974,0.016666667
+19824,2022,September,4,Sailfin,Outside,ADC,3,,10,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,30.88069618,0.033333333
+19801,2022,September,4,Sailfin,Outside,ADC,3,,5,5,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,11.33150876,0.083333333
+19802,2022,September,4,Sailfin,Outside,ADC,3,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+19803,2022,September,4,Sailfin,Outside,ADC,3,,20,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,459.9401928,0.05
+19804,2022,September,4,Sailfin,Outside,ADC,3,,30,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1051.786353,0.033333333
+19805,2022,September,4,Sailfin,Outside,ADC,3,,5,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,3.723671588,0.033333333
+19806,2022,September,4,Sailfin,Outside,ADC,3,,10,6,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,99.16013563,0.1
+19807,2022,September,4,Sailfin,Outside,ADC,3,,20,7,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1026.900554,0.116666667
+19808,2022,September,4,Sailfin,Outside,ADC,3,,30,7,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,3683.119875,0.116666667
+19809,2022,September,4,Sailfin,Outside,ADC,3,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+19810,2022,September,4,Sailfin,Outside,ADC,3,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+19811,2022,September,4,Sailfin,Outside,ADC,3,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+19812,2022,September,4,Sailfin,Outside,ADC,3,,40,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1270.483116,0.016666667
+19813,2022,September,4,Sailfin,Outside,ADC,3,,5,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,4.079214059,0.033333333
+19814,2022,September,4,Sailfin,Outside,ADC,3,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+19815,2022,September,4,Sailfin,Outside,ADC,3,,20,5,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,671.0234201,0.083333333
+19816,2022,September,4,Sailfin,Outside,ADC,3,,30,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,913.2575513,0.033333333
+19817,2022,September,4,Sailfin,Outside,ADC,3,,40,1,Sparisoma_rubripinne,Parrotfish,Herbivore,0.0178,3.02,1226.425512,0.016666667
+19819,2022,September,4,Sailfin,Outside,ADC,3,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+19820,2022,September,4,Sailfin,Outside,ADC,3,,20,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,446.2862362,0.033333333
+19821,2022,September,4,Sailfin,Outside,ADC,3,,10,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,40.82847126,0.033333333
+19822,2022,September,4,Sailfin,Outside,ADC,3,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+19823,2022,September,4,Sailfin,Outside,ADC,3,,10,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,41.41152794,0.05
+20426,2022,September,4,Sailfin,Outside,JLR,1,,10,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,28.34149014,0.033333333
+20416,2022,September,4,Sailfin,Outside,JLR,1,,10,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,18.17661231,0.016666667
+20432,2022,September,4,Sailfin,Outside,JLR,1,,20,1,Haemulon_plumierii,Grunt,Carnivore,0.02,2.96,141.9314968,0.016666667
+20417,2022,September,4,Sailfin,Outside,JLR,1,,10,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,74.56051734,0.066666667
+20418,2022,September,4,Sailfin,Outside,JLR,1,,10,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,15.84777052,0.016666667
+20419,2022,September,4,Sailfin,Outside,JLR,1,,5,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,5.585507382,0.05
+20420,2022,September,4,Sailfin,Outside,JLR,1,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+20421,2022,September,4,Sailfin,Outside,JLR,1,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20422,2022,September,4,Sailfin,Outside,JLR,1,,20,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,333.4118308,0.033333333
+20423,2022,September,4,Sailfin,Outside,JLR,1,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20424,2022,September,4,Sailfin,Outside,JLR,1,,5,7,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,14.27724921,0.116666667
+20425,2022,September,4,Sailfin,Outside,JLR,1,,10,8,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,132.3570485,0.133333333
+20427,2022,September,4,Sailfin,Outside,JLR,1,,20,2,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,291.2,0.033333333
+20429,2022,September,4,Sailfin,Outside,JLR,1,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+20430,2022,September,4,Sailfin,Outside,JLR,1,,5,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,2.734929501,0.016666667
+20431,2022,September,4,Sailfin,Outside,JLR,1,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+20428,2022,September,4,Sailfin,Outside,JLR,1,,20,3,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,515.3266059,0.05
+20433,2022,September,4,Sailfin,Outside,JLR,2,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+20434,2022,September,4,Sailfin,Outside,JLR,2,,10,2,Chaetodon_ocellatus,Butterflyfish,Corallivore,0.0257,3.02,53.82240737,0.033333333
+20445,2022,September,4,Sailfin,Outside,JLR,2,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20446,2022,September,4,Sailfin,Outside,JLR,2,,20,1,Epinephelus_striatus,Grouper,Carnivore,0.0091,3.16,117.5699081,0.016666667
+20435,2022,September,4,Sailfin,Outside,JLR,2,,20,1,Haemulon_sciurus,Grunt,Carnivore,0.0245,2.92,154.2317093,0.016666667
+20436,2022,September,4,Sailfin,Outside,JLR,2,,20,13,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,1637.095027,0.216666667
+20437,2022,September,4,Sailfin,Outside,JLR,2,,10,6,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,109.0596739,0.1
+20455,2022,September,4,Sailfin,Outside,JLR,2,,20,1,Haemulon_plumierii,Grunt,Carnivore,0.02,2.96,141.9314968,0.016666667
+20453,2022,September,4,Sailfin,Outside,JLR,2,,10,3,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,46.32104427,0.05
+20454,2022,September,4,Sailfin,Outside,JLR,2,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+20438,2022,September,4,Sailfin,Outside,JLR,2,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+20439,2022,September,4,Sailfin,Outside,JLR,2,,20,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,459.9401928,0.05
+20440,2022,September,4,Sailfin,Outside,JLR,2,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+20441,2022,September,4,Sailfin,Outside,JLR,2,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20442,2022,September,4,Sailfin,Outside,JLR,2,,20,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,333.4118308,0.033333333
+20443,2022,September,4,Sailfin,Outside,JLR,2,,10,5,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,82.7231553,0.083333333
+20444,2022,September,4,Sailfin,Outside,JLR,2,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20447,2022,September,4,Sailfin,Outside,JLR,2,,20,1,Lutjanus_analis,Snapper,Carnivore,0.0151,3.03,132.1593318,0.016666667
+20448,2022,September,4,Sailfin,Outside,JLR,2,,10,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,18.2,0.016666667
+20449,2022,September,4,Sailfin,Outside,JLR,2,,20,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,145.6,0.016666667
+20451,2022,September,4,Sailfin,Outside,JLR,2,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+20452,2022,September,4,Sailfin,Outside,JLR,2,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+20450,2022,September,4,Sailfin,Outside,JLR,2,,20,2,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,343.5510706,0.033333333
+20456,2022,September,4,Sailfin,Outside,JLR,3,,10,3,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,86.4559677,0.05
+20457,2022,September,4,Sailfin,Outside,JLR,3,,10,3,Chaetodon_ocellatus,Butterflyfish,Corallivore,0.0257,3.02,80.73361105,0.05
+20478,2022,September,4,Sailfin,Outside,JLR,3,,10,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,19.49879175,0.016666667
+20469,2022,September,4,Sailfin,Outside,JLR,3,,5,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,1.641305401,0.016666667
+20479,2022,September,4,Sailfin,Outside,JLR,3,,10,1,Epinephelus_guttatus,Grouper,Carnivore,0.0132,3.05,14.8106436,0.016666667
+20458,2022,September,4,Sailfin,Outside,JLR,3,,20,1,Haemulon_sciurus,Grunt,Carnivore,0.0245,2.92,154.2317093,0.016666667
+20459,2022,September,4,Sailfin,Outside,JLR,3,,10,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,36.35322462,0.033333333
+20477,2022,September,4,Sailfin,Outside,JLR,3,,10,5,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,77.20174046,0.083333333
+20460,2022,September,4,Sailfin,Outside,JLR,3,,10,6,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,111.840776,0.1
+20461,2022,September,4,Sailfin,Outside,JLR,3,,10,3,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,47.54331157,0.05
+20462,2022,September,4,Sailfin,Outside,JLR,3,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+20463,2022,September,4,Sailfin,Outside,JLR,3,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20464,2022,September,4,Sailfin,Outside,JLR,3,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20465,2022,September,4,Sailfin,Outside,JLR,3,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20466,2022,September,4,Sailfin,Outside,JLR,3,,20,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,666.8236616,0.066666667
+20467,2022,September,4,Sailfin,Outside,JLR,3,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20468,2022,September,4,Sailfin,Outside,JLR,3,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20470,2022,September,4,Sailfin,Outside,JLR,3,,30,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,491.4,0.016666667
+20471,2022,September,4,Sailfin,Outside,JLR,3,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20473,2022,September,4,Sailfin,Outside,JLR,3,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20474,2022,September,4,Sailfin,Outside,JLR,3,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20475,2022,September,4,Sailfin,Outside,JLR,3,,5,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,2.734929501,0.016666667
+20476,2022,September,4,Sailfin,Outside,JLR,3,,10,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,61.2427069,0.05
+20472,2022,September,4,Sailfin,Outside,JLR,3,,20,4,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,687.1021412,0.066666667
+20737,2022,September,4,Sailfin,Outside,VEM,1,,20,15,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,1811.720641,0.25
+20738,2022,September,4,Sailfin,Outside,VEM,1,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+20739,2022,September,4,Sailfin,Outside,VEM,1,,10,2,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,47.97943007,0.033333333
+20728,2022,September,4,Sailfin,Outside,VEM,1,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+20724,2022,September,4,Sailfin,Outside,VEM,1,,10,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,36.35322462,0.033333333
+20725,2022,September,4,Sailfin,Outside,VEM,1,,20,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,144.4084582,0.016666667
+20735,2022,September,4,Sailfin,Outside,VEM,1,,10,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,15.44034809,0.016666667
+20736,2022,September,4,Sailfin,Outside,VEM,1,,30,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,412.3344666,0.016666667
+20726,2022,September,4,Sailfin,Outside,VEM,1,,20,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,306.6267952,0.033333333
+20727,2022,September,4,Sailfin,Outside,VEM,1,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+20729,2022,September,4,Sailfin,Outside,VEM,1,,30,3,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,1474.2,0.05
+20732,2022,September,4,Sailfin,Outside,VEM,1,,10,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,86.62959119,0.05
+20733,2022,September,4,Sailfin,Outside,VEM,1,,20,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,446.2862362,0.033333333
+20734,2022,September,4,Sailfin,Outside,VEM,1,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+20730,2022,September,4,Sailfin,Outside,VEM,1,,10,2,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,44.76752852,0.033333333
+20731,2022,September,4,Sailfin,Outside,VEM,1,,20,6,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,1030.653212,0.1
+20740,2022,September,4,Sailfin,Outside,VEM,2,,5,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,3.971276915,0.016666667
+20760,2022,September,4,Sailfin,Outside,VEM,2,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+20753,2022,September,4,Sailfin,Outside,VEM,2,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20741,2022,September,4,Sailfin,Outside,VEM,2,,10,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,18.17661231,0.016666667
+20742,2022,September,4,Sailfin,Outside,VEM,2,,20,5,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,722.0422911,0.083333333
+20743,2022,September,4,Sailfin,Outside,VEM,2,,20,8,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,1007.443093,0.133333333
+20761,2022,September,4,Sailfin,Outside,VEM,2,,20,1,Haemulon_plumierii,Grunt,Carnivore,0.02,2.96,141.9314968,0.016666667
+20759,2022,September,4,Sailfin,Outside,VEM,2,,20,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,245.3391011,0.033333333
+20744,2022,September,4,Sailfin,Outside,VEM,2,,5,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,6.798905257,0.05
+20745,2022,September,4,Sailfin,Outside,VEM,2,,10,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,74.56051734,0.066666667
+20746,2022,September,4,Sailfin,Outside,VEM,2,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20747,2022,September,4,Sailfin,Outside,VEM,2,,20,2,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,278.4919798,0.033333333
+20748,2022,September,4,Sailfin,Outside,VEM,2,,5,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,5.740440657,0.033333333
+20749,2022,September,4,Sailfin,Outside,VEM,2,,20,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,500.1177462,0.05
+20750,2022,September,4,Sailfin,Outside,VEM,2,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20751,2022,September,4,Sailfin,Outside,VEM,2,,20,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,402.6140521,0.05
+20752,2022,September,4,Sailfin,Outside,VEM,2,,5,1,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,1.582218811,0.016666667
+20754,2022,September,4,Sailfin,Outside,VEM,2,,20,2,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,291.2,0.033333333
+20755,2022,September,4,Sailfin,Outside,VEM,2,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+20756,2022,September,4,Sailfin,Outside,VEM,2,,10,1,Acanthurus_chirurgus,Surgeonfish,Herbivore,0.0209,2.93,17.788785,0.016666667
+20757,2022,September,4,Sailfin,Outside,VEM,2,,10,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,61.2427069,0.05
+20758,2022,September,4,Sailfin,Outside,VEM,2,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+20762,2022,September,4,Sailfin,Outside,VEM,3,,10,3,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,108.7269266,0.05
+20776,2022,September,4,Sailfin,Outside,VEM,3,,5,4,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,10.0234887,0.066666667
+20777,2022,September,4,Sailfin,Outside,VEM,3,,10,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,19.49879175,0.016666667
+20763,2022,September,4,Sailfin,Outside,VEM,3,,5,10,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,22.66301752,0.166666667
+20764,2022,September,4,Sailfin,Outside,VEM,3,,10,5,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,93.20064667,0.083333333
+20765,2022,September,4,Sailfin,Outside,VEM,3,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20766,2022,September,4,Sailfin,Outside,VEM,3,,5,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,5.740440657,0.033333333
+20767,2022,September,4,Sailfin,Outside,VEM,3,,5,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,6.118821088,0.05
+20768,2022,September,4,Sailfin,Outside,VEM,3,,10,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,66.17852424,0.066666667
+20769,2022,September,4,Sailfin,Outside,VEM,3,,5,4,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,6.328875243,0.066666667
+20772,2022,September,4,Sailfin,Outside,VEM,3,,10,45,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,1299.443868,0.75
+20773,2022,September,4,Sailfin,Outside,VEM,3,,20,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,892.5724724,0.066666667
+20770,2022,September,4,Sailfin,Outside,VEM,3,,20,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,171.7755353,0.016666667
+20771,2022,September,4,Sailfin,Outside,VEM,3,,30,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,565.8086886,0.016666667
+20774,2022,September,4,Sailfin,Outside,VEM,3,,5,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,1.565906452,0.016666667
+20775,2022,September,4,Sailfin,Outside,VEM,3,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+19825,2022,September,4,Snapshot,Outside,ADC,1,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+19847,2022,September,4,Snapshot,Outside,ADC,1,,10,3,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,58.49637524,0.05
+19846,2022,September,4,Snapshot,Outside,ADC,1,,10,3,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,46.32104427,0.05
+19826,2022,September,4,Snapshot,Outside,ADC,1,,5,12,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,27.19562103,0.2
+19827,2022,September,4,Snapshot,Outside,ADC,1,,10,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,55.920388,0.05
+19828,2022,September,4,Snapshot,Outside,ADC,1,,20,5,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,766.566988,0.083333333
+19829,2022,September,4,Snapshot,Outside,ADC,1,,30,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,525.8931764,0.016666667
+19830,2022,September,4,Snapshot,Outside,ADC,1,,5,18,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.51304429,0.3
+19831,2022,September,4,Snapshot,Outside,ADC,1,,10,6,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,99.16013563,0.1
+19832,2022,September,4,Snapshot,Outside,ADC,1,,20,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,440.1002374,0.05
+19833,2022,September,4,Snapshot,Outside,ADC,1,,30,5,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,2630.799911,0.083333333
+19834,2022,September,4,Snapshot,Outside,ADC,1,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+19835,2022,September,4,Snapshot,Outside,ADC,1,,5,5,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,10.19803515,0.083333333
+19836,2022,September,4,Snapshot,Outside,ADC,1,,10,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,49.63389318,0.05
+19837,2022,September,4,Snapshot,Outside,ADC,1,,20,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,536.8187361,0.066666667
+19838,2022,September,4,Snapshot,Outside,ADC,1,,30,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,456.6287756,0.016666667
+19840,2022,September,4,Snapshot,Outside,ADC,1,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+19841,2022,September,4,Snapshot,Outside,ADC,1,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+19842,2022,September,4,Snapshot,Outside,ADC,1,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+19843,2022,September,4,Snapshot,Outside,ADC,1,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+19839,2022,September,4,Snapshot,Outside,ADC,1,,30,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,565.8086886,0.016666667
+19844,2022,September,4,Snapshot,Outside,ADC,1,,5,12,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,18.79087743,0.2
+19845,2022,September,4,Snapshot,Outside,ADC,1,,10,10,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,138.0384265,0.166666667
+19848,2022,September,4,Snapshot,Outside,ADC,2,,10,4,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,144.9692355,0.066666667
+19871,2022,September,4,Snapshot,Outside,ADC,2,,5,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,5.011744349,0.033333333
+19862,2022,September,4,Snapshot,Outside,ADC,2,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19849,2022,September,4,Snapshot,Outside,ADC,2,,30,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,423.2952563,0.016666667
+19850,2022,September,4,Snapshot,Outside,ADC,2,,5,11,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,24.92931927,0.183333333
+19851,2022,September,4,Snapshot,Outside,ADC,2,,10,6,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,111.840776,0.1
+19852,2022,September,4,Snapshot,Outside,ADC,2,,30,3,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,1577.679529,0.05
+19853,2022,September,4,Snapshot,Outside,ADC,2,,5,10,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,18.61835794,0.166666667
+19854,2022,September,4,Snapshot,Outside,ADC,2,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+19855,2022,September,4,Snapshot,Outside,ADC,2,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+19856,2022,September,4,Snapshot,Outside,ADC,2,,5,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,8.610660986,0.05
+19857,2022,September,4,Snapshot,Outside,ADC,2,,10,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,43.74849516,0.033333333
+19858,2022,September,4,Snapshot,Outside,ADC,2,,40,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2540.966232,0.033333333
+19859,2022,September,4,Snapshot,Outside,ADC,2,,5,12,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,24.47528435,0.2
+19860,2022,September,4,Snapshot,Outside,ADC,2,,10,10,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,165.4463106,0.166666667
+19861,2022,September,4,Snapshot,Outside,ADC,2,,20,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,268.409368,0.033333333
+19864,2022,September,4,Snapshot,Outside,ADC,2,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+19865,2022,September,4,Snapshot,Outside,ADC,2,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+19866,2022,September,4,Snapshot,Outside,ADC,2,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+19867,2022,September,4,Snapshot,Outside,ADC,2,,30,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,2951.975189,0.066666667
+19868,2022,September,4,Snapshot,Outside,ADC,2,,5,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,2.734929501,0.016666667
+19869,2022,September,4,Snapshot,Outside,ADC,2,,20,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,152.3772427,0.016666667
+19863,2022,September,4,Snapshot,Outside,ADC,2,,30,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,565.8086886,0.016666667
+19870,2022,September,4,Snapshot,Outside,ADC,2,,10,7,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,96.62689852,0.116666667
+19893,2022,September,4,Snapshot,Outside,ADC,3,,20,1,Holacanthus_tricolor,Angelfish,Omnivore,0.0331,2.95,227.9641114,0.016666667
+19872,2022,September,4,Snapshot,Outside,ADC,3,,10,2,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,57.6373118,0.033333333
+19873,2022,September,4,Snapshot,Outside,ADC,3,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+19892,2022,September,4,Snapshot,Outside,ADC,3,,10,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,19.49879175,0.016666667
+19885,2022,September,4,Snapshot,Outside,ADC,3,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+19894,2022,September,4,Snapshot,Outside,ADC,3,,80,1,Epinephelus_striatus,Grouper,Carnivore,0.0091,3.16,9393.030904,0.016666667
+19895,2022,September,4,Snapshot,Outside,ADC,3,,60,1,Mycteroperca_tigris,Grouper,Carnivore,0.0135,3.12,4766.127649,0.016666667
+19874,2022,September,4,Snapshot,Outside,ADC,3,,5,5,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,11.33150876,0.083333333
+19875,2022,September,4,Snapshot,Outside,ADC,3,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+19876,2022,September,4,Snapshot,Outside,ADC,3,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+19877,2022,September,4,Snapshot,Outside,ADC,3,,30,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,525.8931764,0.016666667
+19878,2022,September,4,Snapshot,Outside,ADC,3,,5,6,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,11.17101476,0.1
+19879,2022,September,4,Snapshot,Outside,ADC,3,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+19880,2022,September,4,Snapshot,Outside,ADC,3,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+19881,2022,September,4,Snapshot,Outside,ADC,3,,5,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,6.118821088,0.05
+19882,2022,September,4,Snapshot,Outside,ADC,3,,10,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,49.63389318,0.05
+19883,2022,September,4,Snapshot,Outside,ADC,3,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+19884,2022,September,4,Snapshot,Outside,ADC,3,,30,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,913.2575513,0.033333333
+19887,2022,September,4,Snapshot,Outside,ADC,3,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+19888,2022,September,4,Snapshot,Outside,ADC,3,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+19889,2022,September,4,Snapshot,Outside,ADC,3,,20,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,304.7544855,0.033333333
+19886,2022,September,4,Snapshot,Outside,ADC,3,,30,3,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,1697.426066,0.05
+19890,2022,September,4,Snapshot,Outside,ADC,3,,10,8,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,110.4307412,0.133333333
+19891,2022,September,4,Snapshot,Outside,ADC,3,,20,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,486.7367946,0.066666667
+20493,2022,September,4,snapshot,Outside,JLR,1,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+20494,2022,September,4,snapshot,Outside,JLR,1,,10,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,19.49879175,0.016666667
+20480,2022,September,4,snapshot,Outside,JLR,1,,10,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,18.17661231,0.016666667
+20492,2022,September,4,snapshot,Outside,JLR,1,,5,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,3.886936051,0.033333333
+20481,2022,September,4,snapshot,Outside,JLR,1,,10,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,74.56051734,0.066666667
+20482,2022,September,4,snapshot,Outside,JLR,1,,10,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,15.84777052,0.016666667
+20483,2022,September,4,snapshot,Outside,JLR,1,,5,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,7.447343176,0.066666667
+20484,2022,September,4,snapshot,Outside,JLR,1,,10,5,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,82.63344636,0.083333333
+20485,2022,September,4,snapshot,Outside,JLR,1,,20,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,440.1002374,0.05
+20486,2022,September,4,snapshot,Outside,JLR,1,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+20488,2022,September,4,snapshot,Outside,JLR,1,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+20489,2022,September,4,snapshot,Outside,JLR,1,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+20490,2022,September,4,snapshot,Outside,JLR,1,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+20491,2022,September,4,snapshot,Outside,JLR,1,,10,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,40.82847126,0.033333333
+20487,2022,September,4,snapshot,Outside,JLR,1,,20,2,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,343.5510706,0.033333333
+20495,2022,September,4,snapshot,Outside,JLR,1,,30,1,Balistes_vetula,Triggerfish,Carnivore,0.0398,2.88,714.4836347,0.016666667
+20496,2022,September,4,snapshot,Outside,JLR,2,,5,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,7.94255383,0.033333333
+20511,2022,September,4,snapshot,Outside,JLR,2,,5,2,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,5.011744349,0.033333333
+20504,2022,September,4,snapshot,Outside,JLR,2,,5,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,1.641305401,0.016666667
+20505,2022,September,4,snapshot,Outside,JLR,2,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20510,2022,September,4,snapshot,Outside,JLR,2,,10,5,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,77.20174046,0.083333333
+20497,2022,September,4,snapshot,Outside,JLR,2,,10,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,74.56051734,0.066666667
+20498,2022,September,4,snapshot,Outside,JLR,2,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+20499,2022,September,4,snapshot,Outside,JLR,2,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20500,2022,September,4,snapshot,Outside,JLR,2,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20501,2022,September,4,snapshot,Outside,JLR,2,,20,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,333.4118308,0.033333333
+20502,2022,September,4,snapshot,Outside,JLR,2,,5,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,4.079214059,0.033333333
+20503,2022,September,4,snapshot,Outside,JLR,2,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20506,2022,September,4,snapshot,Outside,JLR,2,,10,5,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,144.382652,0.083333333
+20507,2022,September,4,snapshot,Outside,JLR,2,,5,1,Canthidermis_sufflamen,Triggerfish,Carnivore,0.0427,2.84,4.125747901,0.016666667
+20508,2022,September,4,snapshot,Outside,JLR,2,,10,3,Canthidermis_sufflamen,Triggerfish,Carnivore,0.0427,2.84,88.62354737,0.05
+20509,2022,September,4,snapshot,Outside,JLR,2,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20529,2022,September,4,snapshot,Outside,JLR,3,,30,1,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,412.6259034,0.016666667
+20520,2022,September,4,snapshot,Outside,JLR,3,,40,1,Epinephelus_striatus,Grouper,Carnivore,0.0091,3.16,1050.874769,0.016666667
+20528,2022,September,4,snapshot,Outside,JLR,3,,40,1,Mycteroperca_tigris,Grouper,Carnivore,0.0135,3.12,1345.119725,0.016666667
+20526,2022,September,4,snapshot,Outside,JLR,3,,5,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,3.886936051,0.033333333
+20527,2022,September,4,snapshot,Outside,JLR,3,,10,4,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,61.76139236,0.066666667
+20512,2022,September,4,snapshot,Outside,JLR,3,,5,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2.266301752,0.016666667
+20513,2022,September,4,snapshot,Outside,JLR,3,,10,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,15.84777052,0.016666667
+20514,2022,September,4,snapshot,Outside,JLR,3,,20,2,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,258.8922539,0.033333333
+20515,2022,September,4,snapshot,Outside,JLR,3,,10,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,49.58006782,0.05
+20516,2022,September,4,snapshot,Outside,JLR,3,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20517,2022,September,4,snapshot,Outside,JLR,3,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20518,2022,September,4,snapshot,Outside,JLR,3,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+20519,2022,September,4,snapshot,Outside,JLR,3,,10,3,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,49.63389318,0.05
+20521,2022,September,4,snapshot,Outside,JLR,3,,30,2,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,982.8,0.033333333
+20523,2022,September,4,snapshot,Outside,JLR,3,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+20524,2022,September,4,snapshot,Outside,JLR,3,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+20525,2022,September,4,snapshot,Outside,JLR,3,,10,1,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,20.41423563,0.016666667
+20522,2022,September,4,snapshot,Outside,JLR,3,,20,2,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,343.5510706,0.033333333
+20829,2022,September,4,Snapshot,Outside,VEM,1,,10,1,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,28.8186559,0.016666667
+20830,2022,September,4,Snapshot,Outside,VEM,1,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+20853,2022,September,4,Snapshot,Outside,VEM,1,,40,1,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,986.5539963,0.016666667
+20854,2022,September,4,Snapshot,Outside,VEM,1,,10,4,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,77.99516698,0.066666667
+20855,2022,September,4,Snapshot,Outside,VEM,1,,10,2,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,47.97943007,0.033333333
+20831,2022,September,4,Snapshot,Outside,VEM,1,,30,1,Haemulon_sciurus,Grunt,Carnivore,0.0245,2.92,503.9183208,0.016666667
+20832,2022,September,4,Snapshot,Outside,VEM,1,,20,3,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,433.2253747,0.05
+20856,2022,September,4,Snapshot,Outside,VEM,1,,20,2,Haemulon_plumierii,Grunt,Carnivore,0.02,2.96,283.8629936,0.033333333
+20857,2022,September,4,Snapshot,Outside,VEM,1,,30,1,Haemulon_plumierii,Grunt,Carnivore,0.02,2.96,471.3124474,0.016666667
+20833,2022,September,4,Snapshot,Outside,VEM,1,,5,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,4.532603504,0.033333333
+20834,2022,September,4,Snapshot,Outside,VEM,1,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+20835,2022,September,4,Snapshot,Outside,VEM,1,,5,4,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,7.760814062,0.066666667
+20836,2022,September,4,Snapshot,Outside,VEM,1,,30,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,442.2273269,0.016666667
+20837,2022,September,4,Snapshot,Outside,VEM,1,,5,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1.861835794,0.016666667
+20838,2022,September,4,Snapshot,Outside,VEM,1,,5,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,11.48088131,0.066666667
+20839,2022,September,4,Snapshot,Outside,VEM,1,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+20840,2022,September,4,Snapshot,Outside,VEM,1,,30,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1093.776014,0.033333333
+20841,2022,September,4,Snapshot,Outside,VEM,1,,5,4,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,8.158428117,0.066666667
+20842,2022,September,4,Snapshot,Outside,VEM,1,,20,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,145.6,0.016666667
+20843,2022,September,4,Snapshot,Outside,VEM,1,,40,1,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,1164.8,0.016666667
+20844,2022,September,4,Snapshot,Outside,VEM,1,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20846,2022,September,4,Snapshot,Outside,VEM,1,,5,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,11.21057214,0.05
+20847,2022,September,4,Snapshot,Outside,VEM,1,,10,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,115.5061216,0.066666667
+20848,2022,September,4,Snapshot,Outside,VEM,1,,20,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,446.2862362,0.033333333
+20845,2022,September,4,Snapshot,Outside,VEM,1,,20,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,171.7755353,0.016666667
+20849,2022,September,4,Snapshot,Outside,VEM,1,,5,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,2.360128783,0.016666667
+20850,2022,September,4,Snapshot,Outside,VEM,1,,10,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,19.95758961,0.016666667
+20851,2022,September,4,Snapshot,Outside,VEM,1,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20852,2022,September,4,Snapshot,Outside,VEM,1,,20,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,121.6841986,0.016666667
+20858,2022,September,4,Snapshot,Outside,VEM,2,,5,1,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,3.971276915,0.016666667
+20859,2022,September,4,Snapshot,Outside,VEM,2,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+20877,2022,September,4,Snapshot,Outside,VEM,2,,20,2,Kyphosus_spp.,Chub,Carnivore,0.0138,3.03,241.5627521,0.033333333
+20860,2022,September,4,Snapshot,Outside,VEM,2,,20,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,125.9303867,0.016666667
+20861,2022,September,4,Snapshot,Outside,VEM,2,,30,1,Haemulon_carbonarium,Grunt,Carnivore,0.01622,2.99,423.2952563,0.016666667
+20862,2022,September,4,Snapshot,Outside,VEM,2,,10,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,18.17661231,0.016666667
+20879,2022,September,4,Snapshot,Outside,VEM,2,,30,1,Haemulon_plumierii,Grunt,Carnivore,0.02,2.96,471.3124474,0.016666667
+20863,2022,September,4,Snapshot,Outside,VEM,2,,10,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,37.28025867,0.033333333
+20864,2022,September,4,Snapshot,Outside,VEM,2,,5,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2.266301752,0.016666667
+20865,2022,September,4,Snapshot,Outside,VEM,2,,10,7,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,110.9343937,0.116666667
+20866,2022,September,4,Snapshot,Outside,VEM,2,,20,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,129.446127,0.016666667
+20867,2022,September,4,Snapshot,Outside,VEM,2,,30,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,442.2273269,0.016666667
+20868,2022,September,4,Snapshot,Outside,VEM,2,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20869,2022,September,4,Snapshot,Outside,VEM,2,,10,2,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,32.48027562,0.033333333
+20870,2022,September,4,Snapshot,Outside,VEM,2,,20,5,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,833.529577,0.083333333
+20871,2022,September,4,Snapshot,Outside,VEM,2,,10,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,33.08926212,0.033333333
+20872,2022,September,4,Snapshot,Outside,VEM,2,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20878,2022,September,4,Snapshot,Outside,VEM,2,,30,1,Diodon_hystrix,Porcupinefish,Carnivore,0.0871,2.76,1039.615673,0.016666667
+20873,2022,September,4,Snapshot,Outside,VEM,2,,20,10,Lutjanus_apodus,Snapper,Carnivore,0.0182,3,1456,0.166666667
+20875,2022,September,4,Snapshot,Outside,VEM,2,,10,10,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,288.765304,0.166666667
+20874,2022,September,4,Snapshot,Outside,VEM,2,,10,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,22.38376426,0.016666667
+20876,2022,September,4,Snapshot,Outside,VEM,2,,5,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,3.131812905,0.033333333
+20898,2022,September,4,Snapshot,Outside,VEM,3,,40,1,Pomacanthus_paru,Angelfish,Omnivore,0.049,2.96,2705.787302,0.016666667
+20896,2022,September,4,Snapshot,Outside,VEM,3,,5,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,2.505872175,0.016666667
+20897,2022,September,4,Snapshot,Outside,VEM,3,,10,1,Stegastes_planifrons,Damselfish,Herbivore,0.02138,2.96,19.49879175,0.016666667
+20880,2022,September,4,Snapshot,Outside,VEM,3,,20,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,144.4084582,0.016666667
+20894,2022,September,4,Snapshot,Outside,VEM,3,,10,3,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,46.32104427,0.05
+20895,2022,September,4,Snapshot,Outside,VEM,3,,20,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,122.6695505,0.016666667
+20881,2022,September,4,Snapshot,Outside,VEM,3,,5,2,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,4.532603504,0.033333333
+20882,2022,September,4,Snapshot,Outside,VEM,3,,10,7,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,130.4809053,0.116666667
+20883,2022,September,4,Snapshot,Outside,VEM,3,,10,2,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,32.48027562,0.033333333
+20884,2022,September,4,Snapshot,Outside,VEM,3,,20,1,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,139.2459899,0.016666667
+20885,2022,September,4,Snapshot,Outside,VEM,3,,5,5,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,14.35110164,0.083333333
+20886,2022,September,4,Snapshot,Outside,VEM,3,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20887,2022,September,4,Snapshot,Outside,VEM,3,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+20888,2022,September,4,Snapshot,Outside,VEM,3,,5,2,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,3.164437621,0.033333333
+20889,2022,September,4,Snapshot,Outside,VEM,3,,5,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,14.94742952,0.066666667
+20890,2022,September,4,Snapshot,Outside,VEM,3,,10,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,115.5061216,0.066666667
+20891,2022,September,4,Snapshot,Outside,VEM,3,,10,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,61.2427069,0.05
+20892,2022,September,4,Snapshot,Outside,VEM,3,,5,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,6.263625809,0.066666667
+20893,2022,September,4,Snapshot,Outside,VEM,3,,10,5,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,69.01921323,0.083333333
+19645,2022,September,3,Westpoint,Inside,ADC,1,,20,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,661.5025752,0.033333333
+19662,2022,September,3,Westpoint,Inside,ADC,1,,20,2,Chaetodon_sedentarius,Butterflyfish,Corallivore,0.02344,3.02,398.197189,0.033333333
+19663,2022,September,3,Westpoint,Inside,ADC,1,,20,1,Cantherhines_macrocerus,Filefish,Carnivore,0.0288,2.94,192.4955415,0.016666667
+19664,2022,September,3,Westpoint,Inside,ADC,1,,80,1,Mycteroperca_bonaci,Grouper,Carnivore,0.0095,3.14,8983.098555,0.016666667
+19646,2022,September,3,Westpoint,Inside,ADC,1,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+19647,2022,September,3,Westpoint,Inside,ADC,1,,20,5,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,766.566988,0.083333333
+19648,2022,September,3,Westpoint,Inside,ADC,1,,30,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2103.572705,0.066666667
+19649,2022,September,3,Westpoint,Inside,ADC,1,,5,6,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,11.17101476,0.1
+19650,2022,September,3,Westpoint,Inside,ADC,1,,10,3,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,49.58006782,0.05
+19651,2022,September,3,Westpoint,Inside,ADC,1,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+19652,2022,September,3,Westpoint,Inside,ADC,1,,30,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,1052.319964,0.033333333
+19653,2022,September,3,Westpoint,Inside,ADC,1,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+19654,2022,September,3,Westpoint,Inside,ADC,1,,20,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,134.204684,0.016666667
+19655,2022,September,3,Westpoint,Inside,ADC,1,,5,6,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,9.493312864,0.1
+19656,2022,September,3,Westpoint,Inside,ADC,1,,5,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,11.21057214,0.05
+19657,2022,September,3,Westpoint,Inside,ADC,1,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+19658,2022,September,3,Westpoint,Inside,ADC,1,,20,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,446.2862362,0.033333333
+19659,2022,September,3,Westpoint,Inside,ADC,1,,20,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,457.1317282,0.05
+19660,2022,September,3,Westpoint,Inside,ADC,1,,5,7,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,10.96134517,0.116666667
+19661,2022,September,3,Westpoint,Inside,ADC,1,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+19665,2022,September,3,Westpoint,Inside,ADC,2,,20,2,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,480.6793928,0.033333333
+19677,2022,September,3,Westpoint,Inside,ADC,2,,30,3,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,1295.272193,0.05
+19666,2022,September,3,Westpoint,Inside,ADC,2,,30,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,485.4063974,0.016666667
+19667,2022,September,3,Westpoint,Inside,ADC,2,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+19668,2022,September,3,Westpoint,Inside,ADC,2,,20,5,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,766.566988,0.083333333
+19669,2022,September,3,Westpoint,Inside,ADC,2,,30,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,525.8931764,0.016666667
+19670,2022,September,3,Westpoint,Inside,ADC,2,,30,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,442.2273269,0.016666667
+19671,2022,September,3,Westpoint,Inside,ADC,2,,5,10,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,18.61835794,0.166666667
+19672,2022,September,3,Westpoint,Inside,ADC,2,,10,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,66.10675709,0.066666667
+19673,2022,September,3,Westpoint,Inside,ADC,2,,20,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,293.4001583,0.033333333
+19674,2022,September,3,Westpoint,Inside,ADC,2,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+19675,2022,September,3,Westpoint,Inside,ADC,2,,20,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,268.409368,0.033333333
+19676,2022,September,3,Westpoint,Inside,ADC,2,,30,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,913.2575513,0.033333333
+19678,2022,September,3,Westpoint,Inside,ADC,2,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+19679,2022,September,3,Westpoint,Inside,ADC,2,,10,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,28.8765304,0.016666667
+19680,2022,September,3,Westpoint,Inside,ADC,2,,20,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,892.5724724,0.066666667
+19681,2022,September,3,Westpoint,Inside,ADC,2,,20,3,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,457.1317282,0.05
+19682,2022,September,3,Westpoint,Inside,ADC,2,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+19683,2022,September,3,Westpoint,Inside,ADC,2,,20,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,365.0525959,0.05
+19699,2022,September,3,Westpoint,Inside,ADC,3,,30,1,Holacanthus_tricolor,Angelfish,Omnivore,0.0331,2.95,753.9381077,0.016666667
+19684,2022,September,3,Westpoint,Inside,ADC,3,,20,2,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,480.6793928,0.033333333
+19698,2022,September,3,Westpoint,Inside,ADC,3,,10,1,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,23.98971504,0.016666667
+19692,2022,September,3,Westpoint,Inside,ADC,3,,20,2,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,244.6954914,0.033333333
+19685,2022,September,3,Westpoint,Inside,ADC,3,,30,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,970.8127949,0.033333333
+19697,2022,September,3,Westpoint,Inside,ADC,3,,30,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,412.3344666,0.016666667
+19686,2022,September,3,Westpoint,Inside,ADC,3,,30,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,525.8931764,0.016666667
+19687,2022,September,3,Westpoint,Inside,ADC,3,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+19688,2022,September,3,Westpoint,Inside,ADC,3,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+19689,2022,September,3,Westpoint,Inside,ADC,3,,30,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,526.1599821,0.016666667
+19690,2022,September,3,Westpoint,Inside,ADC,3,,40,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,1270.483116,0.016666667
+19691,2022,September,3,Westpoint,Inside,ADC,3,,5,4,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,6.328875243,0.066666667
+19693,2022,September,3,Westpoint,Inside,ADC,3,,10,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,57.75306079,0.033333333
+19694,2022,September,3,Westpoint,Inside,ADC,3,,20,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,669.4293543,0.05
+19695,2022,September,3,Westpoint,Inside,ADC,3,,5,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,3.131812905,0.033333333
+19696,2022,September,3,Westpoint,Inside,ADC,3,,10,4,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,55.21537058,0.066666667
+20322,2022,September,3,Westpoint,Inside,JLR,1,,10,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,14.17074507,0.016666667
+20316,2022,September,3,Westpoint,Inside,JLR,1,,5,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2.266301752,0.016666667
+20317,2022,September,3,Westpoint,Inside,JLR,1,,10,8,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,149.1210347,0.133333333
+20318,2022,September,3,Westpoint,Inside,JLR,1,,20,4,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,613.2535904,0.066666667
+20319,2022,September,3,Westpoint,Inside,JLR,1,,10,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,33.05337854,0.033333333
+20320,2022,September,3,Westpoint,Inside,JLR,1,,5,3,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,8.610660986,0.05
+20321,2022,September,3,Westpoint,Inside,JLR,1,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20323,2022,September,3,Westpoint,Inside,JLR,1,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20325,2022,September,3,Westpoint,Inside,JLR,1,,5,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,11.21057214,0.05
+20326,2022,September,3,Westpoint,Inside,JLR,1,,10,6,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,173.2591824,0.1
+20324,2022,September,3,Westpoint,Inside,JLR,1,,5,1,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,2.91678848,0.016666667
+20327,2022,September,3,Westpoint,Inside,JLR,1,,10,1,Halichoeres_bivittatus,Wrasse,Carnivore,0.0112,3.05,12.56660669,0.016666667
+20328,2022,September,3,Westpoint,Inside,JLR,1,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20348,2022,September,3,Westpoint,Inside,JLR,2,,10,1,Holacanthus_tricolor,Angelfish,Omnivore,0.0331,2.95,29.50040605,0.016666667
+20329,2022,September,3,Westpoint,Inside,JLR,2,,10,2,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,72.48461777,0.033333333
+20330,2022,September,3,Westpoint,Inside,JLR,2,,10,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,18.17661231,0.016666667
+20345,2022,September,3,Westpoint,Inside,JLR,2,,5,4,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,7.773872103,0.066666667
+20346,2022,September,3,Westpoint,Inside,JLR,2,,20,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,245.3391011,0.033333333
+20347,2022,September,3,Westpoint,Inside,JLR,2,,30,2,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,824.6689333,0.033333333
+20331,2022,September,3,Westpoint,Inside,JLR,2,,5,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2.266301752,0.016666667
+20332,2022,September,3,Westpoint,Inside,JLR,2,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+20333,2022,September,3,Westpoint,Inside,JLR,2,,10,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,66.10675709,0.066666667
+20334,2022,September,3,Westpoint,Inside,JLR,2,,10,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,21.87424758,0.016666667
+20335,2022,September,3,Westpoint,Inside,JLR,2,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20336,2022,September,3,Westpoint,Inside,JLR,2,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20337,2022,September,3,Westpoint,Inside,JLR,2,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+20338,2022,September,3,Westpoint,Inside,JLR,2,,30,1,Lutjanus_analis,Snapper,Carnivore,0.0151,3.03,451.4964595,0.016666667
+20339,2022,September,3,Westpoint,Inside,JLR,2,,40,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,870.100447,0.016666667
+20342,2022,September,3,Westpoint,Inside,JLR,2,,5,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,3.73685738,0.016666667
+20343,2022,September,3,Westpoint,Inside,JLR,2,,10,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,86.62959119,0.05
+20340,2022,September,3,Westpoint,Inside,JLR,2,,10,3,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,67.15129279,0.05
+20341,2022,September,3,Westpoint,Inside,JLR,2,,20,2,Melichthys_niger,Triggerfish,Omnivore,0.0257,2.94,343.5510706,0.033333333
+20344,2022,September,3,Westpoint,Inside,JLR,2,,10,1,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,13.80384265,0.016666667
+20363,2022,September,3,Westpoint,Inside,JLR,3,,5,1,Holacanthus_tricolor,Angelfish,Omnivore,0.0331,2.95,3.817591953,0.016666667
+20362,2022,September,3,Westpoint,Inside,JLR,3,,10,1,Microspathodon_chrysurus,Damselfish,Herbivore,0.02291,3.02,23.98971504,0.016666667
+20349,2022,September,3,Westpoint,Inside,JLR,3,,10,2,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,36.35322462,0.033333333
+20350,2022,September,3,Westpoint,Inside,JLR,3,,5,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,2.266301752,0.016666667
+20351,2022,September,3,Westpoint,Inside,JLR,3,,10,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,18.64012933,0.016666667
+20352,2022,September,3,Westpoint,Inside,JLR,3,,20,1,Scarus_taeniopterus,Parrotfish,Herbivore,0.017,3.04,153.3133976,0.016666667
+20353,2022,September,3,Westpoint,Inside,JLR,3,,5,2,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,3.723671588,0.033333333
+20354,2022,September,3,Westpoint,Inside,JLR,3,,10,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,16.52668927,0.016666667
+20355,2022,September,3,Westpoint,Inside,JLR,3,,5,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,2.870220329,0.016666667
+20356,2022,September,3,Westpoint,Inside,JLR,3,,20,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,166.7059154,0.016666667
+20357,2022,September,3,Westpoint,Inside,JLR,3,,5,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,4.079214059,0.033333333
+20358,2022,September,3,Westpoint,Inside,JLR,3,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20359,2022,September,3,Westpoint,Inside,JLR,3,,5,3,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,11.21057214,0.05
+20360,2022,September,3,Westpoint,Inside,JLR,3,,10,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,115.5061216,0.066666667
+20361,2022,September,3,Westpoint,Inside,JLR,3,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+20607,2022,September,3,Westpoint,Inside,VEM,1,,10,2,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,57.6373118,0.033333333
+20620,2022,September,3,Westpoint,Inside,VEM,1,,10,1,Cantherhines_pullus,Filefish,Omnivore,0.02239,2.87,16.5979363,0.016666667
+20619,2022,September,3,Westpoint,Inside,VEM,1,,30,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,412.3344666,0.016666667
+20608,2022,September,3,Westpoint,Inside,VEM,1,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20609,2022,September,3,Westpoint,Inside,VEM,1,,5,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,2.039607029,0.016666667
+20610,2022,September,3,Westpoint,Inside,VEM,1,,10,1,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,16.54463106,0.016666667
+20611,2022,September,3,Westpoint,Inside,VEM,1,,20,6,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,805.2281041,0.1
+20612,2022,September,3,Westpoint,Inside,VEM,1,,5,3,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,4.746656432,0.05
+20613,2022,September,3,Westpoint,Inside,VEM,1,,5,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,14.94742952,0.066666667
+20614,2022,September,3,Westpoint,Inside,VEM,1,,10,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,115.5061216,0.066666667
+20615,2022,September,3,Westpoint,Inside,VEM,1,,5,4,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,10.939718,0.066666667
+20616,2022,September,3,Westpoint,Inside,VEM,1,,10,12,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,244.9708276,0.2
+20617,2022,September,3,Westpoint,Inside,VEM,1,,10,2,Acanthurus_chirurgus,Surgeonfish,Herbivore,0.0209,2.93,35.57757,0.033333333
+20618,2022,September,3,Westpoint,Inside,VEM,1,,10,3,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,41.41152794,0.05
+20621,2022,September,3,Westpoint,Inside,VEM,2,,10,1,Chaetodon_striatus,Butterflyfish,Corallivore,0.0251,3.06,28.8186559,0.016666667
+20622,2022,September,3,Westpoint,Inside,VEM,2,,10,3,Chaetodon_capistratus,Butterflyfish,Corallivore,0.0234,3.19,108.7269266,0.05
+20629,2022,September,3,Westpoint,Inside,VEM,2,,20,1,Cephalopholis_cruentata,Grouper,Carnivore,0.011,3.11,122.3477457,0.016666667
+20623,2022,September,3,Westpoint,Inside,VEM,2,,10,1,Haemulon_flavolineatum,Grunt,Carnivore,0.0186,2.99,18.17661231,0.016666667
+20636,2022,September,3,Westpoint,Inside,VEM,2,,10,1,Caranx_ruber,Jacks,Carnivore,0.0158,2.99,15.44034809,0.016666667
+20624,2022,September,3,Westpoint,Inside,VEM,2,,20,4,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,586.8003165,0.066666667
+20625,2022,September,3,Westpoint,Inside,VEM,2,,20,2,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,333.4118308,0.033333333
+20626,2022,September,3,Westpoint,Inside,VEM,2,,30,1,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,546.8880071,0.016666667
+20627,2022,September,3,Westpoint,Inside,VEM,2,,20,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,268.409368,0.033333333
+20628,2022,September,3,Westpoint,Inside,VEM,2,,5,4,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,6.328875243,0.066666667
+20630,2022,September,3,Westpoint,Inside,VEM,2,,20,1,Ocyurus_chrysurus,Snapper,Carnivore,0.0295,2.79,125.8043632,0.016666667
+20631,2022,September,3,Westpoint,Inside,VEM,2,,10,4,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,115.5061216,0.066666667
+20632,2022,September,3,Westpoint,Inside,VEM,2,,20,1,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,223.1431181,0.016666667
+20633,2022,September,3,Westpoint,Inside,VEM,2,,10,2,Acanthurus_chirurgus,Surgeonfish,Herbivore,0.0209,2.93,35.57757,0.033333333
+20634,2022,September,3,Westpoint,Inside,VEM,2,,10,1,Bodianus_rufus,Wrasse,Carnivore,0.0166,3.08,19.95758961,0.016666667
+20635,2022,September,3,Westpoint,Inside,VEM,2,,10,2,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,27.60768529,0.033333333
+20637,2022,September,3,Westpoint,Inside,VEM,3,,5,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,1.940203515,0.016666667
+20638,2022,September,3,Westpoint,Inside,VEM,3,,10,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,15.84777052,0.016666667
+20639,2022,September,3,Westpoint,Inside,VEM,3,,20,1,Scarus_vetula,Parrotfish,Herbivore,0.01479,3.03,129.446127,0.016666667
+20640,2022,September,3,Westpoint,Inside,VEM,3,,20,1,Sparisoma_aurofrenatum,Parrotfish,Herbivore,0.0117,3.15,146.7000791,0.016666667
+20641,2022,September,3,Westpoint,Inside,VEM,3,,10,1,Sparisoma_chrysopterum,Parrotfish,Herbivore,0.0129,3.1,16.24013781,0.016666667
+20642,2022,September,3,Westpoint,Inside,VEM,3,,20,4,Sparisoma_viride,Parrotfish,Herbivore,0.0257,2.93,666.8236616,0.066666667
+20643,2022,September,3,Westpoint,Inside,VEM,3,,10,7,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,115.8124174,0.116666667
+20644,2022,September,3,Westpoint,Inside,VEM,3,,20,2,Scarus_iseri,Parrotfish,Herbivore,0.0158,3.02,268.409368,0.033333333
+20645,2022,September,3,Westpoint,Inside,VEM,3,,5,5,Scarus_/_Sparisoma,Parrotfish,Herbivore,0.0121,3.028,7.911094053,0.083333333
+20646,2022,September,3,Westpoint,Inside,VEM,3,,5,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,7.47371476,0.033333333
+20647,2022,September,3,Westpoint,Inside,VEM,3,,10,7,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,202.1357128,0.116666667
+20648,2022,September,3,Westpoint,Inside,VEM,3,,20,2,Acanthurus_coeruleus,Surgeonfish,Herbivore,0.0324,2.95,446.2862362,0.033333333
+20649,2022,September,3,Westpoint,Inside,VEM,3,,10,3,Acanthurus_chirurgus,Surgeonfish,Herbivore,0.0209,2.93,53.366355,0.05
+20650,2022,September,3,Westpoint,Inside,VEM,3,,20,1,Acanthurus_chirurgus,Surgeonfish,Herbivore,0.0209,2.93,135.5701802,0.016666667
+20651,2022,September,3,Westpoint,Inside,VEM,3,,10,2,Acanthurus_tractus,Surgeonfish,Herbivore,0.0257,2.9,40.82847126,0.033333333
+20652,2022,September,3,Westpoint,Inside,VEM,3,,10,5,Halichoeres_garnoti,Wrasse,Omnivore,0.01,3.14,69.01921323,0.083333333
+20653,2022,September,3,Westpoint,Inside,VEM,3,,5,1,Halichoeres_radiatus,Wrasse,Carnivore,0.01,3.08,1.421764327,0.016666667
