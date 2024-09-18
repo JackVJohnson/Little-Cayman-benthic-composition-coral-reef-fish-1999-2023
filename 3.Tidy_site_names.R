@@ -48,10 +48,6 @@ coral_df$coral_SA <- 2*pi*(coral_df$length/2)*coral_df$height
 
 table(coral_df$Transect)
 
-# Install and load the stringr package if you haven't already
-# install.packages("stringr")
-
-
 coral_df$Transect <- as.numeric(
   str_replace_all(
     coral_df$Transect,
@@ -440,6 +436,41 @@ fish_TIDY <- fish_TIDY %>%
                                   
 
 table(fish_TIDY$fish_spp)
+
+# change fishbase foodweb column to NA
+fish_TIDY$foodweb <- NA
+
+# read and combine data with Parravicini and use foodwebs derived from their study
+guild_df <- read.csv(file=file.path(tidy_wd, "Parravicini_fish_trophic_guilds.csv"))
+
+# make sure species columns match
+names(guild_df)[names(guild_df) == "species"] <- "fish_spp"
+
+# make sure value formats match (remove the underscore)
+guild_df$fish_spp <- gsub("_", " ", guild_df$fish_spp)
+
+# as character
+fish_TIDY$fish_spp <- as.character(fish_TIDY$fish_spp)
+
+# join trophic guild based on species
+fish_TIDY <- left_join(fish_TIDY, guild_df %>% select(fish_spp, trophic_guild_predicted_text), by = "fish_spp")
+fish_TIDY$foodweb <- fish_TIDY$trophic_guild_predicted_text
+fish_TIDY <- subset(fish_TIDY, select = -trophic_guild_predicted_text)
+
+table(fish_TIDY$foodweb)
+# crustacivore and piscivore = carnivore 
+# group all invertivores
+# Herbivores, Microvores, Detritirovres = HMD
+# drop planktiovre because of low n
+fish_TIDY$foodweb <- gsub("piscivore|crustacivore", "carnivore", fish_TIDY$foodweb)
+fish_TIDY$foodweb <- gsub("macroinvertivore|microinvertivore|sessile invertivores", "invertivore", fish_TIDY$foodweb)
+fish_TIDY$foodweb <- gsub("Herbivores Microvores Detritivores", "HMD", fish_TIDY$foodweb)
+
+fish_TIDY <- subset(fish_TIDY, !foodweb=="planktivore")
+
+
+#testdf <- subset(testdf, select = -trophic_guild_predicted_text)
+
 
 tidy_completeWD <- "C:/Users/jackv/OneDrive - Central Caribbean Marine Institute, Inc/Projects/AGGRA/Data_tidy/TIDY_COMPLETE"
 

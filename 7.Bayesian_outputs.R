@@ -140,7 +140,7 @@ coeffs_algae <- rbind(coeffs_algae_all, coeffs_algae_corallivore, coeffs_algae_h
 predictor_sequence <- rep(c("Richness", "Biomass", "Diversity"), length.out = nrow(coeffs_algae))
 coeffs_algae$predictor <- predictor_sequence
 
-p_algae <- ggplot(coeffs_algae, aes(Estimate, predictor, fill = group, color = group)) +
+p_algae <- ggplot(subset(coeffs_algae, predictor %in% c("Richness", "Biomass", "Diversity")), aes(Estimate, predictor, fill = group, color = group)) +
   geom_vline(aes(xintercept = 0), size = .25, linetype = "dashed") +         
   geom_errorbarh(aes(xmax = Q95, xmin =Q5), linewidth = 1.3, height = 0, color = "light grey", position = position_dodge(width = 0.5)) +
   geom_errorbarh(aes(xmax = Q80, xmin =Q20), linewidth = 2, height = 0, color = "Dark grey", position = position_dodge(width = 0.5)) +
@@ -151,6 +151,7 @@ p_algae <- ggplot(coeffs_algae, aes(Estimate, predictor, fill = group, color = g
   my_theme
 
 p_algae
+
 
 # coral 
 
@@ -230,7 +231,6 @@ p_recruits
 
 # coral SA
 
-
 coeffs_coralSA_all  <- posterior_summary(m_coralSA_all, digits = 0.6, probs=c(0.95, 0.05,0.8, 0.2,0.5))
 coeffs_coralSA_all <- as.data.frame(coeffs_coralSA_all[2:4,])
 coeffs_coralSA_all <- rownames_to_column(coeffs_coralSA_all)
@@ -273,6 +273,231 @@ png(file=file.path(output_directory, "Fish_predict_benthic.png"), height = 4000,
 (p_coralCov + p_coralSA)/(p_algae + p_recruits) + plot_layout(guides="collect") + plot_annotation(tag_levels = "A")  &
   theme(plot.tag = element_text(size = 30, face = "bold"))
 dev.off()
+
+###########################################################################################
+############################## plot random effects ########################################
+
+mcmc_plot(m_algae_all, var = c("sd_Site_Name__Intercept", "sd_Year__Intercept"), type = "hist")
+mcmc_plot(m_algae_all)
+get_variables(m_algae_all)
+summary(m_algae_all)
+ranef(m_algae_all)
+
+# Extract posterior samples of sd_Site_Name__Intercept
+random_algae_all <- m_algae_all %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "All fish") 
+
+random_algae_herb <- m_algae_herb %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Herbivores") 
+
+random_algae_corallivore <- m_algae_corallivore %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Corallivores")
+
+random_algae_parrot <- m_algae_parrot %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Parrotfish") 
+
+random_plot_algae <- rbind(random_algae_all, random_algae_corallivore, random_algae_herb, random_algae_parrot)
+random_plot_algae$Variable <- gsub("sd_Site_Name__Intercept", "Site", random_plot_algae$Variable)
+random_plot_algae$Variable <- gsub("sd_Year__Intercept", "Year", random_plot_algae$Variable)
+table(random_plot_algae$group)
+table(random_plot_algae$Variable)
+
+library(ggridges)
+
+p_sigma_algae <- ggplot(random_plot_algae, aes(x = Value, y = group, fill = Variable)) +
+  geom_density_ridges(alpha = 0.6, scale = 1) +
+  geom_vline(aes(xintercept = 0), size = .25, linetype = "dashed") +
+  labs(fill = "Variable", x = expression(paste("Intercept Estimate (", sigma, ")")), y = "Group", title = "Algae Cover") + 
+  scale_fill_fish_d(option = "Gramma_loreto") +
+  theme_classic() +
+  xlim(c(-0.01, 1.5)) +
+  my_theme
+
+p_sigma_algae
+ 
+# coral cover
+
+
+
+summary(m_coralCov_all)
+# Extract posterior samples of sd_Site_Name__Intercept
+random_coralCov_all <- m_coralCov_all %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "All fish") 
+
+random_coralCov_herb <- m_coralCov_herb %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Herbivores") 
+
+random_coralCov_corallivore <- m_coralCov_corallivore %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Corallivores")
+
+random_coralCov_parrot <- m_coralCov_parrot %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Parrotfish") 
+
+random_plot_coralCov <- rbind(random_coralCov_all, random_coralCov_corallivore, random_coralCov_herb, random_coralCov_parrot)
+random_plot_coralCov$Variable <- gsub("sd_Site_Name__Intercept", "Site", random_plot_coralCov$Variable)
+random_plot_coralCov$Variable <- gsub("sd_Year__Intercept", "Year", random_plot_coralCov$Variable)
+table(random_plot_coralCov$group)
+table(random_plot_coralCov$Variable)
+
+
+p_sigma_coralCov <- ggplot(random_plot_coralCov, aes(x = Value, y = group, fill = Variable)) +
+  geom_density_ridges(alpha = 0.6, scale = 1) +
+  geom_vline(aes(xintercept = 0), size = .25, linetype = "dashed") +
+  labs(fill = "Variable", x = expression(paste("Intercept Estimate (", sigma, ")")), y = "Group", title = "Coral Cover") + 
+  scale_fill_fish_d(option = "Gramma_loreto") +
+  theme_classic() +
+  xlim(c(-0.01, 1.5)) +
+  my_theme
+p_sigma_coralCov
+# recruits
+
+# Extract posterior samples of sd_Site_Name__Intercept
+random_recruits_all <- m_recruits_all %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "All fish") 
+
+random_recruits_herb <- m_recruits_herb %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Herbivores") 
+
+random_recruits_corallivore <- m_recruits_corallivore %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Corallivores")
+
+random_recruits_parrot <- m_recruits_parrot %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Parrotfish") 
+
+random_plot_recruits <- rbind(random_recruits_all, random_recruits_corallivore, random_recruits_herb, random_recruits_parrot)
+random_plot_recruits$Variable <- gsub("sd_Site_Name__Intercept", "Site", random_plot_recruits$Variable)
+random_plot_recruits$Variable <- gsub("sd_Year__Intercept", "Year", random_plot_recruits$Variable)
+table(random_plot_recruits$group)
+table(random_plot_recruits$Variable)
+
+p_sigma_recruits <- ggplot(random_plot_recruits, aes(x = Value, y = group, fill = Variable)) +
+  geom_density_ridges(alpha = 0.6, scale = 1) +
+  geom_vline(aes(xintercept = 0), size = .25, linetype = "dashed") +
+  labs(fill = "Variable", x = expression(paste("Intercept Estimate (", sigma, ")")), y = "Group", title = "Total Recruits") + 
+  scale_fill_fish_d(option = "Gramma_loreto") +
+  theme_classic() +
+  xlim(c(-0.01, 1.5)) +
+  my_theme
+p_sigma_recruits
+
+# coral surface area
+
+
+# Extract posterior samples of sd_Site_Name__Intercept
+random_coralSA_all <- m_coralSA_all %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "All fish") 
+
+random_coralSA_herb <- m_coralSA_herb %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Herbivores") 
+
+random_coralSA_corallivore <- m_coralSA_corallivore %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Corallivores")
+
+random_coralSA_parrot <- m_coralSA_parrot %>%
+  spread_draws(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  select(sd_Site_Name__Intercept, sd_Year__Intercept) %>%
+  pivot_longer(cols = everything(), 
+               names_to = "Variable", 
+               values_to = "Value") %>%
+  mutate(group = "Parrotfish") 
+
+random_plot_coralSA <- rbind(random_coralSA_all, random_coralSA_corallivore, random_coralSA_herb, random_coralSA_parrot)
+random_plot_coralSA$Variable <- gsub("sd_Site_Name__Intercept", "Site", random_plot_coralSA$Variable)
+random_plot_coralSA$Variable <- gsub("sd_Year__Intercept", "Year", random_plot_coralSA$Variable)
+table(random_plot_coralSA$group)
+table(random_plot_coralSA$Variable)
+
+
+p_sigma_coralSA <- ggplot(random_plot_coralSA, aes(x = Value, y = group, fill = Variable)) +
+  geom_density_ridges(alpha = 0.6, scale = 1) +
+  geom_vline(aes(xintercept = 0), size = .25, linetype = "dashed") +
+  labs(fill = "Variable", x = expression(paste("Intercept Estimate (", sigma, ")")), y = "Group", title = "Coral Surface Area") + 
+  scale_fill_fish_d(option = "Gramma_loreto") +
+  theme_classic() +
+  xlim(c(-0.01, 1.5)) +
+  my_theme
+p_sigma_coralSA
+
+png(file=file.path(output_directory, "Sigma_random_effects.png"), height = 4000, width = 5000, res = 400)
+(p_sigma_coralCov + p_sigma_coralSA)/(p_sigma_algae + p_sigma_recruits) + plot_layout(guides="collect") + plot_annotation(tag_levels = "A")  &
+  theme(plot.tag = element_text(size = 30, face = "bold"))
+dev.off()
+
 
 
 ############################################################################################

@@ -85,12 +85,13 @@ p1 <- ggplot() +
   geom_sf(data=lc_map, fill = "white") +
   geom_point(data = df5, aes(x = Easting, y = Northing, color = n), size = 3) +
   scale_color_viridis_c(option = "A", direction = -1) +
-  coord_sf(xlim=c(-80.133056,-79.936944), ylim=c(19.62638, 19.730000), expand = T) +
+  coord_sf(xlim=c(-80.21056,-79.936944), ylim=c(19.62638, 19.790000), expand = T) +
   #geom_point(data = site_coordinates, aes(x = Longitude, y = Latitude), shape = 16, size = 5, color = "black") +
-  annotation_scale() +
+  annotation_scale(location = "tr",
+                   pad_x = unit(0.7, "cm"), pad_y = unit(11, "cm")) +
   annotation_north_arrow(location = "tr", which_north = "true", 
-                         #pad_x = unit(34, "cm"), pad_y = unit(19.5, "cm") ,
-                         #height = unit(2, "cm"), width = unit(2, "cm") ,
+                         pad_x = unit(1.5, "cm"), pad_y = unit(9, "cm") ,
+                         height = unit(2, "cm"), width = unit(2, "cm") ,
                          style = north_arrow_fancy_orienteering) +
   theme_classic() +
   labs(x="", y="", color="Number of 
@@ -108,57 +109,40 @@ p1
 ocean <- ne_download(type = "ocean", category = "physical", scale = "medium")
 ocean <- st_as_sf(ocean)
 
-p2 <- ggplot() +
+p2 <- ggplot() + 
   geom_sf(data = ocean, fill = "#5ECFFA") +
   coord_sf(xlim=c(-92.478113,-62.031176), ylim=c(8.8,27), expand = T) +
   annotation_scale() +
-  annotation_north_arrow(location = "tr", which_north = "true", 
-                         height = unit(1, "cm"), width = unit(1, "cm") ,
-                         style = north_arrow_fancy_orienteering) +
+  #annotation_north_arrow(location = "tr", which_north = "true", 
+  #                       height = unit(1, "cm"), width = unit(1, "cm") ,
+  #                       style = north_arrow_fancy_orienteering) +
   theme_classic() +
   xlab("") + ylab("") +
-  scale_x_continuous(breaks = c(-87.5, -77.5, -67.5)) +
-  theme(panel.background = element_rect(fill = "white")) +
-  geom_rect(aes(xmin = -82.1, xmax = -79, ymin = 19, ymax = 20.5), color = "black", fill = NA, linewidth = 1) +
-  annotate("text", x=-78, y=15, label = "Caribbean Sea", size = 8) +
+  #theme(panel.background = element_rect(fill = "white")) +
+  geom_rect(aes(xmin = -80.5, xmax = -79.5, ymin = 19, ymax = 20), color = "black", fill = NA, linewidth = 1) +
+  annotate("text", x=-78, y=15, label = "Caribbean 
+Sea", size = 8) +
   theme(axis.title.x = element_text(size = 22, color = "black"), axis.title.y = element_text(size = 22, color = "black"), text=element_text(size=16)) +
   theme(axis.text.y = element_text(size=16, color="black"), axis.text.x = element_text(size=16, color="black", angle = 0, vjust = .0)) +
-  theme(panel.border= element_rect(colour = "black", linewidth =1, fill =NA))
-#theme(plot.background = element_rect(colour = "black", linewidth =2)) 
-#theme(
-#  panel.background = element_rect(fill='transparent'), #transparent panel bg
-#  plot.background = element_rect(fill='transparent'))
-
+  theme(
+    plot.background = element_blank(),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_rect(colour = "black", linewidth =1, fill =NA),
+    axis.text.x=element_blank(), 
+    axis.ticks.x=element_blank(), 
+    axis.text.y=element_blank(), 
+    axis.ticks.y=element_blank()
+  )
 p2
 
-p3 <- ggplot() +
-  geom_sf(data = lc_map, fill = "White") +
-  coord_sf(ylim=c(19,20), expand=T) +
-  annotation_scale() +
-  annotation_north_arrow(location = "tr", which_north = "true", 
-                         height = unit(1, "cm"), width = unit(1, "cm") ,
-                         style = north_arrow_fancy_orienteering) +
-  scale_x_continuous(breaks = c(-81.2, -80.7, -80.2)) +
-  scale_y_continuous(breaks = c(19.2, 19.5, 19.8)) +
-  theme_classic() +
-  xlab("") + ylab("") +
-  geom_rect(aes(xmin = -80.15, xmax = -79.95, ymin = 19.6, ymax = 19.75), color = "black", fill = NA, linewidth = 1) +
-  theme(axis.title.x = element_text(size = 22, color = "black"), axis.title.y = element_text(size = 22, color = "black"), text=element_text(size=16)) +
-  theme(axis.text.y = element_text(size=16, color="black"), axis.text.x = element_text(size=16, color="black", angle = 0, vjust = .0)) +
-  theme(legend.position = "none")  +
-  theme(panel.background = element_rect(fill = "#5ECFFA")) +
-  theme(panel.border= element_rect(colour = "black", linewidth =1, fill =NA))
 
-p3
-
-png(file=file.path(output_directory,'sites_map_FIGURE.png'),height=4000,width=4000,res=350)
-(p2 + p3 + plot_layout(widths = c(1, 1)))/(p1) + plot_layout(heights = unit(c(10,1), c('cm', 'null'))) + plot_annotation(tag_levels = 'A') &
-  theme(plot.tag = element_text(size = 30, face = "bold"))
+tiff(file=file.path(output_directory, "sites_map_FIGURE.tif"), height = 4000, width = 4000, res = 400)
+p1 + inset_element(p2, left = -.035, bottom = 0.5, right = 0.6, top = 1, align_to = "full") 
 dev.off()
 
-tiff(file=file.path(output_directory,'sites_map_FIGURE.tiff'),height=4000,width=4000,res=350)
-(p2 + p3 + plot_layout(widths = c(1, 1)))/(p1) + plot_layout(heights = unit(c(10,1), c('cm', 'null'))) + plot_annotation(tag_levels = 'A') &
-  theme(plot.tag = element_text(size = 30, face = "bold"))
+png(file=file.path(output_directory, "sites_map_FIGURE.png"), height = 4000, width = 4000, res = 400)
+p1 + inset_element(p2, left = -.035, bottom = 0.5, right = 0.6, top = 1, align_to = "full") 
 dev.off()
 
 
@@ -168,6 +152,6 @@ length(df3$Site_Name)
 sum(df3$n)
 # 1518 transects
 summary(coral_cover_df$Depth)
-# for depth, some idiots have put it in ft when it's all meant to be m. Because of this we won't be able to include depth as a random effect, but a min of 2 and a max of 54, makes sense to assume lowest is meters and highest is depth. Thus surveys took place between 2-18m 
+# for depth, some idiots have put it in ft when it's all meant to be m. Because of this we won't be able to include depth as a random effect, but a min of 2 and a max of 54, makes sense to assume lowest is meters and highest is depth. All surveys took place between 2-18m 
 
 

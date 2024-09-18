@@ -186,7 +186,7 @@ p4
 p5 <- ggplot(coral_df2, aes(Year, log1p(mean_SA))) +
   geom_boxplot() +
   geom_smooth(method="loess", color = "#952ea0", size = 1.5, aes(group=1)) +
-  ylab(expression(paste("Mean surface area (cm²)"))) +
+  ylab(expression(paste("Mean surface area (log)"))) +
   my_theme +
   theme(axis.text.x = element_blank(),
         axis.title.x = element_blank()) + 
@@ -215,10 +215,10 @@ p7
 
 fish_df2 <- fish_df %>%
   group_by(year, site, observer, mpa) %>%
-  summarise(mean_biomass = mean(biomass),
-            mean_density = mean(density), 
-            total_abundance = sum(count),
-            fish_richness = n_distinct(fish_spp),
+  summarise(mean_biomass = sum(biomass)/(length(unique(transect))),
+            mean_density = sum(density)/(length(unique(transect))), 
+            mean_abundance = sum(count)/(length(unique(transect))),
+            fish_richness = mean(n_distinct(fish_spp)),
             shan_diversity = diversity(table(fish_spp), index = "shannon"))
 
 ggplot(fish_df2, aes(mean_biomass, mean_density)) +
@@ -269,40 +269,50 @@ png(file=file.path(output_directory, "summary_boxplots_FIGURE_2.png"), height = 
   theme(plot.tag = element_text(size = 30, face = "bold"))
 dev.off()
 
+
+############################################################################################
+#################### GAMs of benthic and fish response over time ###########################
+
+cover2 <- na.omit(cover2)
+cover2$Site_Name <- as.factor(cover2$Site_Name)
+
 hist(coral_cover_df$Perc_cover)
-m1 <- gam(round(Perc_cover) ~ s(as.numeric(Year)), data = cover2, family = poisson())
+m1 <- mgcv::gam(round(Perc_cover) ~ s(as.numeric(Year)) + s(Site_Name, bs = "re"), data = cover2, family = poisson())
 summary(m1)
 check_model(m1)
 m1sum <- summary(m1)
 
 hist(algae_df$prop_macro)
-m2 <- gam(round(prop_macro*100) ~ s(as.numeric(Year)), data = algae2, family = poisson())
+algae2$Site_Name <- as.factor(algae2$Site_Name)
+m2 <- gam(round(prop_macro*100) ~ s(as.numeric(Year))  + s(Site_Name, bs = "re"), data = algae2, family = poisson())
 summary(m2)
 check_model(m2)
 m2sum <- summary(m2)
 
 hist(recruits_df$total)
-m3 <- gam(round(total) ~ s(as.numeric(Year)), data = recruits2, family = poisson())
+recruits2$Site_Name <- as.factor(recruits2$Site_Name)
+m3 <- gam(round(total) ~ s(as.numeric(Year)) + s(Site_Name, bs = "re"), data = recruits2, family = poisson())
 summary(m3)
 check_model(m3)
 m3sum <- summary(m3)
 
 hist(coral_df2$mean_SA)
 hist(log1p(coral_df2$mean_SA))
-m4 <- gam(log1p(mean_SA) ~s(as.numeric(Year)), data = coral_df2, family = gaussian())
+coral_df2$Site <- as.factor(coral_df2$Site)
+m4 <- gam(log1p(mean_SA) ~s(as.numeric(Year)) + s(Site, bs = "re"), data = coral_df2, family = gaussian())
 summary(m4)
 check_model(m4)
 m4sum <- summary(m4)
 
 hist(coral_df2$genus_richness)
 shapiro.test(coral_df2$genus_richness)
-m5 <- gam(genus_richness ~ s(as.numeric(Year)), data = coral_df2, family = poisson())
+m5 <- gam(genus_richness ~ s(as.numeric(Year)) + s(Site, bs = "re"), data = coral_df2, family = poisson())
 summary(m5)
 check_model(m5)
 m5sum <- summary(m5)
 
 hist(coral_df2$shan_diversity_genus)
-m6 <- gam(round(shan_diversity_genus*10) ~ s(as.numeric(Year)), data = coral_df2, family = poisson())
+m6 <- gam(round(shan_diversity_genus*10) ~ s(as.numeric(Year)) + s(Site, bs = "re"), data = coral_df2, family = poisson())
 summary(m6)
 check_model(m6)
 m6sum <- summary(m6)
@@ -310,25 +320,143 @@ m6sum <- summary(m6)
 hist(fish_df2$mean_biomass)
 hist(log1p(fish_df2$mean_biomass))
 shapiro.test(log1p(fish_df2$mean_biomass))
-m7 <- gam(mean_biomass ~ s(as.numeric(year)), data = fish_df2, family = gaussian())
+fish_df2$site <- as.factor(fish_df2$site)
+m7 <- gam(mean_biomass ~ s(as.numeric(year)) + s(site, bs = "re"), data = fish_df2, family = gaussian())
 summary(m7)
 check_model(m7)
 m7sum <- summary(m7)
 
 hist(fish_df2$fish_richness)
-m8 <- gam(fish_richness ~ s(as.numeric(year)), data = fish_df2, family = poisson())
+m8 <- gam(fish_richness ~ s(as.numeric(year)) + s(site, bs = "re"), data = fish_df2, family = poisson())
 summary(m8)
 check_model(m8)
 m8sum <- summary(m8)
 
 hist(fish_df2$shan_diversity)
-m9 <- gam(round(shan_diversity*10) ~ s(as.numeric(year)), data = fish_df2, family = poisson())
+m9 <- gam(round(shan_diversity*10) ~ s(as.numeric(year)) + s(site, bs = "re"), data = fish_df2, family = poisson())
 summary(m9)
 check_model(m9)
 m9sum <-summary(m9)
 
-
 msumbind <- rbind(m1sum$s.table, m2sum$s.table, m3sum$s.table, m4sum$s.table, m5sum$s.table, m6sum$s.table, m7sum$s.table, m8sum$s.table, m9sum$s.table)
 msumbind <- data.frame(msumbind)
 
+# note for which model is which 
+model_values <- c(
+  "coral cover", "coral cover", 
+  "macroalgae cover", "macroalgae cover", 
+  "recruits", "recruits", 
+  "coral SA", "coral SA", 
+  "genus richness", "genus richness", 
+  "genus diversity", "genus diversity", 
+  "fish biomass", "fish biomass", 
+  "fish richness", "fish richness", 
+  "fish diversity", "fish diversity"
+)
+msumbind$model <- model_values
+
+# add dev.expl explained 
+m1sum$dev.expl
+de_values <- rbind(m1sum$dev.expl, m2sum$dev.expl, m3sum$dev.expl, m4sum$dev.expl, m5sum$dev.expl, m6sum$dev.expl, m7sum$dev.expl, m8sum$dev.expl, m9sum$dev.expl)
+de_rep <- rep(de_values, each = 2)
+
+msumbind$deviance <- de_rep
+
 write.csv(msumbind, file=file.path(output_directory, "S_table.csv"))
+
+
+
+############################################################################################
+####################### fish summary boxplots for trophic groups ###########################
+
+
+names(fish_df)
+table(fish_df$foodweb)
+
+
+fish_df3 <- fish_df %>%
+  group_by(year, site, observer, mpa, foodweb) %>%
+  summarise(mean_biomass = sum(biomass)/(length(unique(transect))),
+            mean_density = sum(density)/(length(unique(transect))), 
+            mean_abundance = sum(count)/(length(unique(transect))),
+            fish_richness = mean(n_distinct(fish_spp)),
+            shan_diversity = diversity(table(fish_spp), index = "shannon"))
+
+
+p11 <- ggplot(fish_df3, aes(year, log1p(mean_biomass/1000))) +
+  geom_boxplot() +
+  ylab("Mean biomass (kg)") +
+  geom_smooth(method="loess", color = "#952ea0", size = 1.5, aes(group=1)) +
+  my_theme +
+  theme(axis.text.x = element_blank(),
+        axis.title.x = element_blank()) +
+  theme(plot.title = element_text(size = 26, face = "bold", hjust = .5)) +
+  facet_wrap(~ foodweb)
+p11
+
+p12 <- ggplot(fish_df3, aes(year, fish_richness)) +
+  geom_boxplot() +
+  geom_smooth(method="loess", color = "#952ea0", size = 1.5, aes(group=1)) +
+  ylab("Fish species richness (n)") +
+  my_theme +
+  theme(axis.text.x = element_blank(),
+        axis.title.x = element_blank()) +
+  facet_wrap(~ foodweb)
+p12
+
+p13 <- ggplot(fish_df3, aes(year, shan_diversity)) +
+  geom_boxplot() +
+  geom_smooth(method="loess", color = "#952ea0", size = 1.5, aes(group=1)) +
+  ylab("Fish species diversity (Shannon)") +
+  my_theme +
+  theme(axis.text.x = element_text(angle = 45, hjust = .5, vjust=.5)) +
+  facet_wrap(~ foodweb)
+p13
+
+png(file=file.path(output_directory,"/Supplementary/", "trophic_boxplots.png"), height = 5000, width = 3000, res = 350)
+(p11/p12/p13) + plot_annotation(tag_levels = "A") &
+  theme(plot.tag = element_text(size = 30, face = "bold"))
+dev.off()
+
+# and for parrotfish  
+
+fish_df3 <- fish_df %>%
+  group_by(year, site, observer, mpa, common_family) %>%
+  summarise(mean_biomass = sum(biomass)/(length(unique(transect))),
+            mean_density = sum(density)/(length(unique(transect))), 
+            mean_abundance = sum(count)/(length(unique(transect))),
+            fish_richness = mean(n_distinct(fish_spp)),
+            shan_diversity = diversity(table(fish_spp), index = "shannon"))
+
+p14 <- ggplot(subset(fish_df3, common_family == "Parrotfish"), aes(year, mean_biomass/1000)) +
+  geom_boxplot() +
+  ylab("Mean biomass (kg)") +
+  geom_smooth(method="loess", color = "#952ea0", size = 1.5, aes(group=1)) +
+  my_theme +
+  theme(axis.text.x = element_blank(),
+        axis.title.x = element_blank()) +
+  theme(plot.title = element_text(size = 26, face = "bold", hjust = .5)) 
+p14
+
+
+p15 <- ggplot(subset(fish_df3, common_family == "Parrotfish"), aes(year, fish_richness)) +
+  geom_boxplot() +
+  geom_smooth(method="loess", color = "#952ea0", size = 1.5, aes(group=1)) +
+  ylab("Fish species richness (n)") +
+  my_theme +
+  theme(axis.text.x = element_blank(),
+        axis.title.x = element_blank()) 
+p15
+
+p16 <- ggplot(subset(fish_df3, common_family == "Parrotfish"), aes(year, shan_diversity)) +
+  geom_boxplot() +
+  geom_smooth(method="loess", color = "#952ea0", size = 1.5, aes(group=1)) +
+  ylab("Fish species diversity (Shannon)") +
+  my_theme +
+  theme(axis.text.x = element_text(angle = 45, hjust = .5, vjust=.5)) 
+p16
+
+png(file=file.path(output_directory,"/Supplementary/", "parrotfish_boxplots.png"), height = 5000, width = 3000, res = 350)
+(p14/p15/p16) + plot_annotation(tag_levels = "A") &
+  theme(plot.tag = element_text(size = 30, face = "bold"))
+dev.off()

@@ -58,13 +58,13 @@ colnames(fish_df)[2] <- "Year"
 fish_df <- fish_df[!is.na(fish_df$fish_spp),]
 fish_df <- fish_df[!is.na(fish_df$count),]
 
-fish_df <- mutate(fish_df,
-                  foodweb = case_when(
-                    fish_spp == "Sparisoma aurofrenatum" | fish_spp == "Sparisoma viride" ~ "Herbivore",
+#fish_df <- mutate(fish_df,
+#                  foodweb = case_when(
+#                    fish_spp == "Sparisoma aurofrenatum" | fish_spp == "Sparisoma viride" ~ "Herbivore",
                     # Add more species and corresponding food webs as needed
-                    TRUE ~ foodweb  # Keep the original 'foodweb' for other species
-                  )
-)
+#                    TRUE ~ foodweb  # Keep the original 'foodweb' for other species
+#                  )
+#)
 
 ##########################################################################################
 ############################## matrix of coral genera ####################################
@@ -97,7 +97,8 @@ replacement_rules <- list(
   "Mycetophellia" = "Mycetophyllia",
   "scolymia" = "Scolymia",
   "SHYA" = "Solenastrea",
-  "Leptoseris" = "Helioseris"
+  "Leptoseris" = "Helioseris",
+  "Millepora" = NA
 )
 
 # Apply the replacement rules using gsub
@@ -105,6 +106,7 @@ coral_raw_df$Coral_genus <- gsub(pattern = paste(names(replacement_rules), colla
                         replacement = unname(replacement_rules),
                         x = coral_raw_df$Coral_genus)
 
+table(coral_raw_df$Coral_genus)
 
 df2 <- coral_raw_df %>%
   group_by(Year, Site_Name, Coral_genus) %>%
@@ -125,7 +127,6 @@ df2 <- df2 %>%
   filter(!(Coral_genus %in% c("Mussa", "Oculina", "Scolymia", "Manicina")))
 
 
-
 df3 <- df2 %>%
   pivot_wider(names_from = Coral_genus, values_from = total_abundance)
 
@@ -138,7 +139,9 @@ df3[is.na(df3)] <- 0
 
 fish_env <- fish_df %>% 
   group_by(Year, Site_Name, foodweb) %>%
-  summarise(mean_biomass=mean(biomass))
+  summarise(mean_biomass=sum(biomass)/length(unique(transect)))
+
+#fish_env$mean_biomass <- scale(fish_env$mean_biomass)
 
 fish_wide <- fish_env %>%
   pivot_wider(names_from = foodweb, values_from = mean_biomass)
@@ -150,10 +153,10 @@ fish_wide <- fish_env %>%
 match_df <- left_join(df3, fish_wide, by =c("Site_Name", "Year"))
 match_df <- na.omit(match_df)
 
-coral_mat <- match_df[,3:21]
+coral_mat <- match_df[,3:20]
 coral_hellinger <- decostand(coral_mat, method = "hellinger")
 
-my_rda <- rda(coral_hellinger ~ Carnivore + Corallivore + Herbivore + Omnivore, data = match_df)
+my_rda <- rda(coral_hellinger ~ carnivore + corallivore + HMD + invertivore, data = match_df)
 summary(my_rda)
 
 plot(my_rda, type = "n", scaling = "none")
@@ -177,12 +180,15 @@ plot_datagenus1 <- data.frame(
 plot_datagenus2 <- data.frame(
   predictor1 = scores(my_rda, display = "bp")[, 1],
   predictor2 = scores(my_rda, display = "bp")[, 2],
-  guild = c("Carnivore", "Corallivore", "Herbivore", "Omnivore")  # Add your trophic guilds here
+  guild = c("Carnivore", "Corallivore", "HMD", "Invertivore")  # Add your trophic guilds here
 )
 
-plot_datagenus2 <- do.call(rbind, c(list(plot_datagenus2), lapply(1:15, function(x) setNames(rep(NA, ncol(plot_datagenus2)), names(plot_datagenus2)))))
+plot_datagenus2 <- do.call(rbind, c(list(plot_datagenus2), lapply(1:14, function(x) setNames(rep(NA, ncol(plot_datagenus2)), names(plot_datagenus2)))))
 
 plot_genus <- cbind(plot_datagenus1, plot_datagenus2)
+
+fishualize("Gramma_loreto", n=5)
+fishualize::fish(option="Gramma_loreto", n=5)
 
 # Create a ggplot scatter plot
 p1 <- ggplot(plot_genus, aes(x, y)) +
@@ -191,7 +197,9 @@ p1 <- ggplot(plot_genus, aes(x, y)) +
   labs(title = "", x="RDA 1", y="RDA 2") +
   theme(legend.position = "none") +
   theme_classic() +
-  my_theme
+  my_theme + 
+  xlim(c(-.8,1))
+p1
 
 library(ggrepel)
 
@@ -199,14 +207,14 @@ library(ggrepel)
 p1 <- p1 + geom_segment(
   aes(x = 0, y = 0, xend = predictor1, yend = predictor2),
   arrow = arrow(length = unit(0.2, "cm")),
-  color = "red4", size = 1
+  color = "#020122FF", size = 1
 ) +
   #geom_text_repel(aes(label = species), vjust = -0.5, hjust = -0.5, size = 5, color = "navy", box.padding = 0.5, point.padding = 0.1, min.segment.length=1, max.overlaps = 10) +
-  geom_text(aes(label = species), vjust = -.3, hjust = .1, size = 5, color = "navy") +
-  geom_label(aes(x = predictor1, y = predictor2, label = guild), size = 3, color = "red4", fontface = "bold", hjust =1.2, vjust=1)
+  geom_text_repel(aes(label = species), vjust = 0, hjust = 0, size = 5, color = "#E3386AFF", segment.color = "transparent") +
+  geom_label(aes(x = predictor1, y = predictor2, label = guild), size = 4, color = "#020122FF", fontface = "bold", hjust =.1, vjust=.1)
 
 p1
-
+geom_text_repel()
 ##########################################################################################
 ########################### same for coral growth forms ##################################
 
@@ -244,7 +252,7 @@ growthmatch_df <- na.omit(growthmatch_df)
 growth_mat <- growthmatch_df[,3:5]
 growth_hellinger <- decostand(growth_mat, method = "hellinger")
 
-growth_rda <- rda(growth_hellinger ~ Carnivore + Corallivore + Herbivore + Omnivore, data = growthmatch_df)
+growth_rda <- rda(growth_hellinger ~ carnivore + corallivore + HMD + invertivore, data = growthmatch_df)
 summary(growth_rda)
 
 # check plot
@@ -268,7 +276,7 @@ plot_data2 <- data.frame(
 plot_data3 <- data.frame(
   predictor1 = scores(my_rda, display = "bp")[, 1],
   predictor2 = scores(my_rda, display = "bp")[, 2],
-  guild = c("Carnivore", "Corallivore", "Herbivore", "Omnivore")  # Add your trophic guilds here
+  guild = c("Carnivore", "Corallivore", "HMD", "Invertivore")  # Add your trophic guilds here
 )
 
 plot_data2 <- rbind(plot_data2, rep(NA, ncol(plot_data2)))
@@ -284,7 +292,8 @@ p2 <- ggplot(df99, aes(x, y)) +
   labs(title = "", x="RDA 1", y="RDA 2") +
   theme(legend.position = "none") +
   theme_classic() +
-  my_theme
+  my_theme + 
+  xlim(c(-1,1))
 
 p2
 
@@ -293,13 +302,14 @@ p2
 p2 <- p2 + geom_segment(
   aes(x = 0, y = 0, xend = predictor1, yend = predictor2),
   arrow = arrow(length = unit(0.2, "cm")),
-  color = "red4", size = 1
+  color = "#020122FF", size = 1
 ) +
-  geom_text(aes(label = species), size = 8, color = "navy", vjust = 0.5, hjust = 0.2) +
-  geom_label(aes(x = predictor1, y = predictor2, label = guild), size = 3, color = "red4", fontface = "bold", hjust =1.1, vjust=.5)
+  geom_text(aes(label = species), size = 8, color = "#E3386AFF", vjust = 0, hjust = 0) +
+  geom_label(aes(x = predictor1, y = predictor2, label = guild), size = 4, color = "#020122FF", fontface = "bold", hjust =.1, vjust=.1) 
+
 p2
 
-png(file=file.path(output_directory, "RDA_genera_LH_FIGURE.png"), height = 2500, width = 5500, res = 350)
-p1 + p2 + plot_annotation(tag_levels = "A")  &
+png(file=file.path(output_directory, "RDA_genera_LH_FIGURE.png"), height = 2500, width = 5000, res = 350)
+(p1 + p2) + plot_annotation(tag_levels = "A")  &
   theme(plot.tag = element_text(size = 30, face = "bold"))
 dev.off()

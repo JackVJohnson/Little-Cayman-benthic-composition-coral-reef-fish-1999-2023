@@ -59,13 +59,13 @@ colnames(fish_df)[2] <- "Year"
 fish_df <- fish_df[!is.na(fish_df$fish_spp),]
 fish_df <- fish_df[!is.na(fish_df$count),]
 
-fish_df <- mutate(fish_df,
-                  foodweb = case_when(
-                    fish_spp == "Sparisoma aurofrenatum" | fish_spp == "Sparisoma viride" ~ "Herbivore",
+#fish_df <- mutate(fish_df,
+#                  foodweb = case_when(
+#                    fish_spp == "Sparisoma aurofrenatum" | fish_spp == "Sparisoma #viride" ~ "Herbivore",
                     # Add more species and corresponding food webs as needed
-                    TRUE ~ foodweb  # Keep the original 'foodweb' for other species
-                  )
-)
+#                    TRUE ~ foodweb  # Keep the original 'foodweb' for other species
+#                  )
+#)
 
 ##########################################################################################
 ############################## matrix of coral genera ####################################
@@ -138,7 +138,7 @@ coral_heatmap <- ggplot(coral_genusabundance , aes(x = reorder(Coral_genus, Abun
 
 Supplementary <- "Supplementary"
 
-png(file=file.path(output_directory, Supplementary, "coral_species_heatmap.png"), height = 2500, width = 5500, res = 350)
+png(file=file.path(output_directory, Supplementary, "coral_species_heatmap.png"), height = 2500, width = 4500, res = 350)
 coral_heatmap
 dev.off()
 
@@ -215,3 +215,13 @@ foodweb_heatmap
 png(file=file.path(output_directory, Supplementary, "foodweb_heatmap.png"), height = 1500, width = 3000, res = 350)
 foodweb_heatmap
 dev.off()
+
+supp_trophic_table <- fish_df %>%
+  group_by(foodweb) %>%
+  summarise(species = unique(fish_spp)) 
+
+supp_trophic_table <- fish_df %>%
+  group_by(foodweb, fish_spp) %>%
+  summarise(count = sum(count))
+
+summary(coral_raw_df$Depth)

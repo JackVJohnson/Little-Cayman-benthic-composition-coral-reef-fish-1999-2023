@@ -71,13 +71,13 @@ colnames(fish_df)[2] <- "Year"
 fish_df <- fish_df[!is.na(fish_df$fish_spp),]
 fish_df <- fish_df[!is.na(fish_df$count),]
 
-fish_df <- mutate(fish_df,
-                  foodweb = case_when(
-                    fish_spp == "Sparisoma aurofrenatum" | fish_spp == "Sparisoma viride" ~ "Herbivore",
+#fish_df <- mutate(fish_df,
+#                  foodweb = case_when(
+#                    fish_spp == "Sparisoma aurofrenatum" | fish_spp == "Sparisoma viride" ~ "Herbivore",
                     # Add more species and corresponding food webs as needed
-                    TRUE ~ foodweb  # Keep the original 'foodweb' for other species
-                  )
-)
+#                    TRUE ~ foodweb  # Keep the original 'foodweb' for other species
+#                  )
+#)
 
 coral_cover_df <- coral_cover_df[!is.na(coral_cover_df$Perc_cover),]
 
@@ -94,11 +94,13 @@ test <- diversity(mat1)
 
 fish_sum_df <- fish_df %>%
   group_by(Year,Site_Name) %>%
-  summarise(mean_biomass = mean(biomass), 
+  summarise(mean_biomass = sum(biomass)/(length(unique(transect))), 
             sum_biomass = sum(biomass),
             richness = n_distinct(fish_spp),
             sum_abundance = sum(count),
-            mean_abundance = mean(count))
+            mean_abundance = sum(count)/length(unique(transect)))
+
+summary(fish_sum_df$mean_biomass)
 
 fish_sum_df$shannon_div <- test
 
@@ -178,7 +180,7 @@ hist(df_m1$mean_coral_cover)
 hist(df_m1$mean_macroalgae_cover*100)
 hist(scale(df_m1$mean_SA))
 
-m_fishfromcoral <- brm(mvbind(round(mean_biomass), round(shannon_div*100), richness) ~ scale(mean_coral_cover) + scale(mean_macroalgae_cover*100) + scale(mean_SA) + (1|Site_Name),
+m_fishfromcoral <- brm(mvbind(round(mean_biomass), round(shannon_div*100), richness) ~ scale(mean_coral_cover) + scale(mean_macroalgae_cover*100) + scale(mean_SA) + (1|Site_Name) + (1|Year),
                    data = df_m1,
                    family = negbinomial(),
                    warmup = 1500,
@@ -207,9 +209,9 @@ coral_fish_df <- master_df[,c(1:9)]
 coral_fish_df <- coral_fish_df[!is.na(coral_fish_df$mean_coral_cover),]
 hist(coral_fish_df$mean_coral_cover)
 
-prior_CoralFish <- get_prior(mean_coral_cover/100 ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name), data = coral_fish_df, family = "beta")
+prior_CoralFish <- get_prior(mean_coral_cover/100 ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name) + (1|Year), data = coral_fish_df, family = "beta")
 
-m_CoralFish <- brm(mean_coral_cover/100 ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name),
+m_CoralFish <- brm(mean_coral_cover/100 ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name) + (1|Year),
                    data = coral_fish_df,
                    family = "beta",
                    warmup = 1000,
@@ -233,9 +235,9 @@ algae_fish_df <- master_df[,c(1:8,10)]
 algae_fish_df <- algae_fish_df[!is.na(algae_fish_df$mean_macroalgae_cover),]
 hist(algae_fish_df$mean_macroalgae_cover)
 
-prior_algaeFish <- get_prior(mean_macroalgae_cover ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name), data = algae_fish_df, family = "beta")
+prior_algaeFish <- get_prior(mean_macroalgae_cover ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name) +(1|Year), data = algae_fish_df, family = "beta")
 
-m_algaeFish <- brm(mean_macroalgae_cover ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name),
+m_algaeFish <- brm(mean_macroalgae_cover ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name) + (1|Year),
                    data = algae_fish_df,
                    family = "beta",
                    warmup = 1000,
@@ -260,9 +262,9 @@ coral_SA_fish_df <- coral_SA_fish_df[!is.na(coral_SA_fish_df$mean_SA),]
 hist(coral_SA_fish_df$mean_SA)
 hist(log1p(coral_SA_fish_df$mean_SA))
 
-prior_coral_SAFish <- get_prior(log1p(mean_SA) ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name), data = coral_SA_fish_df, family = gaussian())
+prior_coral_SAFish <- get_prior(log1p(mean_SA) ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name) + (1|Year), data = coral_SA_fish_df, family = gaussian())
 
-m_coral_SAFish <- brm(log1p(mean_SA) ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name),
+m_coral_SAFish <- brm(log1p(mean_SA) ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name) + (1|Year),
                    data = coral_SA_fish_df,
                    family = gaussian(),
                    warmup = 1000,
@@ -284,9 +286,9 @@ recruits_fish_df <- master_df[,c(1:8,11)]
 recruits_fish_df <- recruits_fish_df[!is.na(recruits_fish_df$total_recruits),]
 hist(recruits_fish_df$total_recruits)
 
-prior_recruitsFish <- get_prior(total_recruits ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name), data = recruits_fish_df, family = negbinomial())
+prior_recruitsFish <- get_prior(total_recruits ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name) + (1|Year), data = recruits_fish_df, family = negbinomial())
 
-m_recruitsFish <- brm(total_recruits ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name),
+m_recruitsFish <- brm(total_recruits ~ scale(richness) + scale(mean_biomass) + scale(shannon_div) + (1|Site_Name) + (1|Year),
                       data = recruits_fish_df,
                       family = negbinomial(),
                       warmup = 1000,
@@ -305,12 +307,13 @@ pp_check(m_recruitsFish)
 #####################################################################################
 ########################### Influence of herbivores  ################################
 
-herb_df <-subset(fish_df, foodweb == "Herbivore")
+herb_df <-subset(fish_df, foodweb == "HMD")
 herb_sum_df <- herb_df %>%
   group_by(Year,Site_Name) %>%
-  summarise(herb_biomass = mean(biomass), 
+  summarise(herb_biomass = sum(biomass)/length(unique(transect)), 
             herb_richness = n_distinct(fish_spp))
 
+summary(herb_sum_df$herb_biomass)
 
 herb_df <- herb_df[!is.na(herb_df$fish_spp),]
 herb_df <- herb_df[!is.na(herb_df$count),]
@@ -337,11 +340,11 @@ herb_coral_df <- master_df[,c(1,2,9,14:16)]
 herb_coral_df <- na.omit(herb_coral_df)
 hist(herb_coral_df$mean_coral_cover)
 
-prior_herbcoral <- get_prior(mean_coral_cover/100 ~ scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + (1|Site_Name), data = herb_coral_df, family = "beta")
+prior_herbcoral <- get_prior(mean_coral_cover/100 ~ scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + (1|Site_Name) +(1|Year), data = herb_coral_df, family = "beta")
 
 m_herbcoral <- brm(mean_coral_cover/100 ~ 
                      scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + 
-                     (1|Site_Name), 
+                     (1|Site_Name) + (1|Year), 
                       data = herb_coral_df, 
                       family = "beta",
                       warmup = 1000,
@@ -363,11 +366,11 @@ herb_algae_df <- master_df[,c(1,2,10,14:16)]
 herb_algae_df <- na.omit(herb_algae_df)
 hist(herb_algae_df$mean_macroalgae_cover)
 
-prior_herbalgae <- get_prior(mean_macroalgae_cover ~ scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + (1|Site_Name), data = herb_algae_df, family = "beta")
+prior_herbalgae <- get_prior(mean_macroalgae_cover ~ scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + (1|Site_Name) +(1|Year), data = herb_algae_df, family = "beta")
 
 m_herbalgae <- brm(mean_macroalgae_cover ~ 
                      scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + 
-                     (1|Site_Name), 
+                     (1|Site_Name) + (1|Year), 
                    data = herb_algae_df, 
                    family = "beta",
                    warmup = 1000,
@@ -389,11 +392,11 @@ herb_recruits_df <- master_df[,c(1,2,11,14:16)]
 herb_recruits_df <- na.omit(herb_recruits_df)
 hist(herb_recruits_df$total_recruits)
 
-prior_herbrecruits <- get_prior(total_recruits ~ scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + (1|Site_Name), data = herb_recruits_df, family = negbinomial())
+prior_herbrecruits <- get_prior(total_recruits ~ scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + (1|Site_Name) + (1|Year), data = herb_recruits_df, family = negbinomial())
 
 m_herbrecruits <- brm(total_recruits ~ 
                      scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + 
-                     (1|Site_Name), 
+                     (1|Site_Name) + (1|Year), 
                    data = herb_recruits_df, 
                    family = negbinomial(),
                    warmup = 1000,
@@ -418,11 +421,11 @@ herb_SA_df <- na.omit(herb_SA_df)
 hist(herb_SA_df$mean_SA)
 hist(log1p(herb_SA_df$mean_SA))
 
-prior_herbSA <- get_prior(log1p(mean_SA) ~ scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + (1|Site_Name), data = herb_SA_df, family = gaussian())
+prior_herbSA <- get_prior(log1p(mean_SA) ~ scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + (1|Site_Name) + (1|Year), data = herb_SA_df, family = gaussian())
 
 m_herbSA <- brm(log1p(mean_SA) ~ 
                         scale(herb_richness) + scale(herb_biomass) + scale(herb_shannon) + 
-                        (1|Site_Name), 
+                        (1|Site_Name) + (1|Year), 
                       data = herb_SA_df, 
                       family = gaussian(),
                       warmup = 1000,
@@ -438,7 +441,6 @@ mcmc_plot(m_herbSA, type = "trace")
 mcmc_plot(m_herbSA, var = c("b_scaleherb_richness", "b_scaleherb_biomass", "b_scaleherb_shannon"))
 pp_check(m_herbSA)
 
-conditional_effects(m_herbSA)
 
 #####################################################################################
 ############################### Parrotfish only #####################################
@@ -446,9 +448,10 @@ conditional_effects(m_herbSA)
 parrot_df <-subset(fish_df, common_family == "Parrotfish")
 parrot_sum_df <- parrot_df %>%
   group_by(Year,Site_Name) %>%
-  summarise(parrot_biomass = mean(biomass), 
-            parrot_richness = n_distinct(fish_spp))
+  summarise(parrot_biomass = sum(biomass)/length(unique(transect)), 
+            parrot_richness =n_distinct(fish_spp))
 
+summary(parrot_sum_df$parrot_biomass)
 
 parrot_df <- parrot_df[!is.na(parrot_df$fish_spp),]
 parrot_df <- parrot_df[!is.na(parrot_df$count),]
@@ -476,11 +479,11 @@ parrot_coral_df <- master_df[,c(1,2,9,17:19)]
 parrot_coral_df <- na.omit(parrot_coral_df)
 hist(parrot_coral_df$mean_coral_cover)
 
-prior_parrotcoral <- get_prior(mean_coral_cover/100 ~ scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + (1|Site_Name), data = parrot_coral_df, family = "beta")
+prior_parrotcoral <- get_prior(mean_coral_cover/100 ~ scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + (1|Site_Name) + (1|Year), data = parrot_coral_df, family = "beta")
 
 m_parrotcoral <- brm(mean_coral_cover/100 ~ 
                      scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + 
-                     (1|Site_Name), 
+                     (1|Site_Name) + (1|Year), 
                    data = parrot_coral_df, 
                    family = "beta",
                    warmup = 1000,
@@ -502,11 +505,11 @@ parrot_algae_df <- master_df[,c(1,2,10,17:19)]
 parrot_algae_df <- na.omit(parrot_algae_df)
 hist(parrot_algae_df$mean_macroalgae_cover)
 
-prior_parrotalgae <- get_prior(mean_macroalgae_cover ~ scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + (1|Site_Name), data = parrot_algae_df, family = "beta")
+prior_parrotalgae <- get_prior(mean_macroalgae_cover ~ scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + (1|Site_Name) + (1|Year), data = parrot_algae_df, family = "beta")
 
 m_parrotalgae <- brm(mean_macroalgae_cover ~ 
                      scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + 
-                     (1|Site_Name), 
+                     (1|Site_Name) + (1|Year), 
                    data = parrot_algae_df, 
                    family = "beta",
                    warmup = 1000,
@@ -528,11 +531,11 @@ parrot_recruits_df <- master_df[,c(1,2,11,17:19)]
 parrot_recruits_df <- na.omit(parrot_recruits_df)
 hist(parrot_recruits_df$total_recruits)
 
-prior_parrotrecruits <- get_prior(total_recruits ~ scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + (1|Site_Name), data = parrot_recruits_df, family = negbinomial())
+prior_parrotrecruits <- get_prior(total_recruits ~ scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + (1|Site_Name) + (1|Year), data = parrot_recruits_df, family = negbinomial())
 
 m_parrotrecruits <- brm(total_recruits ~ 
                         scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + 
-                        (1|Site_Name), 
+                        (1|Site_Name) + (1|Year), 
                       data = parrot_recruits_df, 
                       family = negbinomial(),
                       warmup = 1000,
@@ -557,11 +560,11 @@ parrot_SA_df <- na.omit(parrot_SA_df)
 hist(parrot_SA_df$mean_SA)
 hist(log1p(parrot_SA_df$mean_SA))
 
-prior_parrotSA <- get_prior(log1p(mean_SA) ~ scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + (1|Site_Name), data = parrot_SA_df, family = gaussian())
+prior_parrotSA <- get_prior(log1p(mean_SA) ~ scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + (1|Site_Name) + (1|Year), data = parrot_SA_df, family = gaussian())
 
 m_parrotSA <- brm(log1p(mean_SA) ~ 
                   scale(parrot_richness) + scale(parrot_biomass) + scale(parrot_shannon) + 
-                  (1|Site_Name), 
+                  (1|Site_Name) + (1|Year), 
                 data = parrot_SA_df, 
                 family = gaussian(),
                 warmup = 1000,
@@ -584,12 +587,15 @@ bayes_R2(m_parrotSA)
 #####################################################################################
 ################################# Corallivores ######################################
 
-corallivore_df <-subset(fish_df, foodweb == "Corallivore")
+corallivore_df <-subset(fish_df, foodweb == "corallivore")
 corallivore_sum_df <- corallivore_df %>%
   group_by(Year,Site_Name) %>%
-  summarise(corallivore_biomass = mean(biomass), 
+  summarise(corallivore_biomass = sum(biomass)/length(unique(transect)), 
             corallivore_richness = n_distinct(fish_spp))
 
+
+summary(corallivore_sum_df$corallivore_biomass)
+summary(corallivore_sum_df$corallivore_richness)
 
 corallivore_df <- corallivore_df[!is.na(corallivore_df$fish_spp),]
 corallivore_df <- corallivore_df[!is.na(corallivore_df$count),]
@@ -617,11 +623,11 @@ corallivore_coral_df <- master_df[,c(1,2,9,20:22)]
 corallivore_coral_df <- na.omit(corallivore_coral_df)
 hist(corallivore_coral_df$mean_coral_cover)
 
-prior_corallivorecoral <- get_prior(mean_coral_cover/100 ~ scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + (1|Site_Name), data = corallivore_coral_df, family = "beta")
+prior_corallivorecoral <- get_prior(mean_coral_cover/100 ~ scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + (1|Site_Name) + (1|Year), data = corallivore_coral_df, family = "beta")
 
 m_corallivorecoral <- brm(mean_coral_cover/100 ~ 
                        scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + 
-                       (1|Site_Name), 
+                       (1|Site_Name) + (1|Year), 
                      data = corallivore_coral_df, 
                      family = "beta",
                      warmup = 1000,
@@ -643,11 +649,11 @@ corallivore_algae_df <- master_df[,c(1,2,10,20:22)]
 corallivore_algae_df <- na.omit(corallivore_algae_df)
 hist(corallivore_algae_df$mean_macroalgae_cover)
 
-prior_corallivorealgae <- get_prior(mean_macroalgae_cover ~ scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + (1|Site_Name), data = corallivore_algae_df, family = "beta")
+prior_corallivorealgae <- get_prior(mean_macroalgae_cover ~ scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + (1|Site_Name) + (1|Year), data = corallivore_algae_df, family = "beta")
 
 m_corallivorealgae <- brm(mean_macroalgae_cover ~ 
                        scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + 
-                       (1|Site_Name), 
+                       (1|Site_Name) + (1|Year), 
                      data = corallivore_algae_df, 
                      family = "beta",
                      warmup = 1000,
@@ -669,11 +675,11 @@ corallivore_recruits_df <- master_df[,c(1,2,11,20:22)]
 corallivore_recruits_df <- na.omit(corallivore_recruits_df)
 hist(corallivore_recruits_df$total_recruits)
 
-prior_corallivorerecruits <- get_prior(total_recruits ~ scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + (1|Site_Name), data = corallivore_recruits_df, family = negbinomial())
+prior_corallivorerecruits <- get_prior(total_recruits ~ scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + (1|Site_Name) + (1|Year), data = corallivore_recruits_df, family = negbinomial())
 
 m_corallivorerecruits <- brm(total_recruits ~ 
                           scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + 
-                          (1|Site_Name), 
+                          (1|Site_Name) + (1|Year), 
                         data = corallivore_recruits_df, 
                         family = negbinomial(),
                         warmup = 1000,
@@ -698,11 +704,11 @@ corallivore_SA_df <- na.omit(corallivore_SA_df)
 hist(corallivore_SA_df$mean_SA)
 hist(log1p(corallivore_SA_df$mean_SA))
 
-prior_corallivoreSA <- get_prior(log1p(mean_SA) ~ scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + (1|Site_Name), data = corallivore_SA_df, family = gaussian())
+prior_corallivoreSA <- get_prior(log1p(mean_SA) ~ scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + (1|Site_Name) + (1|Year), data = corallivore_SA_df, family = gaussian())
 
 m_corallivoreSA <- brm(log1p(mean_SA) ~ 
                     scale(corallivore_richness) + scale(corallivore_biomass) + scale(corallivore_shannon) + 
-                    (1|Site_Name), 
+                    (1|Site_Name) + (1|Year), 
                   data = corallivore_SA_df, 
                   family = gaussian(),
                   warmup = 1000,
